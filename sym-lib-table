@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_Module_LattePanda")(type "KiCad")(uri "${KIPRJMOD}/Libraries/MCU_Module_LattePanda.kicad_sym")(options "")(descr ""))
+  (lib (name "Glasgow")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Glasgow.kicad_sym")(options "")(descr ""))
+  (lib (name "A_HDJ_Library")(type "KiCad")(uri "${KIPRJMOD}/Libraries/A_HDJ_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "2026-03-20_06-57-59")(type "KiCad")(uri "${KIPRJMOD}/Libraries/2026-03-20_06-57-59.kicad_sym")(options "")(descr ""))
+  (lib (name "2026-03-20_06-56-57")(type "KiCad")(uri "${KIPRJMOD}/Libraries/2026-03-20_06-56-57.kicad_sym")(options "")(descr ""))
+  (lib (name "capacitor_2026-03-20_15-40-24")(type "KiCad")(uri "${KIPRJMOD}/Libraries/capacitor_2026-03-20_15-40-24.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS25750DRJKR _2026-03-20_15-46-48")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TPS25750DRJKR _2026-03-20_15-46-48.kicad_sym")(options "")(descr ""))
+  (lib (name "TLV5533PDBVR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TLV5533PDBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "74437367047")(type "KiCad")(uri "${KIPRJMOD}/Libraries/74437367047.kicad_sym")(options "")(descr ""))
+  (lib (name "T520B107M006ATE015")(type "KiCad")(uri "${KIPRJMOD}/Libraries/T520B107M006ATE015.kicad_sym")(options "")(descr ""))
+)
