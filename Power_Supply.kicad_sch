@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "402f3add-97da-4115-b874-d8a73507cbee")
-	(paper "A2")
+	(paper "A1")
 	(lib_symbols
 		(symbol "2026-03-20_06-56-57:BQ25792RQMR"
 			(pin_names
@@ -8344,6 +8344,16 @@
 		)
 		(uuid "2469381f-d575-4306-9fc7-3505f1c3e1f2")
 	)
+	(label "SYS_GND"
+		(at 212.09 232.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "291e69c6-750c-4820-b817-1fa3ff718e15")
+	)
 	(label "LDO_3V3"
 		(at 138.43 283.21 180)
 		(effects
@@ -8433,6 +8443,16 @@
 			(justify right bottom)
 		)
 		(uuid "7128d8ae-fb80-44cc-9245-2b1ccb8d825a")
+	)
+	(label "SYS_CONNECT"
+		(at 212.09 229.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7203d9ef-53d6-4ffb-884b-5d6fc2a5832c")
 	)
 	(label "STAT"
 		(at 128.27 261.62 0)
@@ -8888,75 +8908,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/6ab392bb-0c5a-4b0d-a4a4-2c62db1aa129"
 					(reference "C71")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 217.17 229.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0cfa746a-f51e-4f83-a89d-d3136674bdc9")
-		(property "Reference" "J25"
-			(at 219.71 229.8699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SYSTEM GND"
-			(at 214.376 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 217.17 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 217.17 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c7d8cfce-9600-4638-a795-b1caf7406118")
-		)
-		(pin "1"
-			(uuid "7a4335f8-2848-44f7-8c90-fab4fdb32ea0")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/6ab392bb-0c5a-4b0d-a4a4-2c62db1aa129"
-					(reference "J25")
 					(unit 1)
 				)
 			)
@@ -15733,7 +15684,7 @@
 			)
 		)
 		(property "Value" "10uF 25V"
-			(at 193.548 234.95 0)
+			(at 194.818 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
