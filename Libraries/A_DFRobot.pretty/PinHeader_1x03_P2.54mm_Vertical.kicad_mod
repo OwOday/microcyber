@@ -1,0 +1,409 @@
+(footprint "PinHeader_1x03_P2.54mm_Vertical"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
+	(tags "Through hole pin header THT 1x03 2.54mm single row")
+	(property "Reference" "REF**"
+		(at -0.11 7.6 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "96cf33d3-8e0a-4889-a41e-5f88d9c167fb")
+		(effects
+			(font
+				(face "Roboto")
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+		(render_cache "REF**" 270
+			(polygon
+				(pts
+					(xy 118.158907 56.68856) (xy 118.155585 56.739457) (xy 118.146363 56.781285) (xy 118.132058 56.815601)
+					(xy 118.113038 56.843678) (xy 118.088309 56.866854) (xy 118.05857 56.883664) (xy 118.022795 56.894242)
+					(xy 117.979535 56.89801) (xy 117.943376 56.894539) (xy 117.911295 56.884467) (xy 117.882449 56.867858)
+					(xy 117.857566 56.845574) (xy 117.83699 56.817916) (xy 117.820606 56.784071) (xy 117.565946 56.924242)
+					(xy 117.561001 56.924242) (xy 117.561001 56.839795) (xy 117.803827 56.710285) (xy 117.803827 56.691014)
+					(xy 117.86816 56.691014) (xy 117.871848 56.728996) (xy 117.882127 56.759549) (xy 117.898459 56.784254)
+					(xy 117.920679 56.803352) (xy 117.947246 56.814875) (xy 117.979498 56.818912) (xy 118.014906 56.8149)
+					(xy 118.042548 56.803763) (xy 118.064238 56.785903) (xy 118.079938 56.76219) (xy 118.090184 56.731132)
+					(xy 118.094134 56.690611) (xy 118.094134 56.570114) (xy 117.86816 56.570114) (xy 117.86816 56.691014)
+					(xy 117.803827 56.691014) (xy 117.803827 56.570114) (xy 117.561001 56.570114) (xy 117.561001 56.491016)
+					(xy 118.158907 56.491016)
+				)
+			)
+			(polygon
+				(pts
+					(xy 117.836653 57.345744) (xy 117.836653 57.087127) (xy 117.625334 57.087127) (xy 117.625334 57.387546)
+					(xy 117.561001 57.387546) (xy 117.561001 57.008432) (xy 118.158907 57.008432) (xy 118.158907 57.383443)
+					(xy 118.094134 57.383443) (xy 118.094134 57.087127) (xy 117.900987 57.087127) (xy 117.900987 57.345744)
+				)
+			)
+			(polygon
+				(pts
+					(xy 117.824929 57.81469) (xy 117.824929 57.56428) (xy 117.561001 57.56428) (xy 117.561001 57.485585)
+					(xy 118.158907 57.485585) (xy 118.158907 57.855283) (xy 118.094134 57.855283) (xy 118.094134 57.56428)
+					(xy 117.889263 57.56428) (xy 117.889263 57.81469)
+				)
+			)
+			(polygon
+				(pts
+					(xy 117.965467 58.015824) (xy 118.002286 57.89203) (xy 118.064019 57.910897) (xy 118.018223 58.034692)
+					(xy 118.158907 58.030992) (xy 118.158907 58.093713) (xy 118.015439 58.08961) (xy 118.060648 58.211316)
+					(xy 117.998183 58.230184) (xy 117.960777 58.104338) (xy 117.849696 58.185524) (xy 117.811154 58.134673)
+					(xy 117.929197 58.058432) (xy 117.814048 57.984683) (xy 117.851344 57.933429)
+				)
+			)
+			(polygon
+				(pts
+					(xy 117.965467 58.377499) (xy 118.002286 58.253704) (xy 118.064019 58.272572) (xy 118.018223 58.396367)
+					(xy 118.158907 58.392666) (xy 118.158907 58.455388) (xy 118.015439 58.451285) (xy 118.060648 58.572991)
+					(xy 117.998183 58.591859) (xy 117.960777 58.466012) (xy 117.849696 58.547199) (xy 117.811154 58.496347)
+					(xy 117.929197 58.420107) (xy 117.814048 58.346358) (xy 117.851344 58.295104)
+				)
+			)
+		)
+	)
+	(property "Value" "Conn_01x03_Pin"
+		(at 0 7.41 0)
+		(layer "F.Fab")
+		(uuid "02c09799-a17b-49a4-be1b-5faa5ed985fe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a3e03a14-4f97-4a8f-8376-c9756ea92e07")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f7e50128-d0e4-4770-a8fa-7e0c75560fae")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DF_Comment" "2.54红色单排排针-3P"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "10c54f63-2dfa-43f9-a6d5-47eaf50821c8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field-1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f059e0b5-4ccb-4e80-9bf0-bf6680e32048")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.33 -1.33)
+		(end 0 -1.33)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4755649-5d88-4d91-85f2-b7d878434565")
+	)
+	(fp_line
+		(start -1.33 0)
+		(end -1.33 -1.33)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b5c8e059-3dd4-4660-8e06-38a9028140ff")
+	)
+	(fp_line
+		(start -1.33 1.27)
+		(end -1.33 6.41)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7e1462eb-0664-470f-acc6-c9e7861b38d4")
+	)
+	(fp_line
+		(start -1.33 1.27)
+		(end 1.33 1.27)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7585817b-0d6a-4cb3-82fd-85067cf8e208")
+	)
+	(fp_line
+		(start -1.33 6.41)
+		(end 1.33 6.41)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "00b32b89-4a6a-4430-ab1e-25012a8507da")
+	)
+	(fp_line
+		(start 1.33 1.27)
+		(end 1.33 6.41)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9299a026-623f-4f6c-aa9b-bb061dad6463")
+	)
+	(fp_line
+		(start -1.8 -1.8)
+		(end -1.8 6.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "76333157-5a49-466a-8237-551b18df53e8")
+	)
+	(fp_line
+		(start -1.8 6.85)
+		(end 1.8 6.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "470bb9f9-41d2-477e-909e-bf52475e9e63")
+	)
+	(fp_line
+		(start 1.8 -1.8)
+		(end -1.8 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7f0a2138-080f-497f-9eac-c1b05db8b3d9")
+	)
+	(fp_line
+		(start 1.8 6.85)
+		(end 1.8 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c4bebbbd-4640-4a91-89c4-5b13f7b89c67")
+	)
+	(fp_line
+		(start -1.27 -0.635)
+		(end -0.635 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "857513d0-fa80-4b2b-9044-1bf543f58197")
+	)
+	(fp_line
+		(start -1.27 6.35)
+		(end -1.27 -0.635)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9ce9b616-9a1e-425d-9e3c-c6d6662d6a40")
+	)
+	(fp_line
+		(start -0.635 -1.27)
+		(end 1.27 -1.27)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7b221525-759a-4bd5-ba56-7a2046d0c32c")
+	)
+	(fp_line
+		(start 1.27 -1.27)
+		(end 1.27 6.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c9da9de2-18c0-450a-8da9-3be26ce7b4f2")
+	)
+	(fp_line
+		(start 1.27 6.35)
+		(end -1.27 6.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f5d861eb-aaea-4f4b-9ef2-d386f81f814e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.54 90)
+		(layer "F.Fab")
+		(uuid "5d61dac7-72c5-42b9-95fc-313a36f8b2ad")
+		(effects
+			(font
+				(face "Roboto")
+				(size 0.6 0.6)
+				(thickness 0.15)
+			)
+		)
+		(render_cache "REF**" 90
+			(polygon
+				(pts
+					(xy 118.169001 53.126256) (xy 117.926174 53.255766) (xy 117.926174 53.395937) (xy 118.169001 53.395937)
+					(xy 118.169001 53.475035) (xy 117.571094 53.475035) (xy 117.571094 53.277491) (xy 117.571228 53.27544)
+					(xy 117.635867 53.27544) (xy 117.635867 53.395937) (xy 117.861841 53.395937) (xy 117.861841 53.275037)
+					(xy 117.858153 53.237055) (xy 117.847874 53.206502) (xy 117.831542 53.181797) (xy 117.809322 53.162699)
+					(xy 117.782755 53.151176) (xy 117.750503 53.147139) (xy 117.715095 53.151151) (xy 117.687453 53.162288)
+					(xy 117.665763 53.180148) (xy 117.650063 53.203861) (xy 117.639817 53.234919) (xy 117.635867 53.27544)
+					(xy 117.571228 53.27544) (xy 117.574416 53.226594) (xy 117.583638 53.184766) (xy 117.597943 53.15045)
+					(xy 117.616963 53.122373) (xy 117.641692 53.099197) (xy 117.671431 53.082387) (xy 117.707206 53.071809)
+					(xy 117.750466 53.068041) (xy 117.786625 53.071512) (xy 117.818706 53.081584) (xy 117.847552 53.098193)
+					(xy 117.872435 53.120477) (xy 117.893011 53.148135) (xy 117.909395 53.18198) (xy 118.164055 53.041809)
+					(xy 118.169001 53.041809)
+				)
+			)
+			(polygon
+				(pts
+					(xy 117.893348 52.620307) (xy 117.893348 52.878924) (xy 118.104667 52.878924) (xy 118.104667 52.578505)
+					(xy 118.169001 52.578505) (xy 118.169001 52.957619) (xy 117.571094 52.957619) (xy 117.571094 52.582608)
+					(xy 117.635867 52.582608) (xy 117.635867 52.878924) (xy 117.829014 52.878924) (xy 117.829014 52.620307)
+				)
+			)
+			(polygon
+				(pts
+					(xy 117.905072 52.151361) (xy 117.905072 52.401771) (xy 118.169001 52.401771) (xy 118.169001 52.480466)
+					(xy 117.571094 52.480466) (xy 117.571094 52.110768) (xy 117.635867 52.110768) (xy 117.635867 52.401771)
+					(xy 117.840738 52.401771) (xy 117.840738 52.151361)
+				)
+			)
+			(polygon
+				(pts
+					(xy 117.764534 51.950227) (xy 117.727715 52.074021) (xy 117.665982 52.055154) (xy 117.711778 51.931359)
+					(xy 117.571094 51.935059) (xy 117.571094 51.872338) (xy 117.714562 51.876441) (xy 117.669353 51.754735)
+					(xy 117.731818 51.735867) (xy 117.769224 51.861713) (xy 117.880305 51.780527) (xy 117.918847 51.831378)
+					(xy 117.800804 51.907619) (xy 117.915953 51.981368) (xy 117.878657 52.032622)
+				)
+			)
+			(polygon
+				(pts
+					(xy 117.764534 51.588552) (xy 117.727715 51.712347) (xy 117.665982 51.693479) (xy 117.711778 51.569684)
+					(xy 117.571094 51.573385) (xy 117.571094 51.510663) (xy 117.714562 51.514766) (xy 117.669353 51.39306)
+					(xy 117.731818 51.374192) (xy 117.769224 51.500039) (xy 117.880305 51.418852) (xy 117.918847 51.469704)
+					(xy 117.800804 51.545944) (xy 117.915953 51.619693) (xy 117.878657 51.670947)
+				)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 0.5)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges yes)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections no)
+		)
+		(uuid "c312952d-a13c-45a4-95ef-a63663efef10")
+	)
+	(pad "2" thru_hole oval
+		(at 0 2.54)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 0.5)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges yes)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections no)
+		)
+		(uuid "e454567d-67fb-4297-af52-9de66171aea4")
+	)
+	(pad "3" thru_hole oval
+		(at 0 5.08)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 0.5)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges yes)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections no)
+		)
+		(uuid "c1271710-3831-4ce2-90d5-f34d4c114814")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/packages3D/PinHeader_1x03_P2.54mm_Vertical.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

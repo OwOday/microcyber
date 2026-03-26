@@ -7139,6 +7139,16 @@
 		)
 		(uuid "1531a449-3fc8-42b9-a41a-9c0a38e92274")
 	)
+	(text "can I just drop cc\n"
+		(exclude_from_sim no)
+		(at -23.368 115.316 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "203acf67-c4fe-4314-9dc5-18183279ea99")
+	)
 	(text "FPGA 1V2 decoupling"
 		(exclude_from_sim no)
 		(at 184.15 22.86 0)

@@ -4,4 +4,5 @@
   (lib (name "Glasgow")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Glasgow.pretty")(options "")(descr ""))
   (lib (name "Module_LattePanda")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Module_LattePanda.pretty")(options "")(descr ""))
   (lib (name "PowerShit")(type "KiCad")(uri "${KIPRJMOD}/Libraries/PowerShit.pretty")(options "")(descr ""))
+  (lib (name "A_DFRobot")(type "KiCad")(uri "${KIPRJMOD}/Libraries/A_DFRobot.pretty")(options "")(descr ""))
 )
