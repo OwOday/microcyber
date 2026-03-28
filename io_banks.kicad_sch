@@ -10270,7 +10270,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005c072c23")
-		(property "Reference" "J6901"
+		(property "Reference" "J25"
 			(at 90.17 92.71 0)
 			(effects
 				(font
@@ -10345,7 +10345,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "J6901")
+					(reference "J25")
 					(unit 1)
 				)
 			)
@@ -10360,7 +10360,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c0f528a")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR0175"
 			(at 80.01 87.63 0)
 			(effects
 				(font
@@ -10410,7 +10410,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR053")
+					(reference "#PWR0175")
 					(unit 1)
 				)
 			)
@@ -10426,7 +10426,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c961091")
-		(property "Reference" "J6902"
+		(property "Reference" "J26"
 			(at 114.3 58.42 0)
 			(effects
 				(font
@@ -10507,7 +10507,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "J6902")
+					(reference "J26")
 					(unit 1)
 				)
 			)
@@ -10522,7 +10522,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c961098")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR0177"
 			(at 109.22 74.93 0)
 			(effects
 				(font
@@ -10572,7 +10572,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR055")
+					(reference "#PWR0177")
 					(unit 1)
 				)
 			)
@@ -10588,7 +10588,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9610a4")
-		(property "Reference" "R6920"
+		(property "Reference" "R60"
 			(at 50.8 69.85 0)
 			(effects
 				(font
@@ -10669,7 +10669,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "R6920")
+					(reference "R60")
 					(unit 1)
 				)
 			)
@@ -10684,7 +10684,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e33bc")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR0167"
 			(at 33.02 74.93 0)
 			(effects
 				(font
@@ -10734,7 +10734,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR045")
+					(reference "#PWR0167")
 					(unit 1)
 				)
 			)
@@ -10750,7 +10750,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e33db")
-		(property "Reference" "U6905"
+		(property "Reference" "U22"
 			(at 41.91 149.86 0)
 			(effects
 				(font
@@ -11188,7 +11188,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "U6905")
+					(reference "U22")
 					(unit 1)
 				)
 			)
@@ -11204,7 +11204,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e33e9")
-		(property "Reference" "U6905"
+		(property "Reference" "U22"
 			(at 218.44 149.86 0)
 			(effects
 				(font
@@ -11642,7 +11642,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "U6905")
+					(reference "U22")
 					(unit 4)
 				)
 			)
@@ -11658,7 +11658,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e33f0")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR0178"
 			(at 120.65 81.28 0)
 			(effects
 				(font
@@ -11708,7 +11708,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR056")
+					(reference "#PWR0178")
 					(unit 1)
 				)
 			)
@@ -11723,7 +11723,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e342d")
-		(property "Reference" "J6903"
+		(property "Reference" "J27"
 			(at 255.27 78.3082 0)
 			(effects
 				(font
@@ -11928,7 +11928,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "J6903")
+					(reference "J27")
 					(unit 1)
 				)
 			)
@@ -11944,7 +11944,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e3436")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR0183"
 			(at 267.97 85.09 0)
 			(effects
 				(font
@@ -11994,7 +11994,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR063")
+					(reference "#PWR0183")
 					(unit 1)
 				)
 			)
@@ -12010,7 +12010,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e343f")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR0182"
 			(at 255.27 147.32 0)
 			(effects
 				(font
@@ -12060,7 +12060,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR062")
+					(reference "#PWR0182")
 					(unit 1)
 				)
 			)
@@ -12075,7 +12075,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e3491")
-		(property "Reference" "D6910"
+		(property "Reference" "D17"
 			(at 256.54 26.67 0)
 			(effects
 				(font
@@ -12154,7 +12154,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "D6910")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -12169,7 +12169,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e349b")
-		(property "Reference" "D6911"
+		(property "Reference" "D18"
 			(at 256.54 31.75 0)
 			(effects
 				(font
@@ -12248,7 +12248,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "D6911")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -12263,7 +12263,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e34a4")
-		(property "Reference" "D6912"
+		(property "Reference" "D19"
 			(at 256.54 36.83 0)
 			(effects
 				(font
@@ -12342,7 +12342,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "D6912")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -12357,7 +12357,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e34ad")
-		(property "Reference" "D6913"
+		(property "Reference" "D20"
 			(at 256.54 41.91 0)
 			(effects
 				(font
@@ -12436,7 +12436,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "D6913")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -12451,7 +12451,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e34b6")
-		(property "Reference" "D6914"
+		(property "Reference" "D21"
 			(at 256.54 46.99 0)
 			(effects
 				(font
@@ -12530,7 +12530,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "D6914")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -12545,7 +12545,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e34c4")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR0181"
 			(at 254 54.61 0)
 			(effects
 				(font
@@ -12595,7 +12595,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR061")
+					(reference "#PWR0181")
 					(unit 1)
 				)
 			)
@@ -12611,7 +12611,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e34d0")
-		(property "Reference" "R6926"
+		(property "Reference" "R66"
 			(at 240.03 24.13 90)
 			(effects
 				(font
@@ -12690,7 +12690,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "R6926")
+					(reference "R66")
 					(unit 1)
 				)
 			)
@@ -12706,7 +12706,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e34db")
-		(property "Reference" "R6929"
+		(property "Reference" "R69"
 			(at 240.03 39.37 90)
 			(effects
 				(font
@@ -12785,7 +12785,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "R6929")
+					(reference "R69")
 					(unit 1)
 				)
 			)
@@ -12801,7 +12801,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e34eb")
-		(property "Reference" "R6930"
+		(property "Reference" "R70"
 			(at 240.03 44.45 90)
 			(effects
 				(font
@@ -12880,7 +12880,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "R6930")
+					(reference "R70")
 					(unit 1)
 				)
 			)
@@ -12896,7 +12896,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e34f4")
-		(property "Reference" "R6927"
+		(property "Reference" "R67"
 			(at 240.03 29.21 90)
 			(effects
 				(font
@@ -12975,7 +12975,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "R6927")
+					(reference "R67")
 					(unit 1)
 				)
 			)
@@ -12991,7 +12991,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005c9e34fd")
-		(property "Reference" "R6928"
+		(property "Reference" "R68"
 			(at 240.03 34.29 90)
 			(effects
 				(font
@@ -13070,7 +13070,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "R6928")
+					(reference "R68")
 					(unit 1)
 				)
 			)
@@ -13085,7 +13085,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ca4f297")
-		(property "Reference" "U6909"
+		(property "Reference" "U26"
 			(at 72.39 49.53 0)
 			(effects
 				(font
@@ -13178,7 +13178,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "U6909")
+					(reference "U26")
 					(unit 1)
 				)
 			)
@@ -13194,7 +13194,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cb2b53c")
-		(property "Reference" "R6925"
+		(property "Reference" "R65"
 			(at 90.17 54.61 90)
 			(effects
 				(font
@@ -13273,7 +13273,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "R6925")
+					(reference "R65")
 					(unit 1)
 				)
 			)
@@ -13289,7 +13289,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cb44d27")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR0176"
 			(at 92.71 54.61 0)
 			(effects
 				(font
@@ -13339,7 +13339,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR054")
+					(reference "#PWR0176")
 					(unit 1)
 				)
 			)
@@ -13355,7 +13355,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cb5da66")
-		(property "Reference" "R6921"
+		(property "Reference" "R61"
 			(at 52.07 63.5 90)
 			(effects
 				(font
@@ -13435,7 +13435,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "R6921")
+					(reference "R61")
 					(unit 1)
 				)
 			)
@@ -13450,7 +13450,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005cb8809b")
-		(property "Reference" "D6907"
+		(property "Reference" "D14"
 			(at 71.12 87.63 90)
 			(effects
 				(font
@@ -13539,7 +13539,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "D6907")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -13554,7 +13554,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005cb88f58")
-		(property "Reference" "D6908"
+		(property "Reference" "D15"
 			(at 78.74 87.63 90)
 			(effects
 				(font
@@ -13644,7 +13644,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "D6908")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -13659,7 +13659,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cbec27e")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR0174"
 			(at 67.31 77.47 0)
 			(effects
 				(font
@@ -13709,7 +13709,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR052")
+					(reference "#PWR0174")
 					(unit 1)
 				)
 			)
@@ -13725,7 +13725,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cbec3ee")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR0170"
 			(at 64.77 46.99 0)
 			(effects
 				(font
@@ -13775,7 +13775,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR048")
+					(reference "#PWR0170")
 					(unit 1)
 				)
 			)
@@ -13791,7 +13791,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cbf4ec8")
-		(property "Reference" "R6924"
+		(property "Reference" "R64"
 			(at 82.55 63.5 90)
 			(effects
 				(font
@@ -13871,7 +13871,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "R6924")
+					(reference "R64")
 					(unit 1)
 				)
 			)
@@ -13887,7 +13887,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cbf658e")
-		(property "Reference" "R6922"
+		(property "Reference" "R62"
 			(at 60.96 87.63 90)
 			(effects
 				(font
@@ -13967,7 +13967,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "R6922")
+					(reference "R62")
 					(unit 1)
 				)
 			)
@@ -13983,7 +13983,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cbf65f8")
-		(property "Reference" "R6923"
+		(property "Reference" "R63"
 			(at 60.96 95.25 90)
 			(effects
 				(font
@@ -14063,7 +14063,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "R6923")
+					(reference "R63")
 					(unit 1)
 				)
 			)
@@ -14078,7 +14078,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cc04643")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR0168"
 			(at 49.53 81.28 0)
 			(effects
 				(font
@@ -14128,7 +14128,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR046")
+					(reference "#PWR0168")
 					(unit 1)
 				)
 			)
@@ -14143,7 +14143,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ccc4d9e")
-		(property "Reference" "C6938"
+		(property "Reference" "C131"
 			(at 56.261 47.0916 0)
 			(effects
 				(font
@@ -14224,7 +14224,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "C6938")
+					(reference "C131")
 					(unit 1)
 				)
 			)
@@ -14239,7 +14239,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ccc4e88")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR0169"
 			(at 53.34 58.42 0)
 			(effects
 				(font
@@ -14289,7 +14289,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR047")
+					(reference "#PWR0169")
 					(unit 1)
 				)
 			)
@@ -14304,7 +14304,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cdeff88")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR0173"
 			(at 58.42 119.38 0)
 			(effects
 				(font
@@ -14354,7 +14354,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR051")
+					(reference "#PWR0173")
 					(unit 1)
 				)
 			)
@@ -14369,7 +14369,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cf06543")
-		(property "Reference" "C6939"
+		(property "Reference" "C132"
 			(at 223.901 61.0616 0)
 			(effects
 				(font
@@ -14450,7 +14450,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "C6939")
+					(reference "C132")
 					(unit 1)
 				)
 			)
@@ -14465,7 +14465,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cf0654d")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR0179"
 			(at 220.98 72.39 0)
 			(effects
 				(font
@@ -14515,7 +14515,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR059")
+					(reference "#PWR0179")
 					(unit 1)
 				)
 			)
@@ -14530,7 +14530,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005cff6fb6")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG017"
 			(at 217.17 55.245 0)
 			(effects
 				(font
@@ -14580,7 +14580,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#FLG02")
+					(reference "#FLG017")
 					(unit 1)
 				)
 			)
@@ -14595,7 +14595,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005d1dfdd1")
-		(property "Reference" "D6909"
+		(property "Reference" "D16"
 			(at 94.7166 63.6016 90)
 			(effects
 				(font
@@ -14676,7 +14676,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "D6909")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -14691,7 +14691,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005f47d915")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR0172"
 			(at 58.42 116.84 0)
 			(effects
 				(font
@@ -14741,7 +14741,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR050")
+					(reference "#PWR0172")
 					(unit 1)
 				)
 			)
@@ -14819,7 +14819,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060034178")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR0171"
 			(at 68.58 114.3 0)
 			(effects
 				(font
@@ -14870,7 +14870,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR049")
+					(reference "#PWR0171")
 					(unit 1)
 				)
 			)
@@ -14885,7 +14885,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060181a6f")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR0180"
 			(at 231.14 72.39 0)
 			(effects
 				(font
@@ -14935,7 +14935,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "#PWR060")
+					(reference "#PWR0180")
 					(unit 1)
 				)
 			)
@@ -14950,7 +14950,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000060181a79")
-		(property "Reference" "C6940"
+		(property "Reference" "C133"
 			(at 234.061 61.0616 0)
 			(effects
 				(font
@@ -15031,7 +15031,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f/2efab79f-0990-4502-b06c-9f360d76e358"
-					(reference "C6940")
+					(reference "C133")
 					(unit 1)
 				)
 			)

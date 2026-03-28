@@ -628,7 +628,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 6900,
+    "annotate_start_num": 0,
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
@@ -848,10 +848,6 @@
       "GPIO"
     ],
     [
-      "3592831a-00d5-434b-81c9-ef8da5bd331f",
-      "PCIEX4"
-    ],
-    [
       "3570f5c7-303d-4403-b64c-e6d85fee9a20",
       "Ethernet"
     ],
@@ -880,8 +876,16 @@
       "PSU"
     ],
     [
+      "3e59c376-1de0-4402-963f-a3c314be298c",
+      "M2_EKEY"
+    ],
+    [
       "50bb56ec-486a-4ae0-9d7c-b3c90bb32b7f",
       "HDMI"
+    ],
+    [
+      "c98a9ad8-cbe2-4859-b05c-874f50cbdf5b",
+      "extendoboard"
     ]
   ],
   "text_variables": {

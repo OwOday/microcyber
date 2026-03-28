@@ -12,4 +12,5 @@
   (lib (name "T520B107M006ATE015")(type "KiCad")(uri "${KIPRJMOD}/Libraries/T520B107M006ATE015.kicad_sym")(options "")(descr ""))
   (lib (name "2026-03-23_00-21-58")(type "KiCad")(uri "${KIPRJMOD}/Libraries/2026-03-23_00-21-58.kicad_sym")(options "")(descr ""))
   (lib (name "TVS2200DRVR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TVS2200DRVR.kicad_sym")(options "")(descr ""))
+  (lib (name "1775862-2")(type "KiCad")(uri "${KIPRJMOD}/Libraries/1775862-2.kicad_sym")(options "")(descr ""))
 )

@@ -2482,17 +2482,6 @@
 		)
 		(uuid "326e429b-5857-4649-9825-5238e94e1756")
 	)
-	(hierarchical_label "I2C5_SCL"
-		(shape output)
-		(at 181.61 45.72 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "33b45903-a3b5-4a00-957d-2cedd9694836")
-	)
 	(hierarchical_label "GPP_D3"
 		(shape bidirectional)
 		(at 252.73 62.23 0)
@@ -2614,17 +2603,6 @@
 		)
 		(uuid "a9f4ca2f-e60a-419f-9ef5-9938fe5b42ed")
 	)
-	(hierarchical_label "I2C5_SDA"
-		(shape bidirectional)
-		(at 71.12 38.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "dec23e43-0711-4187-a7d4-3bcbf8767975")
-	)
 	(hierarchical_label "SOC_UART0_TX"
 		(shape input)
 		(at 127 102.87 0)
@@ -2657,7 +2635,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04089973-3cf2-426a-a4d9-94b5effdc43d")
-		(property "Reference" "U1"
+		(property "Reference" "U11"
 			(at 257.81 72.39 0)
 			(effects
 				(font
@@ -2733,7 +2711,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "U1")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -2749,7 +2727,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "085b3abc-e11b-4ee2-9b02-82faa43900a5")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR061"
 			(at 252.73 128.27 0)
 			(effects
 				(font
@@ -2799,7 +2777,7 @@
 		(instances
 			(project ""
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR023")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -2815,7 +2793,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b4e70a0-5435-49ca-b454-ea17822fe530")
-		(property "Reference" "J13"
+		(property "Reference" "J16"
 			(at 222.885 33.02 0)
 			(effects
 				(font
@@ -2873,7 +2851,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J13")
+					(reference "J16")
 					(unit 1)
 				)
 			)
@@ -2889,7 +2867,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10cf68b6-319f-44ed-ac53-85098139d08f")
-		(property "Reference" "J10"
+		(property "Reference" "J12"
 			(at 103.505 97.79 0)
 			(effects
 				(font
@@ -2944,7 +2922,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J10")
+					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -2960,7 +2938,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15334fd7-5399-478d-8a54-7c29d30d8c38")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR054"
 			(at 52.07 146.05 0)
 			(effects
 				(font
@@ -3010,7 +2988,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR022")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -3026,7 +3004,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c412a98-7ebd-40b8-8315-d94fcaf032ea")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR055"
 			(at 134.62 144.78 0)
 			(effects
 				(font
@@ -3076,7 +3054,7 @@
 		(instances
 			(project ""
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR021")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -3092,7 +3070,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4901eb0b-13d2-4bfe-a3e4-3316efc64166")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR058"
 			(at 209.55 113.03 0)
 			(effects
 				(font
@@ -3142,7 +3120,7 @@
 		(instances
 			(project ""
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR019")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -3158,7 +3136,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d8d51b1-6187-4918-a13f-438ce1969af6")
-		(property "Reference" "J7"
+		(property "Reference" "J10"
 			(at 41.275 25.4 0)
 			(effects
 				(font
@@ -3216,7 +3194,7 @@
 		(instances
 			(project ""
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J7")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -3232,7 +3210,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "507ccbee-d3e3-49f4-90f2-36df1ac5e832")
-		(property "Reference" "J12"
+		(property "Reference" "J14"
 			(at 196.215 31.75 0)
 			(effects
 				(font
@@ -3290,7 +3268,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J12")
+					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -3306,7 +3284,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "529c51fd-aac5-424e-9bcc-090f9094376a")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR053"
 			(at 52.07 92.71 0)
 			(effects
 				(font
@@ -3356,7 +3334,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR018")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -3372,7 +3350,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57932cc9-b0b4-495b-915d-3c4d6154311f")
-		(property "Reference" "J9"
+		(property "Reference" "J13"
 			(at 153.035 33.02 0)
 			(effects
 				(font
@@ -3430,7 +3408,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J9")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -3446,7 +3424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "645c86b8-e86a-4401-8742-094715551542")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR063"
 			(at 275.59 116.84 0)
 			(effects
 				(font
@@ -3496,7 +3474,7 @@
 		(instances
 			(project ""
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR024")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -3512,7 +3490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ce77384-e7b6-404f-b44d-ee1c4da79a2e")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR057"
 			(at 200.66 54.61 0)
 			(effects
 				(font
@@ -3562,7 +3540,7 @@
 		(instances
 			(project ""
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR015")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -3670,7 +3648,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bf19f4b-8613-4f6d-8ae0-144b3a60801d")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR056"
 			(at 135.89 92.71 0)
 			(effects
 				(font
@@ -3720,7 +3698,7 @@
 		(instances
 			(project ""
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR017")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -3736,7 +3714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f3cae57-9b5e-4a7b-943c-88d6e1855776")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR059"
 			(at 233.68 41.91 0)
 			(effects
 				(font
@@ -3786,7 +3764,7 @@
 		(instances
 			(project ""
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR016")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -3802,7 +3780,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81954d31-8be0-4da8-968d-74b44e4c6630")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR060"
 			(at 236.22 102.87 0)
 			(effects
 				(font
@@ -3852,7 +3830,7 @@
 		(instances
 			(project ""
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR020")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -3868,7 +3846,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "845d3e9d-7c89-4153-90a2-154343e26d41")
-		(property "Reference" "U12"
+		(property "Reference" "U9"
 			(at 134.62 113.03 0)
 			(effects
 				(font
@@ -3944,7 +3922,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "U12")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -3960,7 +3938,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8806416b-774a-43c9-b774-37b083b3d6a6")
-		(property "Reference" "U9"
+		(property "Reference" "U7"
 			(at 52.07 60.96 0)
 			(effects
 				(font
@@ -4036,7 +4014,7 @@
 		(instances
 			(project ""
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "U9")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -4052,7 +4030,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b9decd4-8519-4240-8733-48aca85d83bf")
-		(property "Reference" "J11"
+		(property "Reference" "J15"
 			(at 205.105 93.98 0)
 			(effects
 				(font
@@ -4107,7 +4085,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J11")
+					(reference "J15")
 					(unit 1)
 				)
 			)
@@ -4123,7 +4101,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "910006f2-95a8-4a30-b425-8563e30df6b7")
-		(property "Reference" "J8"
+		(property "Reference" "J11"
 			(at 47.625 99.06 0)
 			(effects
 				(font
@@ -4178,7 +4156,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J8")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -4194,7 +4172,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac0bcd31-c17a-44b7-8a88-c4161933a03b")
-		(property "Reference" "J20"
+		(property "Reference" "J19"
 			(at 248.285 106.68 0)
 			(effects
 				(font
@@ -4252,7 +4230,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J20")
+					(reference "J19")
 					(unit 1)
 				)
 			)
@@ -4268,7 +4246,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be704b03-7d25-42a2-9785-ba24e3fe29e5")
-		(property "Reference" "J14"
+		(property "Reference" "J17"
 			(at 225.425 93.98 0)
 			(effects
 				(font
@@ -4323,7 +4301,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J14")
+					(reference "J17")
 					(unit 1)
 				)
 			)
@@ -4339,7 +4317,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f22b57f8-378b-4a6d-8bcc-b9afda684d56")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR062"
 			(at 257.81 104.14 0)
 			(effects
 				(font
@@ -4389,7 +4367,7 @@
 		(instances
 			(project ""
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR025")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -4405,7 +4383,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6ac8588-7dcb-495c-88f5-4bdd8dca2da0")
-		(property "Reference" "U11"
+		(property "Reference" "U8"
 			(at 52.07 114.3 0)
 			(effects
 				(font
@@ -4481,7 +4459,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "U11")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -4497,7 +4475,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f86ca7e2-129c-44b6-9b3e-6167b6c0a14d")
-		(property "Reference" "J19"
+		(property "Reference" "J18"
 			(at 231.775 49.53 0)
 			(effects
 				(font
@@ -4555,7 +4533,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J19")
+					(reference "J18")
 					(unit 1)
 				)
 			)
@@ -4571,7 +4549,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f8878922-5ee4-4d9e-89bb-5c94f89b24df")
-		(property "Reference" "J21"
+		(property "Reference" "J20"
 			(at 266.065 107.95 0)
 			(effects
 				(font
@@ -4629,7 +4607,7 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J21")
+					(reference "J20")
 					(unit 1)
 				)
 			)
