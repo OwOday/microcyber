@@ -10919,6 +10919,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field-1" ""
+			(at 255.27 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" ""
+			(at 255.27 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e256b163-e0c0-4f51-a8da-45e62b90296c")
 		)
@@ -14847,6 +14865,15 @@
 				(hide yes)
 			)
 		)
+		(property "Field-1" ""
+			(at 299.72 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "578e516d-eace-44da-9793-6cd161612477")
 		)
@@ -15624,6 +15651,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field-1" ""
+			(at 276.86 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" ""
+			(at 276.86 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7aaff14c-ddbf-4678-8f2d-08189d9ae611")
 		)
@@ -16325,6 +16370,24 @@
 				(hide yes)
 			)
 		)
+		(property "Field-1" ""
+			(at 111.76 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "SMA"
+			(at 111.76 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3b9e6068-7e2a-4646-8dce-9f1ef664b3b7")
 		)
@@ -16708,6 +16771,24 @@
 			)
 		)
 		(property "DF_Comment" "二极管-1N5819W-SOD323备选型号:B5819WS、JSPD140A"
+			(at 269.24 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 269.24 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "SOD-323"
 			(at 269.24 281.94 0)
 			(effects
 				(font
@@ -19929,6 +20010,24 @@
 			)
 		)
 		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 255.27 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 255.27 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
 			(at 255.27 294.64 0)
 			(effects
 				(font

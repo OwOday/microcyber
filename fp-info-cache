@@ -1,4 +1,4 @@
-28429104415678470
+28436203110362911
 A_DFRobot
 Battery_Holder_CR1220_S8411-45R
 S8411-45R_1
@@ -62831,6 +62831,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+EdgeConnector
+TE_1775862-2
+
+
+0
+54
+54
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -99568,6 +99575,20 @@ CDBC540-G
 2
 2
 PowerShit
+CONN_2013310-1_TYC
+
+2013310-1 
+0
+208
+208
+PowerShit
+CONN_SD-39357-001_02P_MOL
+
+393570002 
+0
+2
+2
+PowerShit
 DBV0005A_L
 
 TLV75533PDBVR 
@@ -99693,6 +99714,13 @@ TPS25750DRJKR
 0
 64
 64
+PowerShit
+RQM0029A-MFG
+
+BQ25792RQMR 
+0
+29
+29
 PowerShit
 SOIC8_ONS
 

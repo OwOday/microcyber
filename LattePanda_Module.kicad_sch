@@ -8375,6 +8375,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 233.68 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A-6V_0603L005-6AR"
+			(at 233.68 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 233.68 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
+			(at 233.68 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7b2081c0-1809-4cb0-b979-6af4830e9fb9")
 		)
@@ -8502,6 +8538,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
+			(at 220.98 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "2.54红色单排排针-3P"
+			(at 220.98 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
 			(at 220.98 72.39 0)
 			(effects
 				(font
@@ -8838,6 +8892,42 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 233.68 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 233.68 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A-6V_0603L005-6AR"
+			(at 233.68 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 233.68 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
 			(at 233.68 252.73 0)
 			(effects
 				(font
@@ -10023,6 +10113,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 298.45 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A-6V_0603L005-6AR"
+			(at 298.45 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 298.45 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
+			(at 298.45 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c01f3066-5712-47b6-83fb-45dab1c04a14")
 		)
@@ -10110,6 +10236,42 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
+			(at 309.88 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" "https://item.szlcsc.com/1049689.html"
+			(at 309.88 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "CR1220电池底座_BS-12-B3AA003"
+			(at 309.88 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 309.88 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" ""
 			(at 309.88 54.61 0)
 			(effects
 				(font
@@ -10243,6 +10405,42 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 332.74 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 332.74 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A-6V_0603L005-6AR"
+			(at 332.74 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 332.74 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
 			(at 332.74 262.89 0)
 			(effects
 				(font

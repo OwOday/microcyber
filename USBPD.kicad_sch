@@ -1223,937 +1223,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector:USB_C_Receptacle"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at -10.16 29.21 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "USB_C_Receptacle"
-				(at 10.16 29.21 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify right)
-				)
-			)
-			(property "Footprint" ""
-				(at 3.81 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-				(at 3.81 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "USB Full-Featured Type-C Receptacle connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "usb universal serial bus type-C full-featured"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "USB*C*Receptacle*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "USB_C_Receptacle_0_0"
-				(rectangle
-					(start -0.254 -35.56)
-					(end 0.254 -34.544)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 25.654)
-					(end 9.144 25.146)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 20.574)
-					(end 9.144 20.066)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 18.034)
-					(end 9.144 17.526)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 12.954)
-					(end 9.144 12.446)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 10.414)
-					(end 9.144 9.906)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 7.874)
-					(end 9.144 7.366)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 5.334)
-					(end 9.144 4.826)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 0.254)
-					(end 9.144 -0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -2.286)
-					(end 9.144 -2.794)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -7.366)
-					(end 9.144 -7.874)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -9.906)
-					(end 9.144 -10.414)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -14.986)
-					(end 9.144 -15.494)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -17.526)
-					(end 9.144 -18.034)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -22.606)
-					(end 9.144 -23.114)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -25.146)
-					(end 9.144 -25.654)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -30.226)
-					(end 9.144 -30.734)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 10.16 -32.766)
-					(end 9.144 -33.274)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "USB_C_Receptacle_0_1"
-				(rectangle
-					(start -10.16 27.94)
-					(end 10.16 -35.56)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy -8.89 -3.81) (xy -8.89 3.81)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -7.62 -3.81)
-					(end -6.35 3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(arc
-					(start -7.62 3.81)
-					(mid -6.985 4.4423)
-					(end -6.35 3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -7.62 3.81)
-					(mid -6.985 4.4423)
-					(end -6.35 3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(arc
-					(start -8.89 3.81)
-					(mid -6.985 5.7067)
-					(end -5.08 3.81)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -5.08 -3.81)
-					(mid -6.985 -5.7067)
-					(end -8.89 -3.81)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -6.35 -3.81)
-					(mid -6.985 -4.4423)
-					(end -7.62 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -6.35 -3.81)
-					(mid -6.985 -4.4423)
-					(end -7.62 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 3.81) (xy -5.08 -3.81)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "USB_C_Receptacle_1_1"
-				(circle
-					(center -2.54 1.143)
-					(radius 0.635)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 4.318) (xy 0 6.858) (xy 1.27 4.318) (xy -1.27 4.318)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.032) (xy 2.54 0.508) (xy 2.54 1.778)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -3.302) (xy -2.54 -0.762) (xy -2.54 0.508)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -5.842) (xy 0 4.318)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 -5.842)
-					(radius 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 1.905 1.778)
-					(end 3.175 3.048)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(pin passive line
-					(at -7.62 -40.64 90)
-					(length 5.08)
-					(name "SHIELD"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "S1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -40.64 90)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -40.64 90)
-					(length 5.08)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -40.64 90)
-					(length 5.08)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -40.64 90)
-					(length 5.08)
-					(hide yes)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 25.4 180)
-					(length 5.08)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 25.4 180)
-					(length 5.08)
-					(hide yes)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 25.4 180)
-					(length 5.08)
-					(hide yes)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 25.4 180)
-					(length 5.08)
-					(hide yes)
-					(name "VBUS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 20.32 180)
-					(length 5.08)
-					(name "CC1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 17.78 180)
-					(length 5.08)
-					(name "CC2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 12.7 180)
-					(length 5.08)
-					(name "D-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 10.16 180)
-					(length 5.08)
-					(name "D-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 7.62 180)
-					(length 5.08)
-					(name "D+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 5.08 180)
-					(length 5.08)
-					(name "D+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 0 180)
-					(length 5.08)
-					(name "RX1-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -2.54 180)
-					(length 5.08)
-					(name "RX1+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -7.62 180)
-					(length 5.08)
-					(name "TX1-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -10.16 180)
-					(length 5.08)
-					(name "TX1+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -15.24 180)
-					(length 5.08)
-					(name "RX2-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -17.78 180)
-					(length 5.08)
-					(name "RX2+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -22.86 180)
-					(length 5.08)
-					(name "TX2-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -25.4 180)
-					(length 5.08)
-					(name "TX2+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -30.48 180)
-					(length 5.08)
-					(name "SBU1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "A8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 15.24 -33.02 180)
-					(length 5.08)
-					(name "SBU2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
 				(offset 1.016)
@@ -5339,6 +4408,705 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "glasgow:USB_C_Receptacle_USB2.0"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -10.16 19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "USB_C_Receptacle_USB2.0"
+				(at 19.05 19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Footprint" ""
+				(at 3.81 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+				(at 3.81 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "USB 2.0-only Type-C Receptacle connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "usb universal serial bus type-C USB2.0"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "USB*C*Receptacle*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "USB_C_Receptacle_USB2.0_0_0"
+				(rectangle
+					(start -0.254 -17.78)
+					(end 0.254 -16.764)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 15.494)
+					(end 9.144 14.986)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 10.414)
+					(end 9.144 9.906)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 7.874)
+					(end 9.144 7.366)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 2.794)
+					(end 9.144 2.286)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 0.254)
+					(end 9.144 -0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -2.286)
+					(end 9.144 -2.794)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -4.826)
+					(end 9.144 -5.334)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -12.446)
+					(end 9.144 -12.954)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 10.16 -14.986)
+					(end 9.144 -15.494)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "USB_C_Receptacle_USB2.0_0_1"
+				(rectangle
+					(start -10.16 17.78)
+					(end 10.16 -17.78)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -8.89 -3.81) (xy -8.89 3.81)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -7.62 -3.81)
+					(end -6.35 3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start -7.62 3.81)
+					(mid -6.985 4.4423)
+					(end -6.35 3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -7.62 3.81)
+					(mid -6.985 4.4423)
+					(end -6.35 3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(arc
+					(start -8.89 3.81)
+					(mid -6.985 5.7067)
+					(end -5.08 3.81)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -5.08 -3.81)
+					(mid -6.985 -5.7067)
+					(end -8.89 -3.81)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -6.35 -3.81)
+					(mid -6.985 -4.4423)
+					(end -7.62 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -6.35 -3.81)
+					(mid -6.985 -4.4423)
+					(end -7.62 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 3.81) (xy -5.08 -3.81)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.54 1.143)
+					(radius 0.635)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 4.318) (xy 0 6.858) (xy 1.27 4.318) (xy -1.27 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.032) (xy 2.54 0.508) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -3.302) (xy -2.54 -0.762) (xy -2.54 0.508)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -5.842) (xy 0 4.318)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -5.842)
+					(radius 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 1.905 1.778)
+					(end 3.175 3.048)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "USB_C_Receptacle_USB2.0_1_1"
+				(pin passive line
+					(at -7.62 -22.86 90)
+					(length 5.08)
+					(name "SHIELD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -22.86 90)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -22.86 90)
+					(length 5.08)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -22.86 90)
+					(length 5.08)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -22.86 90)
+					(length 5.08)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 15.24 180)
+					(length 5.08)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 15.24 180)
+					(length 5.08)
+					(hide yes)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 15.24 180)
+					(length 5.08)
+					(hide yes)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 15.24 180)
+					(length 5.08)
+					(hide yes)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 10.16 180)
+					(length 5.08)
+					(name "CC1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 7.62 180)
+					(length 5.08)
+					(name "CC2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 2.54 180)
+					(length 5.08)
+					(name "D-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 0 180)
+					(length 5.08)
+					(name "D-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -2.54 180)
+					(length 5.08)
+					(name "D+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -5.08 180)
+					(length 5.08)
+					(name "D+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -12.7 180)
+					(length 5.08)
+					(name "SBU1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "A8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 -15.24 180)
+					(length 5.08)
+					(name "SBU2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+3V3"
 			(power)
 			(pin_numbers
@@ -6510,6 +6278,12 @@
 		(uuid "75b9aaad-6f12-4c38-8ed9-035a7480fadf")
 	)
 	(junction
+		(at 353.06 335.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "779e99fc-e036-4f91-b8ad-f9e50eb68331")
+	)
+	(junction
 		(at 488.95 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6864,6 +6638,12 @@
 		(uuid "e864cc45-986b-429e-bf66-488985caa33d")
 	)
 	(junction
+		(at 345.44 335.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ed4446a9-8d91-4b5e-b43a-aefeb557c562")
+	)
+	(junction
 		(at 250.19 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6904,16 +6684,8 @@
 		(uuid "1589cb61-4360-4233-864b-457f2e1078f0")
 	)
 	(no_connect
-		(at 331.47 295.91)
-		(uuid "17a44870-f087-4cf6-8b03-62f52c4c52ee")
-	)
-	(no_connect
 		(at 58.42 326.39)
 		(uuid "1965680f-d935-4cb0-8ce0-d6a7456af373")
-	)
-	(no_connect
-		(at 331.47 318.77)
-		(uuid "1e3781aa-306c-44a0-8ff6-110fae1438da")
 	)
 	(no_connect
 		(at 260.35 41.91)
@@ -6928,28 +6700,8 @@
 		(uuid "2f41cff1-f7c6-46b3-9f4f-6b38811ead68")
 	)
 	(no_connect
-		(at 331.47 290.83)
-		(uuid "4c77eba7-5974-4005-aac8-046830bd7af2")
-	)
-	(no_connect
-		(at 331.47 303.53)
-		(uuid "5fed9a78-9ae7-44ad-a122-5f2e13583d60")
-	)
-	(no_connect
 		(at 58.42 323.85)
 		(uuid "617e6a83-081f-4307-a9d1-86914a0d38b3")
-	)
-	(no_connect
-		(at 331.47 311.15)
-		(uuid "6752394c-6872-4adb-914e-c43df9e9b92c")
-	)
-	(no_connect
-		(at 331.47 306.07)
-		(uuid "6f41c980-a1a4-45b8-bdad-48920bd60b5b")
-	)
-	(no_connect
-		(at 331.47 313.69)
-		(uuid "83d1aa93-3a49-4b6e-bf74-2a886a85ff70")
 	)
 	(no_connect
 		(at 132.08 53.34)
@@ -6968,20 +6720,8 @@
 		(uuid "9e270303-0b44-465d-a55d-9920bd73df12")
 	)
 	(no_connect
-		(at 331.47 288.29)
-		(uuid "9f49f80f-eeb6-440b-b268-f1cc8770ab0e")
-	)
-	(no_connect
-		(at 331.47 321.31)
-		(uuid "a4764ed2-44ca-4ff2-8212-2b70787ae57a")
-	)
-	(no_connect
 		(at 82.55 248.92)
 		(uuid "af5dd0de-4e5a-4be3-a77f-33ef2a6a4ffe")
-	)
-	(no_connect
-		(at 331.47 298.45)
-		(uuid "b118eb73-a267-40fa-b8a3-aec6bf3cc4cf")
 	)
 	(no_connect
 		(at 132.08 55.88)
@@ -7150,6 +6890,16 @@
 			(type default)
 		)
 		(uuid "0b21ae71-4766-4d8d-80eb-f611ca0fd1a3")
+	)
+	(wire
+		(pts
+			(xy 353.06 335.28) (xy 422.91 335.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b42457b-ab5a-4321-8fe3-5f115c9aad78")
 	)
 	(wire
 		(pts
@@ -7433,16 +7183,6 @@
 	)
 	(wire
 		(pts
-			(xy 331.47 262.89) (xy 347.98 262.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1de07495-e454-45ab-a511-9e21416dab35")
-	)
-	(wire
-		(pts
 			(xy 425.45 115.57) (xy 440.69 115.57)
 		)
 		(stroke
@@ -7630,16 +7370,6 @@
 			(type default)
 		)
 		(uuid "27f32e5c-d897-4a4f-a9e5-597f1bf28cb5")
-	)
-	(wire
-		(pts
-			(xy 347.98 269.24) (xy 359.41 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2818ff5f-e452-43ef-bdba-f227ea5248ac")
 	)
 	(wire
 		(pts
@@ -8233,6 +7963,16 @@
 	)
 	(wire
 		(pts
+			(xy 345.44 323.85) (xy 345.44 335.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49800b6f-89fc-4071-9d16-f227ea599e79")
+	)
+	(wire
+		(pts
 			(xy 233.68 295.91) (xy 233.68 288.29)
 		)
 		(stroke
@@ -8510,6 +8250,16 @@
 			(type default)
 		)
 		(uuid "5d8d33ec-4587-42e9-8d8e-773e964f7b57")
+	)
+	(wire
+		(pts
+			(xy 361.95 275.59) (xy 355.6 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5dbf483d-0d4b-444d-870f-d5ff7767ebde")
 	)
 	(wire
 		(pts
@@ -9183,16 +8933,6 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 262.89) (xy 347.98 269.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "82e33e1f-3a3b-4a91-bc3b-524eb6ca9ed4")
-	)
-	(wire
-		(pts
 			(xy 364.49 208.28) (xy 354.33 208.28)
 		)
 		(stroke
@@ -9210,6 +8950,16 @@
 			(type default)
 		)
 		(uuid "8334ccde-d661-4374-8ba7-5bd94f0adc92")
+	)
+	(wire
+		(pts
+			(xy 345.44 335.28) (xy 353.06 335.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8426ac6b-c5af-4c87-b82a-9db0c2493fb3")
 	)
 	(wire
 		(pts
@@ -9513,6 +9263,16 @@
 	)
 	(wire
 		(pts
+			(xy 369.57 275.59) (xy 361.95 275.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93960f8b-24f0-435b-aa1d-004fcd571796")
+	)
+	(wire
+		(pts
 			(xy 250.19 109.22) (xy 250.19 114.3)
 		)
 		(stroke
@@ -9803,6 +9563,26 @@
 	)
 	(wire
 		(pts
+			(xy 355.6 269.24) (xy 359.41 269.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a83ade2a-094a-4fd3-8de6-a23313f18384")
+	)
+	(wire
+		(pts
+			(xy 353.06 323.85) (xy 353.06 335.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a85ee28d-d4e2-4312-825a-f73ed343e1ab")
+	)
+	(wire
+		(pts
 			(xy 132.08 119.38) (xy 138.43 119.38)
 		)
 		(stroke
@@ -10070,6 +9850,16 @@
 			(type default)
 		)
 		(uuid "b3ab4a49-76d0-4330-b1ae-1fc24b8c21aa")
+	)
+	(wire
+		(pts
+			(xy 368.3 285.75) (xy 368.3 276.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3b76e60-cb95-4be2-bad2-10d8de242d82")
 	)
 	(wire
 		(pts
@@ -10623,7 +10413,17 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 335.28) (xy 422.91 335.28)
+			(xy 368.3 276.86) (xy 369.57 275.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df37e081-49d3-483c-ad83-f06dc8888679")
+	)
+	(wire
+		(pts
+			(xy 316.23 335.28) (xy 345.44 335.28)
 		)
 		(stroke
 			(width 0)
@@ -11031,6 +10831,16 @@
 		)
 		(uuid "0bb6fe50-55b9-45f3-8ee5-2badc82ae518")
 	)
+	(label "C_CC2"
+		(at 368.3 293.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "12316b42-e832-4851-ad91-b12af2c52cce")
+	)
 	(label "SYS"
 		(at 205.74 109.22 180)
 		(effects
@@ -11081,6 +10891,16 @@
 		)
 		(uuid "2469381f-d575-4306-9fc7-3505f1c3e1f2")
 	)
+	(label "C_USB_P"
+		(at 368.3 303.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "247d3e82-153a-43c5-b88c-8fc5489318eb")
+	)
 	(label "SUPPLY_GND"
 		(at 209.55 232.41 180)
 		(effects
@@ -11090,16 +10910,6 @@
 			(justify right bottom)
 		)
 		(uuid "291e69c6-750c-4820-b817-1fa3ff718e15")
-	)
-	(label "C_USB_P"
-		(at 331.47 283.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3071991e-935b-47ca-a229-c6d25dbeb82f")
 	)
 	(label "LDO_3V3"
 		(at 138.43 283.21 180)
@@ -11161,6 +10971,16 @@
 		)
 		(uuid "402cbf9a-7b22-4f22-869c-baceb86a940a")
 	)
+	(label "C_USB_N"
+		(at 368.3 298.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "496f7339-fab1-4cb6-9ff6-fc64d2534510")
+	)
 	(label "LDO_3V3"
 		(at 113.03 135.89 0)
 		(effects
@@ -11221,16 +11041,6 @@
 		)
 		(uuid "7203d9ef-53d6-4ffb-884b-5d6fc2a5832c")
 	)
-	(label "C_CC1"
-		(at 331.47 267.97 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7221cc00-dd90-4f72-95bb-f7a2684537cc")
-	)
 	(label "STAT"
 		(at 128.27 261.62 0)
 		(effects
@@ -11240,16 +11050,6 @@
 			(justify left bottom)
 		)
 		(uuid "77985a73-edf4-4d68-afa8-adeaa0ac1cd7")
-	)
-	(label "C_USB_P"
-		(at 331.47 280.67 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7c33bfcd-232a-451d-b3c7-140b69dcee78")
 	)
 	(label "LDO_1V5"
 		(at 132.08 86.36 0)
@@ -11270,16 +11070,6 @@
 			(justify left bottom)
 		)
 		(uuid "8a4d8b1d-37c8-4d3b-8dcc-bbe971cb3ef7")
-	)
-	(label "C_USB_N"
-		(at 331.47 275.59 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8ce58e53-48dd-4402-ac9e-431f60e8e12d")
 	)
 	(label "ILM_HIZ"
 		(at 82.55 266.7 180)
@@ -11351,6 +11141,16 @@
 		)
 		(uuid "a724748f-dc81-41d0-af3f-b0af61211c12")
 	)
+	(label "C_CC1"
+		(at 368.3 290.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a86bdbbb-2db7-443b-b2d3-b30f5559bc8b")
+	)
 	(label "LDO_1V5"
 		(at 132.08 83.82 0)
 		(effects
@@ -11360,16 +11160,6 @@
 			(justify left bottom)
 		)
 		(uuid "adf1d202-52e9-4ab4-a8aa-e44a086d5d52")
-	)
-	(label "C_USB_N"
-		(at 331.47 278.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b66eb118-1e57-4d88-b33e-7ba573fd3eb5")
 	)
 	(label "PPHV"
 		(at 168.91 113.03 0)
@@ -11390,6 +11180,16 @@
 			(justify right bottom)
 		)
 		(uuid "bde16d86-3cef-4529-9752-02d8afb9b693")
+	)
+	(label "C_USB_N"
+		(at 368.3 300.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cfcc593e-2f8b-42aa-8bb9-b5f94280c487")
 	)
 	(label "I2C0_SDA"
 		(at 88.9 157.48 0)
@@ -11421,15 +11221,15 @@
 		)
 		(uuid "ecd43a6a-4033-4572-9291-7f32390b2f13")
 	)
-	(label "C_CC2"
-		(at 331.47 270.51 0)
+	(label "C_USB_P"
+		(at 368.3 306.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "f0444eeb-36b8-4286-9003-b98274f2f9bc")
+		(uuid "ee644776-ba4b-4df4-ade5-0d7ca49c75ee")
 	)
 	(label "PPHV"
 		(at 17.78 195.58 180)
@@ -11910,6 +11710,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 173.99 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 173.99 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 173.99 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
+			(at 173.99 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7bd61c7f-0c30-4d70-9b2e-2964dc0aae99")
 		)
@@ -11980,6 +11816,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 101.6 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电阻0402-10K-1%"
+			(at 101.6 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 101.6 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" ""
+			(at 101.6 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0f8f10a3-10b0-411a-be99-37ad18b79ed8")
 		)
@@ -12039,6 +11911,42 @@
 			)
 		)
 		(property "Description" "GRM188R61E475KE15D"
+			(at 66.04 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 66.04 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 66.04 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 66.04 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
 			(at 66.04 241.3 0)
 			(effects
 				(font
@@ -12175,6 +12083,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 41.91 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 41.91 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 41.91 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 41.91 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
 			(at 41.91 199.39 0)
 			(effects
 				(font
@@ -12320,6 +12264,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 393.7 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 393.7 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 393.7 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
+			(at 393.7 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f8d86bed-22e1-40a3-ae00-1b478f30ba3e")
 		)
@@ -12381,6 +12361,42 @@
 			)
 		)
 		(property "Description" "CL05A106MP5NUNC"
+			(at 45.72 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 45.72 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 45.72 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 45.72 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
 			(at 45.72 96.52 0)
 			(effects
 				(font
@@ -12451,6 +12467,42 @@
 			)
 		)
 		(property "Description" "CL05A106MP5NUNC"
+			(at 58.42 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 58.42 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 58.42 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 58.42 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
 			(at 58.42 81.28 0)
 			(effects
 				(font
@@ -12595,6 +12647,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 91.44 335.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电阻0402-10K-1%"
+			(at 91.44 335.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 91.44 335.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" ""
+			(at 91.44 335.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6349647e-5361-4a5b-8791-18812ccf1748")
 		)
@@ -12657,6 +12745,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 114.3 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 114.3 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 114.3 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 114.3 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
 			(at 114.3 146.05 0)
 			(effects
 				(font
@@ -12741,143 +12865,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/6ab392bb-0c5a-4b0d-a4a4-2c62db1aa129"
 					(reference "#PWR028")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:USB_C_Receptacle")
-		(at 316.23 288.29 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1dcd329b-39f9-4124-a8c6-55f731d7ded2")
-		(property "Reference" "J9"
-			(at 316.23 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "USB_C_Receptacle"
-			(at 316.23 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Glasgow:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
-			(at 320.04 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
-			(at 320.04 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "USB Full-Featured Type-C Receptacle connector"
-			(at 316.23 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "A11"
-			(uuid "5ab5635b-48d7-4841-8663-914d31065f73")
-		)
-		(pin "A10"
-			(uuid "003d0525-6a5f-43fc-8885-815cbd033218")
-		)
-		(pin "B2"
-			(uuid "9c85c86b-85e0-4af9-8d0b-ab7a1ebee56a")
-		)
-		(pin "A2"
-			(uuid "36b63456-6939-4296-972b-964c1e4ed650")
-		)
-		(pin "B3"
-			(uuid "bd9caaaa-444d-4b2c-8b90-de268190f807")
-		)
-		(pin "B6"
-			(uuid "241b1ec1-3677-4158-8b9a-0207a1bd7fe6")
-		)
-		(pin "A3"
-			(uuid "edfd4667-fe86-462c-a12c-0039c51011dc")
-		)
-		(pin "B7"
-			(uuid "6e918c0f-f3b7-4485-a36a-7a6cf08d510c")
-		)
-		(pin "B11"
-			(uuid "6ab69c4e-a6d1-423d-80be-e4a26b2a45b8")
-		)
-		(pin "A6"
-			(uuid "bda75717-c373-409f-b921-3d087cf06d3e")
-		)
-		(pin "B10"
-			(uuid "1829c4c2-19eb-4d8d-9b5b-e15c519da3c6")
-		)
-		(pin "B8"
-			(uuid "bc5efa27-3897-4767-a432-d2919755d07f")
-		)
-		(pin "A8"
-			(uuid "051bdef4-f19c-41c7-9b0c-fc85a817ebc9")
-		)
-		(pin "B9"
-			(uuid "85f1153b-82e0-4b93-850b-46d9486abae0")
-		)
-		(pin "A9"
-			(uuid "c614a452-b00a-44f2-8723-608b9e4d21b5")
-		)
-		(pin "A5"
-			(uuid "924eb41c-eabb-4e77-b47d-8062d6ee51fa")
-		)
-		(pin "A12"
-			(uuid "4ce024d3-be07-4fd3-a0b5-febf96c22cfe")
-		)
-		(pin "A4"
-			(uuid "edd0415d-4273-4f81-a136-5dc6c015a6df")
-		)
-		(pin "B1"
-			(uuid "f40bb356-e06c-4569-b58a-234c5feb3601")
-		)
-		(pin "B4"
-			(uuid "b6f0bfd1-aa46-422b-ac0f-9b4e800047ec")
-		)
-		(pin "S1"
-			(uuid "ffc78a69-2627-42f3-be32-420c0494b7bc")
-		)
-		(pin "B5"
-			(uuid "c112d0e1-34ba-49be-9452-db5f8d90fb5a")
-		)
-		(pin "A1"
-			(uuid "f8f61796-65fe-468a-b445-3970ecc52af0")
-		)
-		(pin "A7"
-			(uuid "593d59b4-ea42-4f7a-b166-487e9790b6d1")
-		)
-		(pin "B12"
-			(uuid "bc46fdd6-a026-40a7-94d9-931cc6d82932")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/6ab392bb-0c5a-4b0d-a4a4-2c62db1aa129"
-					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -13008,6 +12995,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 212.09 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 212.09 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 212.09 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
+			(at 212.09 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4423ea89-f8e5-4fd4-89e9-05add8702cdd")
 		)
@@ -13070,6 +13093,42 @@
 			)
 		)
 		(property "Description" "CRCW06031K96FKEA"
+			(at 467.36 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 467.36 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A/6V-0603L005/6AR"
+			(at 467.36 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 467.36 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
 			(at 467.36 132.08 0)
 			(effects
 				(font
@@ -13273,6 +13332,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 142.24 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 142.24 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 142.24 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 142.24 260.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
 			(at 142.24 260.35 0)
 			(effects
 				(font
@@ -13556,6 +13651,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 421.64 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 421.64 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 421.64 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
+			(at 421.64 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0793eb5b-72da-4edb-9726-2ceb3073b162")
 		)
@@ -13759,6 +13890,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 137.16 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A/6V-0603L005/6AR"
+			(at 137.16 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 137.16 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
+			(at 137.16 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9585d2d1-c110-46c2-8b48-8ff1b0ff2642")
 		)
@@ -13820,6 +13987,42 @@
 			)
 		)
 		(property "Description" "CRCW060337K4FKEA"
+			(at 425.45 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 425.45 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A/6V-0603L005/6AR"
+			(at 425.45 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 425.45 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
 			(at 425.45 137.16 0)
 			(effects
 				(font
@@ -14031,6 +14234,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 22.86 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 22.86 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 22.86 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
+			(at 22.86 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0ac01dc8-ad78-468f-a77e-92e66d90fdb0")
 		)
@@ -14093,6 +14332,42 @@
 			)
 		)
 		(property "Description" "C0603C222K1RACTU"
+			(at 425.45 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 425.45 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 425.45 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 425.45 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
 			(at 425.45 125.73 0)
 			(effects
 				(font
@@ -14178,6 +14453,119 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/6ab392bb-0c5a-4b0d-a4a4-2c62db1aa129"
 					(reference "C27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "glasgow:USB_C_Receptacle_USB2.0")
+		(at 353.06 300.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "52121508-608b-4868-8823-fcb5e1afc17f")
+		(property "Reference" "J21"
+			(at 353.06 278.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USB_C_Receptacle_USB2.0"
+			(at 353.06 280.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Glasgow:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
+			(at 356.87 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+			(at 356.87 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "USB 2.0-only Type-C Receptacle connector"
+			(at 353.06 300.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A1"
+			(uuid "d41865a4-b369-431f-9ccd-1657d4aa8eb4")
+		)
+		(pin "S1"
+			(uuid "02699ca9-f7b7-4b29-b02d-0c1a8f9da3da")
+		)
+		(pin "B9"
+			(uuid "049518ed-c3c6-4d68-a299-7ea51bebee6a")
+		)
+		(pin "B6"
+			(uuid "42103a00-568f-4019-8d2e-9540ac2938e0")
+		)
+		(pin "B1"
+			(uuid "ff5d04d0-1a18-4ae5-a046-f1d710e2dda8")
+		)
+		(pin "A12"
+			(uuid "27e78b14-331c-4e3a-9f48-d92600773bfa")
+		)
+		(pin "B5"
+			(uuid "3a317230-6335-4f0f-89f5-f530859d489a")
+		)
+		(pin "A5"
+			(uuid "a7d2c5bc-71a5-4100-b29e-c0f001eb7458")
+		)
+		(pin "B4"
+			(uuid "d5cd9490-19d9-4a74-b85c-24358926b48e")
+		)
+		(pin "B8"
+			(uuid "38e9a86a-c893-4664-9f50-effc0ce598ed")
+		)
+		(pin "A8"
+			(uuid "535988f8-e322-4996-82b9-5285a02a9dc7")
+		)
+		(pin "A7"
+			(uuid "044f7395-29a0-4ee4-b544-34ea5c3bce9b")
+		)
+		(pin "A4"
+			(uuid "d3fc1a4f-8382-4490-85a0-baad68cfbec3")
+		)
+		(pin "B7"
+			(uuid "b86ca050-00c3-4c90-b109-5e6b29046926")
+		)
+		(pin "A9"
+			(uuid "6d93e9ea-4e43-4584-bf6b-da7801490a45")
+		)
+		(pin "B12"
+			(uuid "0e829af2-3a67-4d49-b00f-6b4ed754e163")
+		)
+		(pin "A6"
+			(uuid "6c658789-7253-4f82-8c35-d327999eee0b")
+		)
+		(instances
+			(project ""
+				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/6ab392bb-0c5a-4b0d-a4a4-2c62db1aa129"
+					(reference "J21")
 					(unit 1)
 				)
 			)
@@ -14304,6 +14692,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 435.61 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 435.61 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 435.61 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
+			(at 435.61 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d95f417f-9cb6-4862-9e74-51bf42bd5421")
 		)
@@ -14411,7 +14835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC8_ONS"
+		(property "Footprint" "PowerShit:SOIC8_ONS"
 			(at 48.26 149.86 0)
 			(effects
 				(font
@@ -14528,6 +14952,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 407.67 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 407.67 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 407.67 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
+			(at 407.67 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "03977df5-af3a-4579-bcd9-6b58f3fc3049")
 		)
@@ -14587,6 +15047,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 36.83 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 36.83 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 36.83 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 36.83 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
 			(at 36.83 232.41 0)
 			(effects
 				(font
@@ -15202,6 +15698,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 50.8 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 50.8 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 50.8 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
+			(at 50.8 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "29880393-0170-4072-9662-f29058bc3460")
 		)
@@ -15339,6 +15871,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 467.36 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A/6V-0603L005/6AR"
+			(at 467.36 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 467.36 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
+			(at 467.36 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b6bf0127-994f-4f4f-85c0-f4fe3f3541a0")
 		)
@@ -15401,6 +15969,42 @@
 			)
 		)
 		(property "Description" "RC0603FR-07137KL"
+			(at 121.92 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 121.92 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A/6V-0603L005/6AR"
+			(at 121.92 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 121.92 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
 			(at 121.92 294.64 0)
 			(effects
 				(font
@@ -15538,6 +16142,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 165.1 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 165.1 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 165.1 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 165.1 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
 			(at 165.1 248.92 0)
 			(effects
 				(font
@@ -15746,6 +16386,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 273.05 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A/6V-0603L005/6AR"
+			(at 273.05 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 273.05 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
+			(at 273.05 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "abe5c7ae-4e9a-46de-a79c-4f06566fdd5a")
 		)
@@ -15874,6 +16550,42 @@
 			)
 		)
 		(property "Description" "C0603C220J5GACTU"
+			(at 440.69 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 440.69 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 440.69 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 440.69 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
 			(at 440.69 134.62 0)
 			(effects
 				(font
@@ -16088,6 +16800,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 276.86 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 276.86 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 276.86 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
+			(at 276.86 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d006e37a-4c5e-4f99-9016-4ddf0eb43946")
 		)
@@ -16224,6 +16972,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 115.57 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A/6V-0603L005/6AR"
+			(at 115.57 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 115.57 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
+			(at 115.57 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "14bd7c5b-22db-46d7-94b8-329964afeed6")
 		)
@@ -16265,7 +17049,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DBV0005A_N"
+		(property "Footprint" "PowerShit:DBV0005A_N"
 			(at 242.57 41.91 0)
 			(effects
 				(font
@@ -16647,6 +17431,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 30.48 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 30.48 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 30.48 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
+			(at 30.48 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6b8578c9-53bf-4465-9b2a-3964834057eb")
 		)
@@ -16838,6 +17658,42 @@
 			)
 		)
 		(property "Description" "GMK105BJ104KV-F"
+			(at 161.29 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 161.29 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 161.29 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 161.29 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
 			(at 161.29 113.03 0)
 			(effects
 				(font
@@ -17110,7 +17966,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CAPMP3.7X2.8_2N_KEM"
+		(property "Footprint" "PowerShit:CAPMP3.7X2.8_2N_KEM"
 			(at 488.95 116.84 0)
 			(effects
 				(font
@@ -17268,6 +18124,42 @@
 			)
 		)
 		(property "Description" "06031C103KAT2A"
+			(at 330.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 330.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 330.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 330.2 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
 			(at 330.2 137.16 0)
 			(effects
 				(font
@@ -17682,6 +18574,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" "https://item.szlcsc.com/947787.html"
+			(at 388.62 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0805贴片自恢复保险丝2A/6V-BSMD0805L-200"
+			(at 388.62 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 388.62 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
+			(at 388.62 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3ecd8728-a181-4ec1-9be6-9a4875413dde")
 		)
@@ -17744,6 +18672,42 @@
 			)
 		)
 		(property "Description" "CL05A106MP5NUNC"
+			(at 54.61 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 54.61 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 54.61 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 54.61 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
 			(at 54.61 52.07 0)
 			(effects
 				(font
@@ -18013,6 +18977,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 156.21 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 156.21 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 156.21 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 156.21 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
 			(at 156.21 248.92 0)
 			(effects
 				(font
@@ -18357,6 +19357,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 60.96 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 60.96 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 60.96 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
+			(at 60.96 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0c033077-200e-4da0-ae41-a7ba9e218d4b")
 		)
@@ -18419,6 +19455,42 @@
 			)
 		)
 		(property "Description" "CRCW060351R1FKEA"
+			(at 467.36 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 467.36 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A/6V-0603L005/6AR"
+			(at 467.36 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 467.36 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
 			(at 467.36 105.41 0)
 			(effects
 				(font
@@ -18563,6 +19635,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 273.05 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A/6V-0603L005/6AR"
+			(at 273.05 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 273.05 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
+			(at 273.05 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d0bde395-7510-4143-815c-d1a01602aba0")
 		)
@@ -18633,6 +19741,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 105.41 337.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电阻0402-10K-1%"
+			(at 105.41 337.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 105.41 337.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" ""
+			(at 105.41 337.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c60e1183-0406-430c-94f8-8014403fad4e")
 		)
@@ -18692,6 +19836,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 44.45 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 44.45 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 44.45 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 44.45 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
 			(at 44.45 232.41 0)
 			(effects
 				(font
@@ -18941,7 +20121,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DDA8_3P1X2P4_TEX"
+		(property "Footprint" "PowerShit:DDA8_3P1X2P4_TEX"
 			(at 336.55 118.11 0)
 			(effects
 				(font
@@ -19098,7 +20278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RJK0038B-C01-MFG"
+		(property "Footprint" "PowerShit:RJK0038B-C01-MFG"
 			(at 76.2 48.26 0)
 			(effects
 				(font
@@ -19374,6 +20554,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 148.59 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 148.59 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 148.59 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
+			(at 148.59 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d0d366ab-793b-4ed3-93ac-caa682e5dd6d")
 		)
@@ -19433,6 +20649,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 33.02 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 33.02 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 33.02 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 33.02 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
 			(at 33.02 199.39 0)
 			(effects
 				(font
@@ -19864,6 +21116,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 142.24 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 142.24 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 142.24 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
+			(at 142.24 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d86a2399-2398-4d6f-b633-346cdfcd1d61")
 		)
@@ -20000,6 +21288,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+			(at 64.77 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "0603贴片自恢复保险丝0.05A/6V-0603L005/6AR"
+			(at 64.77 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 64.77 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "R0805"
+			(at 64.77 331.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "23f610ac-86f2-4e5e-975d-51d976095e85")
 		)
@@ -20070,6 +21394,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 449.58 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 449.58 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 449.58 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
+			(at 449.58 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e4a09a89-3b5b-4b31-b568-0b87c511da07")
 		)
@@ -20129,6 +21489,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 54.61 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 54.61 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 54.61 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 54.61 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
 			(at 54.61 232.41 0)
 			(effects
 				(font
@@ -20406,6 +21802,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 392.43 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 392.43 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 392.43 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
+			(at 392.43 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cd65ecbf-fc8a-4f29-abac-3b8d608b3984")
 		)
@@ -20534,6 +21966,42 @@
 			)
 		)
 		(property "Description" "CRCW04022K21FKED"
+			(at 140.97 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 140.97 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电阻0402-10K-1%"
+			(at 140.97 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 140.97 293.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" ""
 			(at 140.97 293.37 0)
 			(effects
 				(font
@@ -20679,6 +22147,42 @@
 				(hide yes)
 			)
 		)
+		(property "Buy_Link" ""
+			(at 149.86 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+			(at 149.86 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 149.86 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C0402"
+			(at 149.86 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a4738f0b-c214-4b18-a815-e0e2328c21ca")
 		)
@@ -20741,6 +22245,42 @@
 			)
 		)
 		(property "Description" "CRCW060317K4FKEA"
+			(at 209.55 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Buy_Link" ""
+			(at 209.55 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+			(at 209.55 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field-1" ""
+			(at 209.55 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SCH_Show_Footprint" "C603"
 			(at 209.55 304.8 0)
 			(effects
 				(font
