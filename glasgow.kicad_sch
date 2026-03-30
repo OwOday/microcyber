@@ -5627,113 +5627,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Mechanical:MountingHole_Pad"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "H"
-				(at 0 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "MountingHole_Pad"
-				(at 0 4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Mounting Hole with connection"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "mounting hole"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "MountingHole*Pad*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "MountingHole_Pad_0_1"
-				(circle
-					(center 0 1.27)
-					(radius 1.27)
-					(stroke
-						(width 1.27)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "MountingHole_Pad_1_1"
-				(pin input line
-					(at 0 -2.54 90)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Memory_EEPROM:CAT24C256"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -7512,12 +7405,6 @@
 		(uuid "23e7137a-6b79-41b6-8a8f-fdf19a9accb5")
 	)
 	(junction
-		(at 24.13 190.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "253758ee-06b8-4fab-b225-a3f53038cd9e")
-	)
-	(junction
 		(at 54.61 24.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7528,12 +7415,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "296f566f-d6c3-4658-8b17-b9d55d07da54")
-	)
-	(junction
-		(at 29.21 190.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "30fdbbfc-aadc-4e4f-9591-c95b1d625722")
 	)
 	(junction
 		(at 243.84 147.32)
@@ -7558,12 +7439,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3937d545-b536-4236-9b92-7817c83ba0db")
-	)
-	(junction
-		(at 19.05 190.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3d4c5492-00ad-4d97-8bc2-eaf146db2289")
 	)
 	(junction
 		(at 134.62 34.29)
@@ -8968,16 +8843,6 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 148.59) (xy 93.98 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25326295-3405-4225-8f7c-dd18c44204ca")
-	)
-	(wire
-		(pts
 			(xy 161.29 54.61) (xy 149.86 54.61)
 		)
 		(stroke
@@ -9768,16 +9633,6 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 190.5) (xy 19.05 191.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52b72e83-fcdb-4834-b049-845cc9eb623c")
-	)
-	(wire
-		(pts
 			(xy 229.87 33.02) (xy 240.03 33.02)
 		)
 		(stroke
@@ -9785,16 +9640,6 @@
 			(type default)
 		)
 		(uuid "52ceefb3-71ae-4aa4-8e56-6e2de1eb0657")
-	)
-	(wire
-		(pts
-			(xy 24.13 190.5) (xy 29.21 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53c53a7a-784a-4494-b1bc-60ab5e9e425c")
 	)
 	(wire
 		(pts
@@ -9885,26 +9730,6 @@
 			(type default)
 		)
 		(uuid "5a03da1a-6baa-4549-92cc-0a0077ae9930")
-	)
-	(wire
-		(pts
-			(xy 34.29 190.5) (xy 34.29 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a17292d-29b6-433d-96aa-4721e503d9f9")
-	)
-	(wire
-		(pts
-			(xy 24.13 190.5) (xy 24.13 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5bc53d7a-37e0-4cad-9d86-1c37eb4c7575")
 	)
 	(wire
 		(pts
@@ -10405,16 +10230,6 @@
 			(type default)
 		)
 		(uuid "73b911a8-40bb-4d33-9aca-b49c8a1884c6")
-	)
-	(wire
-		(pts
-			(xy 19.05 190.5) (xy 24.13 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7482aaa4-9ba4-47fc-8920-bfedbd55e69d")
 	)
 	(wire
 		(pts
@@ -11128,16 +10943,6 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 190.5) (xy 29.21 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a450e4e6-6565-49ff-8b88-83e8f94902fc")
-	)
-	(wire
-		(pts
 			(xy 71.12 123.19) (xy 71.12 125.73)
 		)
 		(stroke
@@ -11715,16 +11520,6 @@
 			(type default)
 		)
 		(uuid "c4df73fc-c1f6-43b7-8c8e-ef7c5fda72f6")
-	)
-	(wire
-		(pts
-			(xy 29.21 190.5) (xy 34.29 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4fcf12d-6c92-4742-b903-8b9b192c1c75")
 	)
 	(wire
 		(pts
@@ -12528,16 +12323,6 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 189.23) (xy 19.05 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f2d4e4e7-1e1f-42bc-8607-e44ddde234cc")
-	)
-	(wire
-		(pts
 			(xy 279.4 99.06) (xy 279.4 96.52)
 		)
 		(stroke
@@ -12545,6 +12330,16 @@
 			(type default)
 		)
 		(uuid "f395999a-5ff3-4281-a8a6-d4357c4ffde4")
+	)
+	(wire
+		(pts
+			(xy 93.98 148.59) (xy 93.98 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4441e7e-2a17-4158-a517-8f8d0f49cf81")
 	)
 	(wire
 		(pts
@@ -13984,7 +13779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 27.94 151.13 0)
 			(effects
 				(font
@@ -14049,7 +13844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 94.107 155.5242 0)
 			(effects
 				(font
@@ -14338,7 +14133,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 54.737 80.5942 0)
 			(effects
 				(font
@@ -14835,7 +14630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 19.177 172.0342 0)
 			(effects
 				(font
@@ -15124,7 +14919,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 153.797 191.0842 0)
 			(effects
 				(font
@@ -15189,7 +14984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 110.617 191.0842 0)
 			(effects
 				(font
@@ -16379,7 +16174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 29.337 39.9542 0)
 			(effects
 				(font
@@ -16764,7 +16559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 91.567 188.5442 0)
 			(effects
 				(font
@@ -17085,7 +16880,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 129.667 188.5442 0)
 			(effects
 				(font
@@ -17192,205 +16987,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f"
 					(reference "#PWR0126")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 24.13 186.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005ad64d62")
-		(property "Reference" "MK1"
-			(at 22.86 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Mounting_Hole_PAD"
-			(at 26.67 187.706 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Glasgow:MountingHole_3.5mm_Pad_Via_CrtYd"
-			(at 24.13 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 24.13 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 24.13 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ab02729f-ff0d-4117-8c4e-6d806b629e34")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f"
-					(reference "MK1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 29.21 186.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005ad64dae")
-		(property "Reference" "MK2"
-			(at 27.94 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Mounting_Hole_PAD"
-			(at 31.75 187.706 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Glasgow:MountingHole_3.5mm_Pad_Via_CrtYd"
-			(at 29.21 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 29.21 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 29.21 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ce0ea39c-bb5e-4601-b750-8efd32f8402a")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f"
-					(reference "MK2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 19.05 191.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005ad7524e")
-		(property "Reference" "#PWR0103"
-			(at 19.05 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 19.177 196.1642 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 19.05 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 19.05 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 19.05 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fc461b7b-272e-4f3a-9bfe-6140bb76fff3")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/caa76144-87f3-4ce6-9e9c-dcd9e43abe5f"
-					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -19207,7 +18803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 140.97 77.47 0)
 			(effects
 				(font
@@ -19272,7 +18868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 140.97 90.17 0)
 			(effects
 				(font
@@ -19404,7 +19000,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 257.937 48.8442 0)
 			(effects
 				(font
@@ -19469,7 +19065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 134.747 39.9542 0)
 			(effects
 				(font
@@ -19694,7 +19290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 181.737 39.9542 0)
 			(effects
 				(font
@@ -19995,7 +19591,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 224.917 118.6942 0)
 			(effects
 				(font
@@ -20060,7 +19656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 255.397 135.2042 0)
 			(effects
 				(font
@@ -20350,7 +19946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 48.387 103.4542 0)
 			(effects
 				(font
@@ -20830,7 +20426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 266.827 163.1442 0)
 			(effects
 				(font
@@ -20895,7 +20491,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 266.827 135.2042 0)
 			(effects
 				(font
@@ -21215,7 +20811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 30.607 103.4542 0)
 			(effects
 				(font
@@ -21280,7 +20876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 243.967 136.4742 0)
 			(effects
 				(font
@@ -21729,7 +21325,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 187.96 43.18 0)
 			(effects
 				(font
@@ -23090,7 +22686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 194.31 156.21 0)
 			(effects
 				(font
@@ -24684,7 +24280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 38.227 76.7842 0)
 			(effects
 				(font
@@ -25183,7 +24779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 210.947 154.2542 0)
 			(effects
 				(font
@@ -26002,7 +25598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 243.967 163.1442 0)
 			(effects
 				(font
@@ -26228,7 +25824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 255.397 161.8742 0)
 			(effects
 				(font
@@ -26740,7 +26336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 213.487 85.6742 0)
 			(effects
 				(font
@@ -27100,7 +26696,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 279.527 112.3442 0)
 			(effects
 				(font
@@ -27623,7 +27219,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 49.657 145.3642 0)
 			(effects
 				(font
@@ -27786,7 +27382,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GGND"
 			(at 209.677 118.6942 0)
 			(effects
 				(font

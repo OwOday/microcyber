@@ -8979,6 +8979,17 @@
 		)
 		(uuid "11abeec9-c621-41c2-81b1-de4cd79455b4")
 	)
+	(hierarchical_label "EDGEBOARD_SUPPLY"
+		(shape input)
+		(at 48.26 111.76 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "19393b1d-302a-4bc2-87ac-d530bf08f73a")
+	)
 	(hierarchical_label "SUPPLY_GND"
 		(shape input)
 		(at 69.85 137.16 180)
@@ -9033,6 +9044,17 @@
 			(justify right)
 		)
 		(uuid "cbfb2d81-994d-45ec-99ac-3ef72e831b83")
+	)
+	(hierarchical_label "EDGEBOARD_GND"
+		(shape input)
+		(at 63.5 143.51 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f6ed0630-e2c1-46fd-a9d6-f5254e7f54dc")
 	)
 	(symbol
 		(lib_id "Device:C")
