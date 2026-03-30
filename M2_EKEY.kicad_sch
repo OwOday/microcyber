@@ -8290,7 +8290,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c9f097ec-d654-4f9b-af5b-59015847c354")
 		(property "Reference" "J31"
 			(at 138.0841 49.53 0)
