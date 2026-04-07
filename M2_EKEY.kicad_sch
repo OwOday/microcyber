@@ -2119,10 +2119,10 @@
 		(uuid "084f8984-92d8-4f4c-b16f-f7512cf6676a")
 	)
 	(junction
-		(at 323.85 60.96)
+		(at 177.8 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0abdb75d-1812-4cb4-9d33-df52fad9db5a")
+		(uuid "0e049418-8eac-4e24-acaa-5decfdc9d2ff")
 	)
 	(junction
 		(at 281.94 33.02)
@@ -2143,12 +2143,6 @@
 		(uuid "33502cdd-76d8-4213-a7e6-6a126539e0c6")
 	)
 	(junction
-		(at 259.08 194.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4483a774-22e7-4165-aa8d-0eb95e39f153")
-	)
-	(junction
 		(at 281.94 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2167,10 +2161,10 @@
 		(uuid "557e4b5b-f778-4191-a054-03d9b305d1aa")
 	)
 	(junction
-		(at 217.17 153.67)
+		(at 259.08 194.31)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7e1e1ad6-a71e-41fd-b285-f4c9bd10f248")
+		(uuid "65fdd188-fe93-4582-8fef-cdd6baa238a3")
 	)
 	(junction
 		(at 299.72 26.67)
@@ -2203,10 +2197,10 @@
 		(uuid "b734d69e-4747-44af-91f5-13696cfc1f10")
 	)
 	(junction
-		(at 135.89 26.67)
+		(at 217.17 153.67)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b9477f9e-f18b-4f22-9013-1091c78c1819")
+		(uuid "c02d90bd-8c57-4327-a523-84c74bbc4033")
 	)
 	(junction
 		(at 153.67 33.02)
@@ -2221,22 +2215,28 @@
 		(uuid "c775707e-34af-491d-9a2b-ae0f9a2b613d")
 	)
 	(junction
+		(at 323.85 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "da291ee6-82ce-4559-b955-6b035eeee56b")
+	)
+	(junction
 		(at 281.94 20.32)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d3202b14-5b86-4468-82f7-e55d1764f882")
-	)
-	(junction
-		(at 177.8 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "db4f4805-4af7-43e6-805c-627eeb2f3510")
+		(uuid "e37d2981-bed5-489e-81c7-540b1a81382d")
 	)
 	(junction
 		(at 299.72 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f45a5930-bf0b-453d-84d4-bc87b63e4c04")
+	)
+	(junction
+		(at 135.89 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "faaef572-7171-45b6-ad4c-cd5af930faa3")
 	)
 	(junction
 		(at 135.89 45.72)
@@ -5061,6 +5061,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 323.85 60.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "136a30df-2b3d-45e6-9cdb-d19cd5041e35")
+		(property "Reference" "#PWR0297"
+			(at 323.85 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3_highpower"
+			(at 326.644 55.372 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 323.85 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 323.85 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 323.85 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "800b64d9-e3b8-42c5-9b44-0cd365d56e35")
+		)
+		(instances
+			(project "microcyber"
+				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
+					(reference "#PWR0297")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 185.42 167.64 180)
 		(unit 1)
@@ -5504,84 +5582,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
 					(reference "R145")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 281.94 20.32 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1d82d2a3-f345-486d-bded-337dc5482737")
-		(property "Reference" "#PWR0294"
-			(at 281.94 24.13 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 281.94 15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 281.94 20.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 281.94 20.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 281.94 20.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b30440ff-be2d-4e5a-a0f6-536ccaae789b")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
-					(reference "#PWR0294")
 					(unit 1)
 				)
 			)
@@ -6118,6 +6118,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 217.17 153.67 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5a8254f9-146c-4514-9f54-55aa8d450bb3")
+		(property "Reference" "#PWR0290"
+			(at 217.17 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3_highpower"
+			(at 219.964 148.082 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 217.17 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 217.17 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ae48f803-1a2b-4fb2-b424-2b8865922131")
+		)
+		(instances
+			(project "microcyber"
+				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
+					(reference "#PWR0290")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 323.85 69.85 180)
 		(unit 1)
@@ -6237,6 +6315,84 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
 					(reference "R146")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 135.89 26.67 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "601a16d1-f2a8-4980-830e-6ca0cb5c56b9")
+		(property "Reference" "#PWR0276"
+			(at 135.89 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3_highpower"
+			(at 138.684 21.082 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 135.89 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 135.89 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3b2119e1-5851-4a9b-8366-24412665b4ec")
+		)
+		(instances
+			(project "microcyber"
+				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
+					(reference "#PWR0276")
 					(unit 1)
 				)
 			)
@@ -7193,84 +7349,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 177.8 67.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "82bea86f-21d1-4fb9-98e5-568015cb8e63")
-		(property "Reference" "#PWR0283"
-			(at 177.8 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 177.8 62.23 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 177.8 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 177.8 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 177.8 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "dc5e3adb-9c3a-49ba-9df5-eb038e0dbcc4")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
-					(reference "#PWR0283")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 259.08 203.2 180)
 		(unit 1)
@@ -7390,84 +7468,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
 					(reference "R149")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 259.08 194.31 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8894908d-332b-4553-8b84-a7f479c555e8")
-		(property "Reference" "#PWR0298"
-			(at 259.08 198.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 259.08 189.23 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 259.08 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 259.08 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 259.08 194.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "af5d982c-7352-49e2-8ec9-977d99009bb7")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
-					(reference "#PWR0298")
 					(unit 1)
 				)
 			)
@@ -7795,84 +7795,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
 					(reference "J34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 217.17 153.67 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "90ef5526-6feb-4b50-b698-aa513e044850")
-		(property "Reference" "#PWR0290"
-			(at 217.17 157.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 217.17 148.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 217.17 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 217.17 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 217.17 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5399d274-68df-48f5-a7c2-b93dd9801897")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
-					(reference "#PWR0290")
 					(unit 1)
 				)
 			)
@@ -8208,6 +8130,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 259.08 194.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9d3b77be-9403-4cc6-bac6-a687bec6340c")
+		(property "Reference" "#PWR0298"
+			(at 259.08 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3_highpower"
+			(at 261.874 188.722 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 259.08 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 259.08 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 259.08 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "acbe0138-4223-4b31-ba10-84cecea234cd")
+		)
+		(instances
+			(project "microcyber"
+				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
+					(reference "#PWR0298")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 76.2 69.85 90)
 		(unit 1)
@@ -8537,7 +8537,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 323.85 60.96 0)
+		(at 281.94 20.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8545,10 +8545,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "aaf6fc45-aec5-40db-a31a-cc74a67ff5a5")
-		(property "Reference" "#PWR0297"
-			(at 323.85 64.77 0)
+		(uuid "b2e30aac-bc16-40a9-85f4-085ba8f35261")
+		(property "Reference" "#PWR0294"
+			(at 281.94 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8558,18 +8557,19 @@
 				)
 			)
 		)
-		(property "Value" "+3V3"
-			(at 323.85 55.88 0)
+		(property "Value" "+3V3_highpower"
+			(at 284.734 14.732 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 323.85 60.96 0)
+			(at 281.94 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8580,7 +8580,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 323.85 60.96 0)
+			(at 281.94 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8591,7 +8591,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 323.85 60.96 0)
+			(at 281.94 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8602,12 +8602,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "96ddc8d6-c658-4e20-a600-6a0f3de866df")
+			(uuid "e450f1f8-7881-41a5-8b93-57bd7111cb2c")
 		)
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
-					(reference "#PWR0297")
+					(reference "#PWR0294")
 					(unit 1)
 				)
 			)
@@ -8733,6 +8733,84 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
 					(reference "R147")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 177.8 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b9fca3f8-7cd8-49ff-a1c9-11ce2baad15f")
+		(property "Reference" "#PWR0283"
+			(at 177.8 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3_highpower"
+			(at 180.594 61.722 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 177.8 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 177.8 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 177.8 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b6da82c9-fcc8-4f2d-9244-ecaada352156")
+		)
+		(instances
+			(project "microcyber"
+				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
+					(reference "#PWR0283")
 					(unit 1)
 				)
 			)
@@ -9634,84 +9712,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
 					(reference "C198")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 135.89 26.67 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d2980242-f0e0-4fdb-a397-0ad247424fab")
-		(property "Reference" "#PWR0276"
-			(at 135.89 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 135.89 21.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 135.89 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 135.89 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 135.89 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ddd07b70-1a62-4020-b9b6-ed5a7cc6a11e")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/3e59c376-1de0-4402-963f-a3c314be298c"
-					(reference "#PWR0276")
 					(unit 1)
 				)
 			)
