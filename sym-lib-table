@@ -20,4 +20,6 @@
 	(lib (name "2026-04-05_20-08-59") (type "KiCad") (uri "${KIPRJMOD}/Libraries/2026-04-05_20-08-59.kicad_sym") (options "") (descr ""))
 	(lib (name "2026-04-05_20-11-58") (type "KiCad") (uri "${KIPRJMOD}/Libraries/2026-04-05_20-11-58.kicad_sym") (options "") (descr ""))
 	(lib (name "2026-04-06_00-39-49") (type "KiCad") (uri "${KIPRJMOD}/Libraries/2026-04-06_00-39-49.kicad_sym") (options "") (descr ""))
+	(lib (name "2026-04-07_02-11-45") (type "KiCad") (uri "${KIPRJMOD}/Libraries/2026-04-07_02-11-45.kicad_sym") (options "") (descr ""))
+	(lib (name "2026-04-07_04-37-41") (type "KiCad") (uri "${KIPRJMOD}/Libraries/2026-04-07_04-37-41.kicad_sym") (options "") (descr ""))
 )
