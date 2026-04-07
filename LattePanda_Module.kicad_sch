@@ -10534,7 +10534,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:Battery_Holder_CR1220_S8411-45R"
+		(property "Footprint" "A_DFRobot:Battery_Holder_CR1220_S8411-45R"
 			(at 308.356 54.61 90)
 			(hide yes)
 			(show_name no)

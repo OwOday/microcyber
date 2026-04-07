@@ -3415,16 +3415,6 @@
 		)
 		(uuid "448b07d2-8620-4adb-8232-a4651ecebdcc")
 	)
-	(label "CON_USB2_D_P"
-		(at 201.9587 53.34 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4da514fc-e715-4b2d-a4a6-29ca1d4238b6")
-	)
 	(label "CON_USB4_D_P"
 		(at 93.98 157.48 180)
 		(effects
@@ -3575,16 +3565,6 @@
 		)
 		(uuid "ce0095f3-1d45-4d5a-a1fb-8d12e1633581")
 	)
-	(label "CON_USB2_D_N"
-		(at 201.9587 63.5 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "cf9d359c-768b-463f-a4df-a2f5c2021f42")
-	)
 	(label "CON_USB3_D_P"
 		(at 93.98 162.56 180)
 		(effects
@@ -3702,17 +3682,6 @@
 			(justify right)
 		)
 		(uuid "51b91098-19ba-40f5-8d7c-e360eb4b7082")
-	)
-	(hierarchical_label "vbus2_glas"
-		(shape bidirectional)
-		(at 242.57 29.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5f0a8404-cea4-410f-813c-5a72054f1dad")
 	)
 	(hierarchical_label "USB4_SSTX_P"
 		(shape output)
@@ -5445,9 +5414,9 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5c072f32-228b-4b42-ab1a-a471dadd982e")
 		(property "Reference" "F4"
 			(at 194.8467 31.496 90)
@@ -6227,9 +6196,9 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "89cf146e-d03a-4e0a-8aa9-3e078bcd25d6")
 		(property "Reference" "#FLG08"
 			(at 204.4987 31.115 0)

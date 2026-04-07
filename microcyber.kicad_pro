@@ -238,8 +238,20 @@
           "drill": 0.0
         },
         {
+          "diameter": 0.2,
+          "drill": 0.15
+        },
+        {
+          "diameter": 0.3,
+          "drill": 0.2
+        },
+        {
           "diameter": 0.4,
           "drill": 0.2
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false
@@ -893,7 +905,7 @@
         "uuid": "7ac319af-771c-4997-a005-b73a4a9b44ab"
       }
     ],
-    "used_designators": "L1,HS1,NT1,J4,Y3,U2-4,D1-2,D27-28,#PWR18,#PWR20,#PWR23,#PWR25,#PWR30,#PWR32,#PWR34-35,#PWR38,#PWR41,#PWR43,#PWR48-52,#PWR66-70,#PWR242-271,#PWR300-321,C7-48,C51-53,C61-64,C414-417,R16,R18-20,R25-26,R87-92",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
