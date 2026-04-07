@@ -1294,6 +1294,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(label "GPIO_6"
+		(at 0.1588 2.0957 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "42bedd31-88b4-4ad3-b8df-671e6172e6cf")
+	)
+	(label "GPIO_6"
+		(at 2.6988 4.6357 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bee66a14-9731-4696-9050-ec7467811813")
+	)
 	(hierarchical_label "I2C0_SCL"
 		(shape input)
 		(at 123.19 77.47 180)
@@ -1304,6 +1324,17 @@
 			(justify right)
 		)
 		(uuid "06def724-0298-4d50-9abe-b1f6a77023ee")
+	)
+	(hierarchical_label "GPIO_2"
+		(shape input)
+		(at 168.91 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0768676f-c31b-4ab3-841c-030f0b5d9a93")
 	)
 	(hierarchical_label "SPIO0_CS"
 		(shape input)
@@ -1316,6 +1347,17 @@
 		)
 		(uuid "1035198b-e573-48b7-a085-e05ebe835074")
 	)
+	(hierarchical_label "GPIO_5"
+		(shape input)
+		(at 168.91 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "14aa0e6c-7bdc-4e73-80f3-6594b8e267e0")
+	)
 	(hierarchical_label "SPIO0_RX"
 		(shape input)
 		(at 123.19 64.77 180)
@@ -1326,6 +1368,17 @@
 			(justify right)
 		)
 		(uuid "1986dcfd-ad2c-435d-bc92-1c9d1b1767ea")
+	)
+	(hierarchical_label "GPIO_1"
+		(shape input)
+		(at 168.91 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "39459a57-c6a6-427d-b9e1-65e691541cec")
 	)
 	(hierarchical_label "SPIO0_TX"
 		(shape input)
@@ -1349,6 +1402,39 @@
 		)
 		(uuid "53f95538-65b9-4ca3-a81c-c731988bca3b")
 	)
+	(hierarchical_label "GPIO_6"
+		(shape input)
+		(at 168.91 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "63d9274d-ac7d-4867-b8e2-599dce21e36b")
+	)
+	(hierarchical_label "GPIO_4"
+		(shape input)
+		(at 168.91 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "840b4845-b9f0-405c-beca-5becc73072c1")
+	)
+	(hierarchical_label "GPIO_3"
+		(shape input)
+		(at 168.91 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ba825fa9-5d37-434e-8fc4-1512944aabdf")
+	)
 	(hierarchical_label "I2C1_SDA"
 		(shape input)
 		(at 123.19 80.01 180)
@@ -1360,6 +1446,17 @@
 		)
 		(uuid "bc4eff25-3d85-4ab3-8c4d-4fa28ab83ef4")
 	)
+	(hierarchical_label "GPIO_8"
+		(shape input)
+		(at 123.19 102.87 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c0585807-248e-4f4f-98af-85a2d5f345b1")
+	)
 	(hierarchical_label "SPIO0_SCK"
 		(shape input)
 		(at 123.19 69.85 180)
@@ -1370,6 +1467,17 @@
 			(justify right)
 		)
 		(uuid "e5f43fa6-9bf7-4d30-a9b3-60f930c61f91")
+	)
+	(hierarchical_label "GPIO_7"
+		(shape input)
+		(at 168.91 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e8a39dad-a6e2-4a76-a6d8-d0314dc8b9f3")
 	)
 	(hierarchical_label "I2C1_SCL"
 		(shape input)

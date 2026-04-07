@@ -1757,6 +1757,61 @@
 		)
 		(uuid "03e78312-9cba-4b44-9a6a-655f3badf762")
 	)
+	(hierarchical_label "GPIO_1"
+		(shape input)
+		(at 107.95 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "06a2cd45-85d1-414a-92ee-5b4c514d11d9")
+	)
+	(hierarchical_label "GPIO_3"
+		(shape input)
+		(at 107.95 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2d253cc3-8f49-44ab-9bf4-37a3d4f87edb")
+	)
+	(hierarchical_label "GPIO_2"
+		(shape input)
+		(at 107.95 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3d09f0ea-e30b-47e6-be4f-e9ba8b0f008d")
+	)
+	(hierarchical_label "GPIO_8"
+		(shape input)
+		(at 107.95 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "480635d6-95db-4f28-961f-d2e4a3a4806b")
+	)
+	(hierarchical_label "GPIO_4"
+		(shape input)
+		(at 107.95 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c636219-998a-4c88-8dbd-c23794ac9d8f")
+	)
 	(hierarchical_label "USB_2_P4-"
 		(shape bidirectional)
 		(at 200.66 33.02 0)
@@ -1767,6 +1822,39 @@
 			(justify left)
 		)
 		(uuid "8933deff-5e9f-40b8-91e6-faf3c8aeeb82")
+	)
+	(hierarchical_label "GPIO_6"
+		(shape input)
+		(at 107.95 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dede0af0-4293-4a7b-a14c-f870b84f99c5")
+	)
+	(hierarchical_label "GPIO_7"
+		(shape input)
+		(at 107.95 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e22fe328-4bb8-4505-baa7-1b8c68c9b763")
+	)
+	(hierarchical_label "GPIO_5"
+		(shape input)
+		(at 107.95 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fabfaa1e-0082-4f3e-99a8-e3ca9b5d59e9")
 	)
 	(symbol
 		(lib_id "power:GND")
