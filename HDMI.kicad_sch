@@ -10630,12 +10630,6 @@
 		(uuid "01bb2d6e-9c46-4276-8b52-2770ea2c4b54")
 	)
 	(junction
-		(at 326.39 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "024b14cb-9309-407e-a311-604bc2f16a58")
-	)
-	(junction
 		(at 134.62 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10846,6 +10840,12 @@
 		(uuid "289df509-983f-4f15-b0f4-65e1e6169235")
 	)
 	(junction
+		(at 351.79 20.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a0a0904-458e-4467-b49a-9e03398d2ae4")
+	)
+	(junction
 		(at 295.91 303.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10894,6 +10894,12 @@
 		(uuid "39f2bd60-4f14-4f3e-aed9-54a00178d5d1")
 	)
 	(junction
+		(at 326.39 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b69f137-04b4-441e-8b6e-e1f4b214bebc")
+	)
+	(junction
 		(at 130.81 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10916,12 +10922,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "44388515-79db-4ce4-a6e1-f79cee9f97f3")
-	)
-	(junction
-		(at 351.79 20.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "45b80708-f49f-4d73-8d77-45cd9ca86a18")
 	)
 	(junction
 		(at 121.92 97.79)
@@ -11158,12 +11158,6 @@
 		(uuid "9084bd78-ed68-4b77-8991-72d8454ba7bd")
 	)
 	(junction
-		(at 326.39 163.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "90f89853-32c7-4c75-a282-77a5fec97c62")
-	)
-	(junction
 		(at 148.59 184.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11378,6 +11372,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d6b363ed-aa9b-4f2a-8c49-d284c466a60c")
+	)
+	(junction
+		(at 326.39 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d7c48ad9-954d-4b08-9d24-0a83ca47353c")
 	)
 	(junction
 		(at 490.22 102.87)
@@ -11805,7 +11805,7 @@
 	)
 	(wire
 		(pts
-			(xy 355.6 31.75) (xy 351.79 31.75)
+			(xy 351.79 31.75) (xy 365.76 31.75)
 		)
 		(stroke
 			(width 0)
@@ -12372,16 +12372,6 @@
 			(type default)
 		)
 		(uuid "1fe921de-bdb7-4c78-842f-fa8a00bc1d92")
-	)
-	(wire
-		(pts
-			(xy 351.79 20.32) (xy 351.79 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ffcbc28-7573-4df1-9d7d-fe763a02b15d")
 	)
 	(wire
 		(pts
@@ -13585,6 +13575,16 @@
 	)
 	(wire
 		(pts
+			(xy 351.79 19.05) (xy 351.79 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6de01b47-6a64-4057-8ad4-5111880dc9d8")
+	)
+	(wire
+		(pts
 			(xy 120.65 227.33) (xy 120.65 232.41)
 		)
 		(stroke
@@ -14165,16 +14165,6 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 20.32) (xy 351.79 20.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92d12e39-6fb2-4a7f-bc49-340e70fbd99b")
-	)
-	(wire
-		(pts
 			(xy 292.1 255.27) (xy 292.1 293.37)
 		)
 		(stroke
@@ -14382,16 +14372,6 @@
 			(type default)
 		)
 		(uuid "9b7b73bc-7075-4c01-9d4f-857fbeb54e54")
-	)
-	(wire
-		(pts
-			(xy 351.79 19.05) (xy 351.79 20.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c01b9d0-e9d9-4823-8309-8cc411d5f4b6")
 	)
 	(wire
 		(pts
@@ -15385,6 +15365,16 @@
 	)
 	(wire
 		(pts
+			(xy 351.79 20.32) (xy 351.79 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf9f0b35-672f-4aac-9e14-01d8f60b0d8c")
+	)
+	(wire
+		(pts
 			(xy 287.02 295.91) (xy 303.53 295.91)
 		)
 		(stroke
@@ -16055,6 +16045,16 @@
 	)
 	(wire
 		(pts
+			(xy 351.79 20.32) (xy 353.06 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0cc8f04-ff15-471d-91e9-f7c8120a358b")
+	)
+	(wire
+		(pts
 			(xy 581.66 80.01) (xy 580.39 80.01)
 		)
 		(stroke
@@ -16255,16 +16255,6 @@
 	)
 	(wire
 		(pts
-			(xy 365.76 31.75) (xy 363.22 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "feff95f2-7250-422a-a17e-247b4a3a1c8a")
-	)
-	(wire
-		(pts
 			(xy 269.24 91.44) (xy 269.24 184.15)
 		)
 		(stroke
@@ -16322,16 +16312,6 @@
 			(justify right bottom)
 		)
 		(uuid "084abebd-dbbe-47fe-873b-51aae769930c")
-	)
-	(label "5v_hdmi_out"
-		(at 499.11 118.11 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "0987b0a9-2d5b-4d82-ba45-f79e5f939595")
 	)
 	(label "TMDS_D0+"
 		(at 224.79 106.68 180)
@@ -16553,16 +16533,6 @@
 		)
 		(uuid "8aa21dfb-d324-480c-a3f6-2722c2f3189e")
 	)
-	(label "5v_hdmi_out"
-		(at 354.33 31.75 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8d5af65f-3200-4303-9c18-c439ba7ddc99")
-	)
 	(label "DDC_SDA"
 		(at 581.66 140.97 0)
 		(effects
@@ -16622,16 +16592,6 @@
 			(justify right bottom)
 		)
 		(uuid "a0a58c1d-932d-4574-87fa-0382001170a7")
-	)
-	(label "5V_HDMI_VCC"
-		(at 326.39 172.72 270)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a457c8a0-e5ce-45be-9dc2-0652f8ed30bd")
 	)
 	(label "CEC_STUB"
 		(at 344.17 83.82 180)
@@ -20811,6 +20771,83 @@
 		)
 	)
 	(symbol
+		(lib_id "DF_PWR:5V_HDMI_VCC")
+		(at 326.39 172.72 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "39440dbe-64c0-4238-9a27-959c1c19360c")
+		(property "Reference" "#PWR325"
+			(at 326.39 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5V_HDMI_VCC"
+			(at 326.39 176.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 328.93 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 328.93 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 326.39 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "878cd7c8-b61e-4060-bb9a-071e36337bdd")
+		)
+		(instances
+			(project "microcyber"
+				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/50bb56ec-486a-4ae0-9d7c-b3c90bb32b7f"
+					(reference "#PWR325")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 290.83 78.74 90)
 		(unit 1)
@@ -22484,83 +22521,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/50bb56ec-486a-4ae0-9d7c-b3c90bb32b7f"
 					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DF_PWR:5V_HDMI_VCC")
-		(at 351.79 19.05 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "46c3a6f6-0094-49b2-911e-50459c2d1e1f")
-		(property "Reference" "#PWR286"
-			(at 351.79 13.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "5V_HDMI_VCC"
-			(at 351.79 15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 349.25 19.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 349.25 19.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 351.79 19.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "758c9a29-386d-4fd4-852d-b697168d7be0")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/50bb56ec-486a-4ae0-9d7c-b3c90bb32b7f"
-					(reference "#PWR286")
 					(unit 1)
 				)
 			)
@@ -27661,6 +27621,83 @@
 		)
 	)
 	(symbol
+		(lib_id "DF_PWR:5V_HDMI_VCC")
+		(at 499.11 118.11 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "94a541ff-6ce6-4e21-bf0d-a76508cf0bee")
+		(property "Reference" "#PWR324"
+			(at 494.03 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5V_HDMI_VCC"
+			(at 495.3 118.11 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 499.11 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 499.11 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 499.11 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "209b37eb-c056-4d75-80d3-5282e026b0cc")
+		)
+		(instances
+			(project "microcyber"
+				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/50bb56ec-486a-4ae0-9d7c-b3c90bb32b7f"
+					(reference "#PWR324")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_11")
 		(lib_id "power:GND")
 		(at 459.74 95.25 0)
@@ -28134,7 +28171,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RCLAMP0524PATCT:DIO_RCLAMP0524PATCT"
+		(property "Footprint" "HDMI:DIO_RCLAMP0524PATCT"
 			(at 300.99 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -30718,86 +30755,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/50bb56ec-486a-4ae0-9d7c-b3c90bb32b7f"
 					(reference "Q14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 359.41 31.75 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "b9d3ef79-48c5-4751-82dd-a6f96f7d6d15")
-		(property "Reference" "R13"
-			(at 359.41 25.4 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0 Ohm"
-			(at 359.41 27.94 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "A_DFRobot:R_0603_1608Metric"
-			(at 359.41 33.528 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 359.41 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "0 Ohm resistor"
-			(at 359.41 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "d8083a7a-9bcd-4644-84db-cbf5c578caa1")
-		)
-		(pin "1"
-			(uuid "b3217d04-c1c3-4beb-ad5a-9c34984ac658")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/50bb56ec-486a-4ae0-9d7c-b3c90bb32b7f"
-					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -33393,6 +33350,83 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/50bb56ec-486a-4ae0-9d7c-b3c90bb32b7f"
 					(reference "C15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "DF_PWR:5V_HDMI_VCC")
+		(at 351.79 19.05 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "ea54b6d5-f548-47e2-8da1-a58d95b1cff5")
+		(property "Reference" "#PWR286"
+			(at 351.79 13.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5V_HDMI_VCC"
+			(at 351.79 15.24 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 349.25 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 349.25 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 351.79 19.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7edf0f2c-defa-4ed4-a08a-5063187b9826")
+		)
+		(instances
+			(project "microcyber"
+				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/50bb56ec-486a-4ae0-9d7c-b3c90bb32b7f"
+					(reference "#PWR286")
 					(unit 1)
 				)
 			)
