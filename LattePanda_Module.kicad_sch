@@ -6811,12 +6811,6 @@
 		(uuid "9bf2a1a4-690c-48e2-ad3d-100fe24b29ea")
 	)
 	(junction
-		(at 327.66 262.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b4697bd1-3cd7-4aa0-b8c7-984dcfd6cafb")
-	)
-	(junction
 		(at 284.48 334.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7276,16 +7270,6 @@
 	)
 	(wire
 		(pts
-			(xy 336.55 262.89) (xy 340.36 262.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7241633-51b0-49d1-9e95-61b66a943c55")
-	)
-	(wire
-		(pts
 			(xy 283.21 50.8) (xy 283.21 62.23)
 		)
 		(stroke
@@ -7303,16 +7287,6 @@
 			(type default)
 		)
 		(uuid "c14fd9c2-8a2e-452e-b03b-84960f7401c5")
-	)
-	(wire
-		(pts
-			(xy 327.66 262.89) (xy 328.93 262.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c38ae30c-58af-48bd-9cfd-54928c5aa5f6")
 	)
 	(wire
 		(pts
@@ -8583,85 +8557,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
 					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 340.36 262.89 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4029bd1f-5790-4322-8ede-bc7be09051ff")
-		(property "Reference" "#PWR012"
-			(at 336.55 262.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VPullup"
-			(at 344.17 262.8899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 340.36 262.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 340.36 262.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 340.36 262.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "2a510937-2e10-4263-8fda-aff8da17c37e")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
-					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -10731,130 +10626,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
 					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 332.74 262.89 270)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "f5ef8957-31ae-417d-b4cf-5786ccb44e2e")
-		(property "Reference" "R4"
-			(at 337.566 265.176 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10K/1%"
-			(at 332.232 265.176 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "A_DFRobot:R_0603_1608Metric"
-			(at 332.74 264.668 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 332.74 262.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 332.74 262.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
-			(at 332.74 262.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DF_Comment" "0603贴片自恢复保险丝0.05A-6V_0603L005-6AR"
-			(at 332.74 262.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field-1" ""
-			(at 332.74 262.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "SCH_Show_Footprint" "R0805"
-			(at 332.74 262.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c3568b53-7e00-4677-9833-2cf36d20db07")
-		)
-		(pin "1"
-			(uuid "bb6e98ab-bfe9-4c66-8979-ed79cc476c33")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
-					(reference "R4")
 					(unit 1)
 				)
 			)

@@ -367,6 +367,26 @@
 		)
 		(uuid "13fda38f-26d3-4f99-ad15-fe4436fa5724")
 	)
+	(text_box "I can't get these to fit and we have the pi and glasgow soooooo, maybe we leave GPIO off for first revision?"
+		(exclude_from_sim no)
+		(at 40.64 162.56 0)
+		(size 55.88 49.53)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "f0e99bc6-ba56-4113-b491-c6c22fd1ebab")
+	)
 	(junction
 		(at 425.45 334.01)
 		(diameter 0)
@@ -4043,9 +4063,9 @@
 		(at 100.33 127)
 		(size 58.42 83.82)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)

@@ -1484,24 +1484,6 @@
 		)
 	)
 	(junction
-		(at 270.51 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "132989ef-0847-4b6c-97c4-d2de59a896be")
-	)
-	(junction
-		(at 200.66 41.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "192453d5-f02d-4bf2-98b0-0db85b8bd1fc")
-	)
-	(junction
-		(at 252.73 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1b5a48bd-381a-4972-813b-95e00f2b9440")
-	)
-	(junction
 		(at 229.87 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1520,64 +1502,10 @@
 		(uuid "2f1fd750-c722-40a2-a172-2605c134ebfb")
 	)
 	(junction
-		(at 200.66 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "370e3f18-895d-4fc8-8b5a-6356d70b284c")
-	)
-	(junction
-		(at 200.66 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "666e7c00-3632-48cc-a0f5-01c17ab706ba")
-	)
-	(junction
-		(at 227.33 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "708d6ef9-0908-49b7-b004-a44ff22a1ac0")
-	)
-	(junction
 		(at 209.55 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "72878f3a-3a50-4742-b1b8-1d81de7e0a71")
-	)
-	(junction
-		(at 252.73 119.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "72e87707-9371-44ad-afaa-274d568f60a6")
-	)
-	(junction
-		(at 270.51 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bc8d6778-46ef-4c56-a435-10ecb473bf5d")
-	)
-	(junction
-		(at 227.33 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bd78f0c1-7bc5-445e-af33-9c9373dc542f")
-	)
-	(junction
-		(at 270.51 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cc3281db-147c-4634-aa57-451ef0a5d72c")
-	)
-	(junction
-		(at 252.73 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d72534af-04a7-4cd9-8136-c4e7dde4cd31")
-	)
-	(junction
-		(at 227.33 43.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e1e8f8fe-ee70-466c-91fb-a32122ba996b")
 	)
 	(wire
 		(pts
@@ -1601,16 +1529,6 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 116.84) (xy 252.73 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09e630e5-b5e7-44ac-baa3-38443ece3f30")
-	)
-	(wire
-		(pts
 			(xy 229.87 104.14) (xy 229.87 101.6)
 		)
 		(stroke
@@ -1621,46 +1539,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 40.64) (xy 227.33 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d5910e8-8d8b-4725-9691-7f862006dd5d")
-	)
-	(wire
-		(pts
-			(xy 270.51 120.65) (xy 270.51 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0dc1c6b1-0126-475f-802c-379e6dfd26d0")
-	)
-	(wire
-		(pts
-			(xy 200.66 41.91) (xy 200.66 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1172ca59-659a-4240-8492-6367cbe8d45c")
-	)
-	(wire
-		(pts
-			(xy 270.51 113.03) (xy 275.59 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21d99683-65a0-4a48-9b27-64cf38aede5d")
-	)
-	(wire
-		(pts
 			(xy 107.95 102.87) (xy 127 102.87)
 		)
 		(stroke
@@ -1668,26 +1546,6 @@
 			(type default)
 		)
 		(uuid "2a024156-e6fc-4587-b811-e8b036c36e42")
-	)
-	(wire
-		(pts
-			(xy 200.66 44.45) (xy 200.66 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2fee330a-d801-4017-ab2f-f9a1dc1c39ae")
-	)
-	(wire
-		(pts
-			(xy 270.51 118.11) (xy 270.51 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3414bc30-3323-4526-ad5a-5865429f12c6")
 	)
 	(wire
 		(pts
@@ -1731,16 +1589,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 45.72) (xy 227.33 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ddd1884-fbab-44c3-b373-6ce023eb496c")
-	)
-	(wire
-		(pts
 			(xy 229.87 101.6) (xy 229.87 99.06)
 		)
 		(stroke
@@ -1748,16 +1596,6 @@
 			(type default)
 		)
 		(uuid "4e3b4667-7e82-4eb7-a209-ddf820200a70")
-	)
-	(wire
-		(pts
-			(xy 270.51 115.57) (xy 270.51 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f8df345-df74-41b4-b071-6ae91ba7282d")
 	)
 	(wire
 		(pts
@@ -1791,16 +1629,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 43.18) (xy 227.33 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63be3c96-63fb-48cc-bfa5-b59e1b31b1e5")
-	)
-	(wire
-		(pts
 			(xy 52.07 104.14) (xy 76.2 104.14)
 		)
 		(stroke
@@ -1831,36 +1659,6 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 114.3) (xy 252.73 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67307237-0258-4134-a240-9188f7fca730")
-	)
-	(wire
-		(pts
-			(xy 227.33 38.1) (xy 233.68 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ab199a1-b777-4e02-840f-3aad33a8973b")
-	)
-	(wire
-		(pts
-			(xy 157.48 40.64) (xy 181.61 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7375456d-9c38-443e-a0ad-7fcab8dcb2a1")
-	)
-	(wire
-		(pts
 			(xy 236.22 59.69) (xy 252.73 59.69)
 		)
 		(stroke
@@ -1868,16 +1666,6 @@
 			(type default)
 		)
 		(uuid "7d5322d0-31c9-459e-abb3-0b786760cfa0")
-	)
-	(wire
-		(pts
-			(xy 157.48 43.18) (xy 181.61 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "856c3082-b880-4a7e-b627-257fa0fbfb54")
 	)
 	(wire
 		(pts
@@ -1901,16 +1689,6 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 45.72) (xy 181.61 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87f36708-61c8-45b2-8c6c-1613dcfd98e4")
-	)
-	(wire
-		(pts
 			(xy 209.55 104.14) (xy 209.55 106.68)
 		)
 		(stroke
@@ -1928,16 +1706,6 @@
 			(type default)
 		)
 		(uuid "90443a24-a35a-482d-841f-3af99ade1449")
-	)
-	(wire
-		(pts
-			(xy 200.66 36.83) (xy 200.66 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90facd20-8d7c-4093-a4c8-ac03c43691de")
 	)
 	(wire
 		(pts
@@ -2051,16 +1819,6 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 38.1) (xy 181.61 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9ca50ca-8783-4347-bf8e-029caf6dc788")
-	)
-	(wire
-		(pts
 			(xy 52.07 106.68) (xy 76.2 106.68)
 		)
 		(stroke
@@ -2111,16 +1869,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 39.37) (xy 200.66 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e020564f-5c20-4e57-9677-534fb2a6b1e0")
-	)
-	(wire
-		(pts
 			(xy 148.59 66.04) (xy 148.59 71.12)
 		)
 		(stroke
@@ -2141,16 +1889,6 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 119.38) (xy 252.73 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e591a455-b47a-4b06-af28-cd06c6408929")
-	)
-	(wire
-		(pts
 			(xy 229.87 99.06) (xy 236.22 99.06)
 		)
 		(stroke
@@ -2158,36 +1896,6 @@
 			(type default)
 		)
 		(uuid "e9980b89-8e3e-4fcf-ad4c-2ad661ba26ec")
-	)
-	(wire
-		(pts
-			(xy 252.73 111.76) (xy 252.73 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0300151-5388-49cd-84fa-9bb45fc3ba68")
-	)
-	(label "I2C4_SDA"
-		(at 64.77 71.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "02990fda-db9c-4936-87de-72c305989735")
-	)
-	(label "I2C3_SCL"
-		(at 123.19 76.2 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "07bf5834-f4a2-48f4-b8b3-6dfbeec4d996")
 	)
 	(label "I2C2_SDA"
 		(at 39.37 71.12 180)
@@ -2239,36 +1947,6 @@
 		)
 		(uuid "249351ad-2e88-4f74-ad19-d73e80ac2b7a")
 	)
-	(label "I2C5_SDA"
-		(at 54.61 38.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "355a0f37-705b-43af-9d5a-f10908052276")
-	)
-	(label "I2C5_SDA"
-		(at 64.77 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "35c42e3d-f35f-4e60-852b-7ed970b18172")
-	)
-	(label "I2C2_SCL"
-		(at 163.83 38.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3a19003f-1277-405c-8ab1-b5d96f5b326d")
-	)
 	(label "SOC_UART1_TX"
 		(at 121.92 128.27 180)
 		(effects
@@ -2298,16 +1976,6 @@
 			(justify left bottom)
 		)
 		(uuid "5942d16a-3d98-490e-a37d-ddee3b39e225")
-	)
-	(label "I2C5_SCL"
-		(at 163.83 45.72 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "66ca4fde-abeb-4871-8aaa-10839e79e4d8")
 	)
 	(label "GPP_D1"
 		(at 242.57 57.15 0)
@@ -2339,16 +2007,6 @@
 		)
 		(uuid "7736e676-7e11-4664-87ea-1733aca0d9f4")
 	)
-	(label "I2C5_SCL"
-		(at 148.59 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "776a68de-44e0-4d00-8442-3d8aa6d33f3d")
-	)
 	(label "GPP_D0"
 		(at 242.57 54.61 0)
 		(effects
@@ -2368,16 +2026,6 @@
 			(justify right bottom)
 		)
 		(uuid "8a635026-d71d-43ca-86e5-8a91268942d8")
-	)
-	(label "I2C4_SCL"
-		(at 163.83 43.18 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "96442643-27a0-4064-a259-3a8271687d7a")
 	)
 	(label "I2C2_SCL"
 		(at 123.19 71.12 180)
@@ -2399,16 +2047,6 @@
 		)
 		(uuid "a1689dd9-6762-40a0-92cb-2a19ab0c170e")
 	)
-	(label "I2C4_SDA"
-		(at 54.61 35.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "aeeb446c-e888-4de9-bee5-0ddb6b94f9b1")
-	)
 	(label "SOC_UART1_RX"
 		(at 39.37 129.54 180)
 		(effects
@@ -2429,6 +2067,16 @@
 		)
 		(uuid "b55fb792-e7bd-49b7-bb20-95519836b833")
 	)
+	(label "I2C2_SCL"
+		(at 54.61 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c13c6375-5915-49ab-abee-035647bc3745")
+	)
 	(label "SOC_UART2_TX"
 		(at 111.76 107.95 0)
 		(effects
@@ -2438,26 +2086,6 @@
 			(justify left bottom)
 		)
 		(uuid "c6211be5-5e16-452d-8884-491a5bd8b030")
-	)
-	(label "I2C3_SDA"
-		(at 54.61 33.02 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cad233c5-7af7-4a48-bdfe-1af07c1a5f5e")
-	)
-	(label "I2C3_SDA"
-		(at 39.37 76.2 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "cb7d25df-e7e8-4f03-adcf-8225988680a8")
 	)
 	(label "SOC_UART2_RX"
 		(at 64.77 124.46 0)
@@ -2479,16 +2107,6 @@
 		)
 		(uuid "dd2401cf-9903-4dd0-9b9d-1042a189a6dd")
 	)
-	(label "I2C3_SCL"
-		(at 163.83 40.64 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e3f838f1-c6ce-45fc-ada0-d623348b9add")
-	)
 	(label "SOC_UART0_TX"
 		(at 111.76 102.87 0)
 		(effects
@@ -2498,16 +2116,6 @@
 			(justify left bottom)
 		)
 		(uuid "e85c6704-45f3-4ac4-b18b-1476845bdd36")
-	)
-	(label "I2C4_SCL"
-		(at 148.59 71.12 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "edbe720f-f658-4e63-abc5-a5902ec85b4f")
 	)
 	(label "GPP_D3"
 		(at 242.57 62.23 0)
@@ -2553,7 +2161,7 @@
 	)
 	(hierarchical_label "I2C2_SCL"
 		(shape output)
-		(at 181.61 38.1 0)
+		(at 71.12 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2760,192 +2368,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
 					(reference "U11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Library:GND")
-		(at 252.73 121.92 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "085b3abc-e11b-4ee2-9b02-82faa43900a5")
-		(property "Reference" "#PWR061"
-			(at 252.73 128.27 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 252.73 127 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 252.73 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 252.73 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 252.73 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1c4c168b-2d49-4008-a5dc-84e314e47bdf")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR061")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 222.25 40.64 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0b4e70a0-5435-49ca-b454-ea17822fe530")
-		(property "Reference" "J16"
-			(at 222.885 33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04_Pin"
-			(at 222.885 35.56 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "A_HDJ_Library:PinHeader_1x04_P2.54mm_Vertical"
-			(at 222.25 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 222.25 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 222.25 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DF_Comment" "2.54绿色单排排针-4P"
-			(at 222.25 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field-1" ""
-			(at 222.25 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "7d246caf-93bb-4e17-8f23-6f9b01e8d48c")
-		)
-		(pin "1"
-			(uuid "ee30be73-d6ac-4b97-8de1-4990f7c1d009")
-		)
-		(pin "2"
-			(uuid "01e9efd0-6d30-45d4-a849-cf7457450d71")
-		)
-		(pin "4"
-			(uuid "da77f7a9-854e-4e73-a3be-3c02706445ca")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J16")
 					(unit 1)
 				)
 			)
@@ -3399,114 +2821,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 195.58 39.37 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "507ccbee-d3e3-49f4-90f2-36df1ac5e832")
-		(property "Reference" "J14"
-			(at 196.215 31.75 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04_Pin"
-			(at 196.215 34.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "A_HDJ_Library:PinHeader_1x04_P2.54mm_Vertical"
-			(at 195.58 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 195.58 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 195.58 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DF_Comment" "2.54绿色单排排针-4P"
-			(at 195.58 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field-1" ""
-			(at 195.58 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "1e165d89-75e8-42f8-b4bd-4c430e0d401f")
-		)
-		(pin "1"
-			(uuid "5a099cfa-d81c-4fb5-aece-ce446e0e42b0")
-		)
-		(pin "2"
-			(uuid "69750f0e-ef2a-43b2-a227-1bf7e540443f")
-		)
-		(pin "4"
-			(uuid "3645fecf-8996-4955-bd62-2fa192faefd8")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Library:GND")
 		(at 52.07 86.36 0)
 		(unit 1)
@@ -3579,270 +2893,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
 					(reference "#PWR053")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 152.4 40.64 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "57932cc9-b0b4-495b-915d-3c4d6154311f")
-		(property "Reference" "J13"
-			(at 153.035 33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04_Pin"
-			(at 153.035 35.56 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "A_HDJ_Library:PinHeader_1x04_P2.54mm_Vertical"
-			(at 152.4 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 152.4 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 152.4 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DF_Comment" "2.54绿色单排排针-4P"
-			(at 152.4 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field-1" ""
-			(at 152.4 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "60872f1f-3d3e-4d8e-956e-a35925a087db")
-		)
-		(pin "1"
-			(uuid "148c03b4-7744-49b1-81d5-3da0e95b93e4")
-		)
-		(pin "2"
-			(uuid "f6585056-9ff2-4435-bba0-7888eda5637e")
-		)
-		(pin "4"
-			(uuid "e0ef14c5-063e-4715-84da-e629af26f571")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 275.59 113.03 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "645c86b8-e86a-4401-8742-094715551542")
-		(property "Reference" "#PWR063"
-			(at 275.59 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 275.59 107.95 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 275.59 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 275.59 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 275.59 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fcb5415a-6acf-4968-ba8a-315cddd38a76")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR063")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Library:GND")
-		(at 200.66 48.26 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6ce77384-e7b6-404f-b44d-ee1c4da79a2e")
-		(property "Reference" "#PWR057"
-			(at 200.66 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 200.66 53.34 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 200.66 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 200.66 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 200.66 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "440f6b41-d665-4b31-9e1b-f774d74dcb66")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -4025,84 +3075,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
 					(reference "#PWR056")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 233.68 38.1 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7f3cae57-9b5e-4a7b-943c-88d6e1855776")
-		(property "Reference" "#PWR059"
-			(at 233.68 41.91 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 233.68 33.02 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 233.68 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 233.68 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 233.68 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5d2f8477-b98b-4534-8114-a401e28af3d1")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -4605,114 +3577,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 247.65 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ac0bcd31-c17a-44b7-8a88-c4161933a03b")
-		(property "Reference" "J19"
-			(at 248.285 106.68 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04_Pin"
-			(at 248.285 109.22 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "A_HDJ_Library:PinHeader_1x04_P2.54mm_Vertical"
-			(at 247.65 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 247.65 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DF_Comment" "2.54绿色单排排针-4P"
-			(at 247.65 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field-1" ""
-			(at 247.65 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "842b10ad-7727-4b08-b74e-5b8251cf85bc")
-		)
-		(pin "1"
-			(uuid "231eece9-f8f4-4714-b59d-f1480b49593f")
-		)
-		(pin "2"
-			(uuid "31144e2a-5ce7-48fa-999a-9f62a2367e4d")
-		)
-		(pin "4"
-			(uuid "170eb395-d8c0-4593-a597-e541acdccc51")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
 		(at 224.79 101.6 0)
 		(unit 1)
@@ -5102,114 +3966,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
 					(reference "J18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 265.43 115.57 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f8878922-5ee4-4d9e-89bb-5c94f89b24df")
-		(property "Reference" "J20"
-			(at 266.065 107.95 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04_Pin"
-			(at 266.065 110.49 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "A_HDJ_Library:PinHeader_1x04_P2.54mm_Vertical"
-			(at 265.43 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 265.43 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 265.43 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "DF_Comment" "2.54绿色单排排针-4P"
-			(at 265.43 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field-1" ""
-			(at 265.43 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "a93f7292-8cd3-4fdc-9c70-26f8c4382053")
-		)
-		(pin "1"
-			(uuid "1952a5c2-ad93-45d9-953b-13dc71b3019d")
-		)
-		(pin "2"
-			(uuid "382ea31c-7e04-434f-8d28-cd02e1b28c50")
-		)
-		(pin "4"
-			(uuid "2ba5599d-f68a-443a-bccd-5b43e4ea0de8")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/46baeb5e-c32d-4e80-9378-f9d622006dfc"
-					(reference "J20")
 					(unit 1)
 				)
 			)
