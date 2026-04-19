@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 0.1,
-          "width": 0.2
+          "drill": 0.254,
+          "height": 0.508,
+          "width": 0.508
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.15
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -145,8 +145,8 @@
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.8,
-        "min_text_thickness": 0.08,
+        "min_text_height": 1.0,
+        "min_text_thickness": 0.15,
         "min_through_hole_diameter": 0.2,
         "min_track_width": 0.1161,
         "min_via_annular_width": 0.1,
@@ -200,6 +200,7 @@
       ],
       "track_widths": [
         0.0,
+        0.18,
         0.2055,
         0.25,
         0.4,
@@ -242,7 +243,7 @@
           "drill": 0.15
         },
         {
-          "diameter": 0.3,
+          "diameter": 0.35,
           "drill": 0.2
         },
         {
@@ -905,7 +906,7 @@
         "uuid": "7ac319af-771c-4997-a005-b73a4a9b44ab"
       }
     ],
-    "used_designators": "#PWR76,#PWR81,#PWR99,#PWR276,#PWR283,#PWR286,#PWR290,#PWR294,#PWR297-298,#PWR323-325",
+    "used_designators": "J5-6",
     "variants": []
   },
   "sheets": [
