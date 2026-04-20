@@ -683,6 +683,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 251.46) (xy 238.76 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "173c0930-fa6c-4f1b-95c5-b4ab7ace8367")
+	)
+	(wire
+		(pts
 			(xy 331.47 234.95) (xy 347.98 234.95)
 		)
 		(stroke
@@ -1633,6 +1643,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 248.92) (xy 238.76 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8da130fb-0595-47a2-b26b-2f14098e70a9")
+	)
+	(wire
+		(pts
 			(xy 342.9 179.07) (xy 353.06 179.07)
 		)
 		(stroke
@@ -2200,6 +2220,16 @@
 			(type default)
 		)
 		(uuid "d8b94f9b-1ae8-4355-b1b8-c39a2c719c86")
+	)
+	(wire
+		(pts
+			(xy 209.55 254) (xy 238.76 254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd97a999-b482-4cbe-b231-e010ba8dd8ac")
 	)
 	(wire
 		(pts
@@ -6049,6 +6079,36 @@
 				(justify left)
 			)
 		)
+		(pin "SMB_ALERT" output
+			(at 238.76 248.92 180)
+			(uuid "96cf48c4-e42b-439c-976e-8174d995c831")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SMB_CLK" output
+			(at 238.76 251.46 180)
+			(uuid "61efcd64-ee66-426f-b3bf-35dfaaaccbf1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SMB_DATA" bidirectional
+			(at 238.76 254 180)
+			(uuid "01175dff-53f3-4165-a9dc-72ddbbb87d2a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab"
@@ -6525,6 +6585,36 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "SMB_ALERT" input
+			(at 209.55 248.92 0)
+			(uuid "76341af6-65d1-4b4e-9178-36cdef28234a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SMB_CLK" input
+			(at 209.55 251.46 0)
+			(uuid "be44e9bd-066f-4a9e-8ca7-ede09dd3eb5d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SMB_DATA" bidirectional
+			(at 209.55 254 0)
+			(uuid "cc40719c-acdd-426b-87dc-5c49a9835257")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances

@@ -1812,6 +1812,17 @@
 		)
 		(uuid "4c636219-998a-4c88-8dbd-c23794ac9d8f")
 	)
+	(hierarchical_label "SMB_CLK"
+		(shape input)
+		(at 52.07 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6506ec79-bd5e-4be4-b79e-f186a215f021")
+	)
 	(hierarchical_label "USB_2_P4-"
 		(shape bidirectional)
 		(at 200.66 33.02 0)
@@ -1822,6 +1833,28 @@
 			(justify left)
 		)
 		(uuid "8933deff-5e9f-40b8-91e6-faf3c8aeeb82")
+	)
+	(hierarchical_label "SMB_DATA"
+		(shape bidirectional)
+		(at 52.07 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c4be1d4a-fdcf-421a-aa77-556ce42889b2")
+	)
+	(hierarchical_label "SMB_ALERT"
+		(shape input)
+		(at 52.07 74.93 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d1e63d07-4cc2-41c8-83ce-a4531886be5d")
 	)
 	(hierarchical_label "GPIO_6"
 		(shape input)

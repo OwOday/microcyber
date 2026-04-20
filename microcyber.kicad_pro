@@ -906,7 +906,7 @@
         "uuid": "7ac319af-771c-4997-a005-b73a4a9b44ab"
       }
     ],
-    "used_designators": "FID3-8,#PWR246,J5-6",
+    "used_designators": "R4,R13-14",
     "variants": []
   },
   "sheets": [

@@ -6704,9 +6704,19 @@
 		)
 		(uuid "03f8e65a-7871-4bcd-be0b-0f9a0dd7bc71")
 	)
+	(text "smlink is for me to negotiate dp\n"
+		(exclude_from_sim no)
+		(at 374.65 213.868 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "05b86894-9590-43bd-b8b5-98f2652b0f03")
+	)
 	(text "USB2_P6 is reserved for TypeC PD Controller\nDO NOT use it as a normal USB"
 		(exclude_from_sim no)
-		(at 326.39 129.54 0)
+		(at 340.106 136.652 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6714,6 +6724,16 @@
 			(justify left)
 		)
 		(uuid "156fedb2-6ec9-4784-a49d-a41ad97c419a")
+	)
+	(text "also for smlink\n"
+		(exclude_from_sim no)
+		(at 360.68 146.304 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2113bbe5-b3d8-4776-9be4-a997c00f4fda")
 	)
 	(text "HSIO functions are defined by the BIOS firmware, \nCannot be changed in BIOS menu.\n\nBefore starting design, you should choose one of\nthe available BIOS configurations on:\nhttps://github.com/LattePandaTeam/LattePanda-Mu\nOr contact techsupport for custom your BIOS\n\nThe default functions are defined as follows:\n\n- HSIO0: USB3.2 10Gbps\n- HSIO1: USB3.2 10Gbps\n- HSIO2: PCIe 3.0 x1\n- HSIO3: PCIe 3.0 x1\n\n- HSIO8: PCIe 3.0 x4 (Lane 0)\n- HSIO9: PCIe 3.0 x4 (Lane 1)\n- HSIO10: PCIe 3.0 x4 (Lane 2)\n- HSIO11: PCIe 3.0 x4 (Lane 3)\n\n- HSIO6: PCIe 3.0 x1"
 		(exclude_from_sim no)
@@ -7108,6 +7128,10 @@
 		(uuid "403d0523-e214-4313-a869-9e2100962dde")
 	)
 	(no_connect
+		(at 325.12 217.17)
+		(uuid "43e6d188-8352-4396-9d06-1096d6cada48")
+	)
+	(no_connect
 		(at 325.12 245.11)
 		(uuid "4a4e38a0-5d75-4a1d-89db-434ce0ddb7c4")
 	)
@@ -7202,10 +7226,6 @@
 	(no_connect
 		(at 325.12 160.02)
 		(uuid "901a94c3-b807-4b2f-9fa4-1f14d02cdcff")
-	)
-	(no_connect
-		(at 325.12 146.05)
-		(uuid "94f88ef3-f782-4d7f-8c71-67e96620ccd5")
 	)
 	(no_connect
 		(at 325.12 284.48)
@@ -7365,6 +7385,16 @@
 	)
 	(wire
 		(pts
+			(xy 342.9 214.63) (xy 344.17 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ea99677-654a-4731-acaf-ce5e19f4fd03")
+	)
+	(wire
+		(pts
 			(xy 290.83 54.61) (xy 294.64 54.61)
 		)
 		(stroke
@@ -7475,6 +7505,36 @@
 	)
 	(wire
 		(pts
+			(xy 325.12 212.09) (xy 327.66 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a6f8e7c-4267-4dac-bd37-01a733a57b61")
+	)
+	(wire
+		(pts
+			(xy 325.12 146.05) (xy 327.66 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "805fedf9-a2c4-4f6e-8cef-828cc3ea5a6b")
+	)
+	(wire
+		(pts
+			(xy 325.12 130.81) (xy 328.93 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87458333-b881-4c3b-9c03-5c7b428e12bc")
+	)
+	(wire
+		(pts
 			(xy 237.49 290.83) (xy 243.84 290.83)
 		)
 		(stroke
@@ -7482,6 +7542,16 @@
 			(type default)
 		)
 		(uuid "9292f6af-48e8-4d14-81f4-ed6142aab6f6")
+	)
+	(wire
+		(pts
+			(xy 335.28 146.05) (xy 339.09 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b2e864a-b539-4ded-970f-05fd42d6f57b")
 	)
 	(wire
 		(pts
@@ -7502,6 +7572,26 @@
 			(type default)
 		)
 		(uuid "a6dde20b-8d68-47eb-8524-074c56bf75d3")
+	)
+	(wire
+		(pts
+			(xy 335.28 212.09) (xy 344.17 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7708770-7e19-43bd-82a0-a22a5e1f64dc")
+	)
+	(wire
+		(pts
+			(xy 325.12 214.63) (xy 335.28 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af1819aa-a914-4647-b6d4-4f44ebb6efed")
 	)
 	(wire
 		(pts
@@ -7562,6 +7652,16 @@
 			(type default)
 		)
 		(uuid "ea7100de-ef88-4420-a4db-998cdda7278c")
+	)
+	(wire
+		(pts
+			(xy 325.12 128.27) (xy 328.93 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee503d34-a32b-40e2-baec-4dffa73b3010")
 	)
 	(wire
 		(pts
@@ -7682,6 +7782,17 @@
 			(justify right)
 		)
 		(uuid "0e539d39-3a91-40f4-8646-8b01adebb551")
+	)
+	(hierarchical_label "SMB_DATA"
+		(shape bidirectional)
+		(at 325.12 201.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "110ff9be-4578-479d-a3aa-3d0b2205e543")
 	)
 	(hierarchical_label "HSIO_3_TX-"
 		(shape output)
@@ -7815,6 +7926,17 @@
 		)
 		(uuid "35ef8863-647e-462a-bcb7-ec48f9b6f194")
 	)
+	(hierarchical_label "SML1DATA"
+		(shape output)
+		(at 344.17 212.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "360b4253-082f-4f5e-9792-9012a1883f25")
+	)
 	(hierarchical_label "HSIO_1_RX-"
 		(shape input)
 		(at 243.84 102.87 180)
@@ -7880,6 +8002,17 @@
 			(justify right)
 		)
 		(uuid "448789ff-6da4-416c-a234-cb4d56686fb5")
+	)
+	(hierarchical_label "SMB_ALERT"
+		(shape output)
+		(at 325.12 207.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "45c53bd0-6bc7-4206-8b07-35556a85a03d")
 	)
 	(hierarchical_label "HSIO_2_RX-"
 		(shape input)
@@ -8123,6 +8256,17 @@
 		)
 		(uuid "7894f462-a7d7-4807-8295-dd3c1098c7eb")
 	)
+	(hierarchical_label "USB_2_P6_PD-"
+		(shape bidirectional)
+		(at 328.93 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "78b12adf-254b-4e49-90a4-5e75a5e264e2")
+	)
 	(hierarchical_label "HSIO_11_RX+"
 		(shape input)
 		(at 243.84 166.37 180)
@@ -8155,6 +8299,17 @@
 			(justify right)
 		)
 		(uuid "7f08b23a-7169-4c0b-8534-3d2fbda87392")
+	)
+	(hierarchical_label "USB_2_P6_PD+"
+		(shape bidirectional)
+		(at 328.93 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "85310cdf-36c2-4808-a167-379453a87bf3")
 	)
 	(hierarchical_label "USB_2_P8+"
 		(shape bidirectional)
@@ -8387,6 +8542,17 @@
 		)
 		(uuid "b5e60c65-51cb-4ebe-8ba5-c98936238e0e")
 	)
+	(hierarchical_label "SMB_CLK"
+		(shape output)
+		(at 325.12 204.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b99efbf8-00d3-436f-aa4e-8ac1fbb4e196")
+	)
 	(hierarchical_label "SOC_UART1_RX"
 		(shape input)
 		(at 325.12 189.23 0)
@@ -8442,6 +8608,17 @@
 		)
 		(uuid "c49fc45b-9215-4356-a0b3-6feede8e6e28")
 	)
+	(hierarchical_label "SML1CLK"
+		(shape output)
+		(at 344.17 214.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c4a389c1-6958-4af5-946d-5bf655e5c7c2")
+	)
 	(hierarchical_label "SOC_UART0_TX"
 		(shape output)
 		(at 325.12 186.69 0)
@@ -8463,6 +8640,17 @@
 			(justify right)
 		)
 		(uuid "cc240cb9-95a5-44ea-b869-eafbf2a2afbe")
+	)
+	(hierarchical_label "PMCALERT"
+		(shape input)
+		(at 339.09 146.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d4979380-b847-4eaf-8868-9ec94f8d820c")
 	)
 	(hierarchical_label "DDI_B_TX1+"
 		(shape output)
@@ -9132,6 +9320,86 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
 					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 331.47 212.09 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "560af248-3864-4cf3-b9d0-2844872961a7")
+		(property "Reference" "R4"
+			(at 331.47 205.74 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 331.47 208.28 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "A_DFRobot:R_0603_1608Metric"
+			(at 331.47 213.868 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 331.47 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 331.47 212.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7d20aaeb-9158-4358-ae70-a39941ff0b06")
+		)
+		(pin "2"
+			(uuid "8b00f6a6-88ac-4c18-a446-ff3fb2336506")
+		)
+		(instances
+			(project "microcyber"
+				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -10901,6 +11169,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 331.47 146.05 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "9eecee0d-85ec-4fc4-8ab0-8187da599f72")
+		(property "Reference" "R14"
+			(at 331.47 139.7 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 331.47 142.24 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "A_DFRobot:R_0603_1608Metric"
+			(at 331.47 147.828 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 331.47 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 331.47 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8740a72f-447a-42a6-b816-ed01975a0480")
+		)
+		(pin "2"
+			(uuid "839eb2db-27f6-42cc-837d-18b9f40e33bc")
+		)
+		(instances
+			(project "microcyber"
+				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 441.96 257.81 0)
 		(unit 1)
@@ -11007,6 +11355,86 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
 					(reference "H12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 339.09 214.63 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "b21eb909-dfd7-45f4-9028-8cfdabc9ab17")
+		(property "Reference" "R13"
+			(at 339.09 208.28 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 339.09 210.82 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "A_DFRobot:R_0603_1608Metric"
+			(at 339.09 216.408 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 339.09 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 339.09 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ad706f64-24d4-498f-b42f-219beb77a553")
+		)
+		(pin "2"
+			(uuid "68690689-f1a3-4889-a126-3c0bf04c835e")
+		)
+		(instances
+			(project "microcyber"
+				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
+					(reference "R13")
 					(unit 1)
 				)
 			)
