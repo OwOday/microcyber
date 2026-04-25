@@ -12675,7 +12675,7 @@
 				)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GD"
 			(at 233.807 53.9242 0)
 			(show_name no)
 			(do_not_autoplace no)

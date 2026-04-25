@@ -7,4 +7,5 @@
 	(lib (name "A_DFRobot") (type "KiCad") (uri "${KIPRJMOD}/Libraries/A_DFRobot.pretty") (options "") (descr ""))
 	(lib (name "EdgeConnector") (type "KiCad") (uri "${KIPRJMOD}/Libraries/EdgeConnector.pretty") (options "") (descr ""))
 	(lib (name "HDMI") (type "KiCad") (uri "${KIPRJMOD}/Libraries/HDMI.pretty") (options "") (descr ""))
+	(lib (name "ComputemanParts") (type "KiCad") (uri "${KIPRJMOD}/Libraries/ComputemanParts.pretty") (options "") (descr ""))
 )
