@@ -7337,16 +7337,6 @@
 	)
 	(wire
 		(pts
-			(xy 342.9 214.63) (xy 344.17 214.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ea99677-654a-4731-acaf-ce5e19f4fd03")
-	)
-	(wire
-		(pts
 			(xy 290.83 54.61) (xy 294.64 54.61)
 		)
 		(stroke
@@ -7457,7 +7447,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 212.09) (xy 327.66 212.09)
+			(xy 325.12 212.09) (xy 344.17 212.09)
 		)
 		(stroke
 			(width 0)
@@ -7467,7 +7457,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.12 146.05) (xy 327.66 146.05)
+			(xy 325.12 146.05) (xy 339.09 146.05)
 		)
 		(stroke
 			(width 0)
@@ -7497,27 +7487,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 146.05) (xy 339.09 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b2e864a-b539-4ded-970f-05fd42d6f57b")
-	)
-	(wire
-		(pts
-			(xy 335.28 212.09) (xy 344.17 212.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7708770-7e19-43bd-82a0-a22a5e1f64dc")
-	)
-	(wire
-		(pts
-			(xy 325.12 214.63) (xy 335.28 214.63)
+			(xy 325.12 214.63) (xy 344.17 214.63)
 		)
 		(stroke
 			(width 0)
@@ -9355,86 +9325,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 331.47 212.09 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(in_pos_files yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "560af248-3864-4cf3-b9d0-2844872961a7")
-		(property "Reference" "R4"
-			(at 331.47 205.74 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 331.47 208.28 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "A_DFRobot:R_0603_1608Metric"
-			(at 331.47 213.868 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 331.47 212.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 331.47 212.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7d20aaeb-9158-4358-ae70-a39941ff0b06")
-		)
-		(pin "2"
-			(uuid "8b00f6a6-88ac-4c18-a446-ff3fb2336506")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Library:GND")
 		(at 284.48 334.01 0)
 		(unit 1)
@@ -11042,86 +10932,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 331.47 146.05 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(in_pos_files yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "9eecee0d-85ec-4fc4-8ab0-8187da599f72")
-		(property "Reference" "R14"
-			(at 331.47 139.7 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 331.47 142.24 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "A_DFRobot:R_0603_1608Metric"
-			(at 331.47 147.828 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 331.47 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 331.47 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8740a72f-447a-42a6-b816-ed01975a0480")
-		)
-		(pin "2"
-			(uuid "839eb2db-27f6-42cc-837d-18b9f40e33bc")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
-					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 441.96 257.81 0)
 		(unit 1)
@@ -11228,86 +11038,6 @@
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
 					(reference "H12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 339.09 214.63 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board no)
-		(in_pos_files yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "b21eb909-dfd7-45f4-9028-8cfdabc9ab17")
-		(property "Reference" "R13"
-			(at 339.09 208.28 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 339.09 210.82 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "A_DFRobot:R_0603_1608Metric"
-			(at 339.09 216.408 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 339.09 214.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 339.09 214.63 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ad706f64-24d4-498f-b42f-219beb77a553")
-		)
-		(pin "2"
-			(uuid "68690689-f1a3-4889-a126-3c0bf04c835e")
-		)
-		(instances
-			(project "microcyber"
-				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
-					(reference "R13")
 					(unit 1)
 				)
 			)
