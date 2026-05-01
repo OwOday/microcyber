@@ -3939,7 +3939,7 @@
 		)
 		(uuid "7ef02b7f-3af4-4603-b0cc-f28502f444a0")
 	)
-	(text_box "make sure this gnd is on the edge connector (battery power)\n"
+	(text_box "make sure this gnd is on the edge connector (battery power)\n\n\n-- wait is that true"
 		(exclude_from_sim no)
 		(at 318.77 192.7754 0)
 		(size 16.51 24.3946)
@@ -6129,7 +6129,7 @@
 				)
 			)
 		)
-		(property "Value" "47pF/50V"
+		(property "Value" "47p"
 			(at 275.082 196.85 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6161,7 +6161,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50v"
 			(at 273.05 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -6227,6 +6227,17 @@
 				)
 			)
 		)
+		(property "MPN" "490-5942-1-ND"
+			(at 273.05 190.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8035e0ed-c61c-4c95-8f1e-68a53cff5ee7")
 		)
@@ -6263,7 +6274,7 @@
 				)
 			)
 		)
-		(property "Value" "1uF/50V"
+		(property "Value" "1u"
 			(at 113.03 238.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6295,7 +6306,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50v"
 			(at 118.11 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -6350,7 +6361,18 @@
 				)
 			)
 		)
-		(property "Digikey" "490-GRM155R61H105KE05DCT-ND"
+		(property "Digikey" ""
+			(at 118.11 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-GRM155R61H105KE05DCT-ND"
 			(at 118.11 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -6397,7 +6419,7 @@
 				)
 			)
 		)
-		(property "Value" "19.1K/1%"
+		(property "Value" "19K1"
 			(at 260.35 196.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6429,7 +6451,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 265.43 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -6485,6 +6507,17 @@
 			)
 		)
 		(property "Digikey" "13-RC0402FR-1319K1LCT-ND"
+			(at 265.43 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "13-RC0402FR-1319K1LCT-ND"
 			(at 265.43 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -6621,6 +6654,17 @@
 				)
 			)
 		)
+		(property "MPN" " 450-1644-ND"
+			(at 170.18 242.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f882e055-577f-4754-a25e-c85d20aa25c5")
 		)
@@ -6658,7 +6702,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10V 47uF"
+		(property "Value" "47u"
 			(at 499.364 197.866 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6691,7 +6735,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM32ER71A476ME15L"
+		(property "Description" "10v"
+			(at 495.3 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM32ER71A476ME15L"
 			(at 495.3 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -6738,7 +6793,7 @@
 				)
 			)
 		)
-		(property "Value" "100K/1%"
+		(property "Value" "100K"
 			(at 260.35 189.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6770,7 +6825,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 265.43 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -6836,6 +6891,17 @@
 				)
 			)
 		)
+		(property "MPN" "311-100KJRCT-ND"
+			(at 265.43 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9f7e77b2-77e7-4c02-8529-b7c0cec7cd3e")
 		)
@@ -6873,7 +6939,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 461.01 218.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6905,8 +6971,19 @@
 				)
 			)
 		)
-		(property "Description" "ERJPA2F1002X"
+		(property "Description" ""
 			(at 461.01 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERJPA2F1002X"
+			(at 461.01 222.25 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7031,7 +7108,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10V 47uF"
+		(property "Value" "47u"
 			(at 509.524 197.866 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7064,7 +7141,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM32ER71A476ME15L"
+		(property "Description" "10v"
+			(at 505.46 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM32ER71A476ME15L"
 			(at 505.46 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -7112,7 +7200,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K/1%"
+		(property "Value" "1K"
 			(at 156.21 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7145,7 +7233,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 152.4 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -7211,6 +7299,17 @@
 				)
 			)
 		)
+		(property "MPN" "311-1.0KJRCT-ND"
+			(at 152.4 233.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ffe665d2-b506-4a9b-bc0c-b8678e0ecbba")
 		)
@@ -7249,7 +7348,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF, 25V"
+		(property "Value" "22u"
 			(at 383.54 184.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7282,7 +7381,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM31CC81E226ME11L"
+		(property "Description" "25v"
+			(at 379.73 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM31CC81E226ME11L"
 			(at 379.73 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -7331,7 +7441,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF, 25V"
+		(property "Value" "22u"
 			(at 367.03 184.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7364,7 +7474,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM31CC81E226ME11L"
+		(property "Description" "25v"
+			(at 363.22 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM31CC81E226ME11L"
 			(at 363.22 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -7411,7 +7532,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF 25V"
+		(property "Value" "10u"
 			(at 461.518 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7443,7 +7564,18 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "25v"
+			(at 458.47 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C2012X5R1E106K125AB"
 			(at 458.47 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -7623,6 +7755,17 @@
 				)
 			)
 		)
+		(property "MPN" "AP63200WU"
+			(at 233.68 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f0d9e068-1b58-4ecf-94ba-1356e74c38e4")
 		)
@@ -7672,7 +7815,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10V 47uF"
+		(property "Value" "47u"
 			(at 500.126 164.084 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7705,7 +7848,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM32ER71A476ME15L"
+		(property "Description" "10v"
+			(at 504.19 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM32ER71A476ME15L"
 			(at 504.19 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -8047,7 +8201,7 @@
 				)
 			)
 		)
-		(property "Value" "10v 0.1uF"
+		(property "Value" "u1"
 			(at 469.9 191.77 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8079,8 +8233,19 @@
 				)
 			)
 		)
-		(property "Description" "C1005X5R1A104K050BA"
+		(property "Description" "10v"
 			(at 469.9 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C1005X5R1A104K050BA"
+			(at 469.9 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8128,7 +8293,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330uF 25V"
+		(property "Value" "330u"
 			(at 337.82 185.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8161,7 +8326,18 @@
 				)
 			)
 		)
-		(property "Description" "A768KS337M1ELAE019"
+		(property "Description" "25v"
+			(at 334.01 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "A768KS337M1ELAE019"
 			(at 334.01 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -8209,7 +8385,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100u"
 			(at 190.5 300.228 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8254,6 +8430,17 @@
 			)
 		)
 		(property "Digikey" "490-GRM155R61H105KE05DCT-ND"
+			(at 180.34 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-GRM155R61H105KE05DCT-ND"
 			(at 180.34 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -8614,7 +8801,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uf"
+		(property "Value" "u1"
 			(at 166.37 318.7701 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8659,6 +8846,17 @@
 			)
 		)
 		(property "Digikey" "490-GRM155R61H105KE05DCT-ND"
+			(at 170.18 320.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-GRM155R61H105KE05DCT-ND"
 			(at 170.18 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -8805,6 +9003,17 @@
 				)
 			)
 		)
+		(property "MPN" "ESD5V0B03"
+			(at 163.83 241.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e1014614-c9d6-4fe4-b39d-1e36c948f914")
 		)
@@ -8841,7 +9050,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF 25V"
+		(property "Value" "10u"
 			(at 481.838 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8873,7 +9082,18 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "25v"
+			(at 478.79 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C2012X5R1E106K125AB"
 			(at 478.79 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8921,7 +9141,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10V 47uF"
+		(property "Value" "47u"
 			(at 519.684 197.866 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8954,7 +9174,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM32ER71A476ME15L"
+		(property "Description" "10v"
+			(at 515.62 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM32ER71A476ME15L"
 			(at 515.62 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -9551,7 +9782,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 400.05 165.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9584,7 +9815,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM155C81E105KE11D"
+		(property "Description" ""
+			(at 396.24 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155C81E105KE11D"
 			(at 396.24 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -9631,7 +9873,7 @@
 				)
 			)
 		)
-		(property "Value" "1K/1%"
+		(property "Value" "1K"
 			(at 304.8 251.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9663,7 +9905,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 304.8 254 0)
 			(hide yes)
 			(show_name no)
@@ -9729,6 +9971,28 @@
 				)
 			)
 		)
+		(property "MPN" "311-1.0KJRCT-ND"
+			(at 304.8 254 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field11" ""
+			(at 304.8 254 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "08e9b83d-1d4a-4d8a-83b8-2d5e4102e9a3")
 		)
@@ -9765,7 +10029,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/50V"
+		(property "Value" "100n"
 			(at 247.65 182.88 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9797,7 +10061,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50v"
 			(at 248.92 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -9853,6 +10117,17 @@
 			)
 		)
 		(property "Digikey" "478-KGM05CR71H104KHCT-ND"
+			(at 248.92 186.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
 			(at 248.92 186.69 90)
 			(hide yes)
 			(show_name no)
@@ -10057,7 +10332,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 400.05 184.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10090,7 +10365,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM155C81E105KE11D"
+		(property "Description" ""
+			(at 396.24 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155C81E105KE11D"
 			(at 396.24 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -10294,7 +10580,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10V 47uF"
+		(property "Value" "47u"
 			(at 519.176 164.084 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10327,7 +10613,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM32ER71A476ME15L"
+		(property "Description" "10v"
+			(at 523.24 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM32ER71A476ME15L"
 			(at 523.24 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -10406,8 +10703,19 @@
 				)
 			)
 		)
-		(property "Description" "XAL7070-551MEB"
+		(property "Description" ""
 			(at 480.06 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "XAL7070-551MEB"
+			(at 480.06 184.15 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11090,6 +11398,17 @@
 				)
 			)
 		)
+		(property "MPN" " 450-1644-ND"
+			(at 132.08 242.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "55664240-a196-45a2-bcb2-d80c3831ad3e")
 		)
@@ -11126,7 +11445,7 @@
 				)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "10K"
 			(at 307.34 256.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11158,7 +11477,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 312.42 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -11214,6 +11533,17 @@
 			)
 		)
 		(property "Digikey" "311-10KJRCT-ND"
+			(at 312.42 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "311-10KJRCT-ND"
 			(at 312.42 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -11653,7 +11983,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10V 47uF"
+		(property "Value" "47u"
 			(at 491.236 164.084 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11686,7 +12016,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM32ER71A476ME15L"
+		(property "Description" ""
+			(at 495.3 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM32ER71A476ME15L"
 			(at 495.3 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -11768,6 +12109,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 457.2 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MCS0402HZ0000ZE100"
+			(at 457.2 196.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11893,7 +12245,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "200k"
+		(property "Value" "200K"
 			(at 354.33 207.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11927,6 +12279,17 @@
 			)
 		)
 		(property "Description" "CRCW0402200KFKED"
+			(at 351.79 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CRCW0402200KFKED"
 			(at 351.79 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -11974,7 +12337,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10V 47uF"
+		(property "Value" "47u"
 			(at 507.746 164.084 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12007,7 +12370,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM32ER71A476ME15L"
+		(property "Description" "10v"
+			(at 511.81 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM32ER71A476ME15L"
 			(at 511.81 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -12191,6 +12565,17 @@
 				)
 			)
 		)
+		(property "MPN" "MCS0402HZ0000ZE100"
+			(at 500.38 210.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1127723e-4580-4318-baea-83a1074a2039")
 		)
@@ -12228,7 +12613,7 @@
 				)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 386.08 198.12 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12262,6 +12647,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 386.08 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155C81E105KE11D"
+			(at 386.08 203.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12397,7 +12793,7 @@
 				)
 			)
 		)
-		(property "Digikey" "160-1479-1-ND"
+		(property "MPN" "150060BS75000"
 			(at 323.85 245.11 90)
 			(hide yes)
 			(show_name no)
@@ -12679,7 +13075,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22u"
 			(at 287.02 199.39 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12711,7 +13107,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10v"
 			(at 285.75 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -12767,6 +13163,17 @@
 			)
 		)
 		(property "Digikey" "490-10476-1-ND"
+			(at 285.75 194.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-10476-1-ND"
 			(at 285.75 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -12994,6 +13401,17 @@
 				)
 			)
 		)
+		(property "MPN" "2N7002"
+			(at 321.31 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ce18d607-899f-40fa-a623-df528793bf0a")
 		)
@@ -13034,7 +13452,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10V 47uF"
+		(property "Value" "47u"
 			(at 529.844 197.866 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13067,7 +13485,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM32ER71A476ME15L"
+		(property "Description" "10v"
+			(at 525.78 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM32ER71A476ME15L"
 			(at 525.78 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -13407,7 +13836,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "u1"
 			(at 427.228 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13494,6 +13923,17 @@
 				)
 			)
 		)
+		(property "MPN" "C1005X7R1H104K050BE"
+			(at 430.53 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cf773b73-e03a-482d-a468-36bff5802180")
 		)
@@ -13530,7 +13970,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF 25V"
+		(property "Value" "10u"
 			(at 471.678 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13562,7 +14002,18 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "25v"
+			(at 468.63 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C2012X5R1E106K125AB"
 			(at 468.63 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -13703,7 +14154,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "100K"
 			(at 354.33 219.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13737,6 +14188,17 @@
 			)
 		)
 		(property "Description" "ERJ-2RKF1003X"
+			(at 351.79 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERJ-2RKF1003X"
 			(at 351.79 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -14036,7 +14498,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 442.468 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14068,7 +14530,18 @@
 				)
 			)
 		)
-		(property "Description" "C2012X5R1E106K125AB"
+		(property "Description" "25v"
+			(at 439.42 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C2012X5R1E106K125AB"
 			(at 439.42 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14410,7 +14883,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8uH/4.5A"
+		(property "Value" "6uH8"
 			(at 266.954 184.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14442,7 +14915,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "4.5A"
 			(at 256.54 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -14498,6 +14971,17 @@
 			)
 		)
 		(property "Digikey" "553-BMRA000606306R8MA1CT-ND"
+			(at 256.54 186.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "553-BMRA000606306R8MA1CT-ND"
 			(at 256.54 186.69 90)
 			(hide yes)
 			(show_name no)
@@ -14700,7 +15184,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22u"
 			(at 281.94 199.39 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14732,7 +15216,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10v"
 			(at 280.67 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -14798,6 +15282,17 @@
 				)
 			)
 		)
+		(property "MPN" "490-10476-1-ND"
+			(at 280.67 194.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dcdf60c1-71a1-4343-a7cb-037e7f2b5613")
 		)
@@ -14836,7 +15331,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF, 25V"
+		(property "Value" "22u"
 			(at 383.54 165.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14869,7 +15364,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM31CC81E226ME11L"
+		(property "Description" "25v"
+			(at 379.73 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM31CC81E226ME11L"
 			(at 379.73 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -15117,6 +15623,17 @@
 				)
 			)
 		)
+		(property "MPN" "MCS0402HZ0000ZE100"
+			(at 519.43 219.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "99c8a007-9db0-4b3a-be56-8f4fcd28670c")
 		)
@@ -15154,7 +15671,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uf"
+		(property "Value" "u1"
 			(at 160.528 303.784 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15209,6 +15726,17 @@
 				)
 			)
 		)
+		(property "MPN" "490-GRM155R61H105KE05DCT-ND"
+			(at 170.18 302.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "49840535-087e-40f8-8304-d1d67a480c95")
 		)
@@ -15245,7 +15773,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF 25V"
+		(property "Value" "10u"
 			(at 451.358 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15277,7 +15805,18 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "25v"
+			(at 448.31 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C2012X5R1E106K125AB"
 			(at 448.31 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -15325,7 +15864,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K/1%"
+		(property "Value" "1K"
 			(at 118.11 232.41 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15358,7 +15897,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 114.3 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -15413,7 +15952,18 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.0KJRCT-ND"
+		(property "Digikey" ""
+			(at 114.3 233.68 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "311-1.0KJRCT-ND"
 			(at 114.3 233.68 90)
 			(hide yes)
 			(show_name no)
@@ -15638,6 +16188,17 @@
 				)
 			)
 		)
+		(property "MPN" "ESD5V0B03"
+			(at 125.73 241.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f319d22f-67af-4a1e-976b-cb90e58c473e")
 		)
@@ -15674,7 +16235,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/50V"
+		(property "Value" "100n"
 			(at 292.1 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15706,7 +16267,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50v"
 			(at 290.83 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -15772,6 +16333,17 @@
 				)
 			)
 		)
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+			(at 290.83 194.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "12f3a08a-e9e9-48bb-89fd-0c9c4478f2e7")
 		)
@@ -15810,7 +16382,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22uF, 25V"
+		(property "Value" "22u"
 			(at 365.76 165.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15843,7 +16415,18 @@
 				)
 			)
 		)
-		(property "Description" "GRM31CC81E226ME11L"
+		(property "Description" "25v"
+			(at 361.95 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM31CC81E226ME11L"
 			(at 361.95 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -15891,7 +16474,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "100u"
 			(at 184.15 321.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15946,6 +16529,17 @@
 				)
 			)
 		)
+		(property "MPN" "490-GRM155R61H105KE05DCT-ND"
+			(at 180.34 320.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "069564e2-60ba-47f3-98dd-4d91eb3c5d82")
 		)
@@ -15982,7 +16576,7 @@
 				)
 			)
 		)
-		(property "Value" "1uF/50V"
+		(property "Value" "1u"
 			(at 151.13 238.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16014,7 +16608,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50v"
 			(at 156.21 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -16070,6 +16664,17 @@
 			)
 		)
 		(property "Digikey" "490-GRM155R61H105KE05DCT-ND"
+			(at 156.21 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-GRM155R61H105KE05DCT-ND"
 			(at 156.21 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -16406,7 +17011,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/50V"
+		(property "Value" "22u"
 			(at 193.04 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16438,7 +17043,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50v"
 			(at 191.77 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -16504,6 +17109,17 @@
 				)
 			)
 		)
+		(property "MPN" "445-14428-1-ND"
+			(at 191.77 195.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e9685467-9662-4d86-9002-022006015741")
 		)
@@ -16541,7 +17157,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K/1%"
+		(property "Value" "1K"
 			(at 332.74 238.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16574,7 +17190,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 323.85 237.49 0)
 			(hide yes)
 			(show_name no)
@@ -16630,6 +17246,17 @@
 			)
 		)
 		(property "Digikey" "311-1.0KJRCT-ND"
+			(at 323.85 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "311-1.0KJRCT-ND"
 			(at 323.85 237.49 0)
 			(hide yes)
 			(show_name no)
@@ -16790,6 +17417,17 @@
 		)
 		(property "Description" "CRCW040210R0FKED"
 			(at 519.43 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CRCW040210R0FKED"
+			(at 519.43 210.82 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

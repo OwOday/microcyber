@@ -17193,7 +17193,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "u1"
 			(at 409.702 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17227,6 +17227,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 410.21 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
 			(at 410.21 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -17274,7 +17285,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "u1"
 			(at 438.912 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17308,6 +17319,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 439.42 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
 			(at 439.42 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -17434,7 +17456,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "u1"
 			(at 428.752 48.768 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17468,6 +17490,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 430.53 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
 			(at 430.53 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -17515,7 +17548,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R/1%"
+		(property "Value" "470"
 			(at 142.24 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17548,7 +17581,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 143.51 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17592,7 +17625,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C2889341"
 			(at 143.51 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17718,7 +17751,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 363.22 19.05 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17750,7 +17783,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 356.87 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -17794,7 +17827,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
 			(at 356.87 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -17921,7 +17954,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "10n"
 			(at 446.278 88.392 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17955,6 +17988,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 444.5 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  C0402C103K5RACTU"
 			(at 444.5 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -18397,7 +18441,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "10n"
 			(at 431.038 82.042 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18431,6 +18475,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 429.26 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  C0402C103K5RACTU"
 			(at 429.26 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -18637,7 +18692,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 500.38 271.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18671,6 +18726,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 496.57 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402ZG105ZAT2A"
 			(at 496.57 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -18798,7 +18864,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "u1"
 			(at 469.392 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18832,6 +18898,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 469.9 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
 			(at 469.9 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -18879,7 +18956,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2K/1%"
+		(property "Value" "2K2"
 			(at 161.29 132.08 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18912,7 +18989,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 157.48 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -18934,7 +19011,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-2.2K-1%"
+		(property "DF_Comment" ""
 			(at 157.48 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -18956,7 +19033,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RC0402FR-132K2L"
 			(at 157.48 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -19161,7 +19238,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 115.57 93.98 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19193,7 +19270,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 109.22 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -19215,7 +19292,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-100nF-16V-X7R(0402)"
+		(property "DF_Comment" ""
 			(at 109.22 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -19237,7 +19314,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
 			(at 109.22 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -19363,7 +19440,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 115.57 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19395,7 +19472,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 109.22 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -19417,7 +19494,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-100nF-16V-X7R(0402)"
+		(property "DF_Comment" ""
 			(at 109.22 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -19439,7 +19516,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
 			(at 109.22 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -19768,7 +19845,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 405.638 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19802,6 +19879,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 405.13 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0402C103K5RACTU"
 			(at 405.13 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -20054,6 +20142,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 303.53 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ADV7623BSTZ"
 			(at 303.53 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -20607,7 +20706,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "48k7"
+		(property "Value" "48K7"
 			(at 541.02 283.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20641,6 +20740,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 538.48 281.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TNPW040248K7BEED"
 			(at 538.48 281.94 0)
 			(hide yes)
 			(show_name no)
@@ -20767,7 +20877,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R/1%"
+		(property "Value" "470"
 			(at 139.7 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20800,7 +20910,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 140.97 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -20844,7 +20954,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C2889341"
 			(at 140.97 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -21049,7 +21159,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "21.5K/1%"
+		(property "Value" "21K5"
 			(at 121.92 222.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21082,7 +21192,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 120.65 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -21104,7 +21214,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-21.5K-1%"
+		(property "DF_Comment" ""
 			(at 120.65 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -21126,7 +21236,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RCG040221K5FKED "
 			(at 120.65 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -21256,7 +21366,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "u1"
 			(at 442.722 44.958 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21290,6 +21400,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 444.5 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
 			(at 444.5 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -21416,7 +21537,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "u1"
 			(at 423.672 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21450,6 +21571,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 424.18 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
 			(at 424.18 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -21656,7 +21788,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "2SK3018"
 			(at 104.14 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -21782,7 +21914,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "TPAZ1023-04F"
 			(at 237.49 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -21931,7 +22063,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402ESDA-05N"
 			(at 138.43 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -21979,7 +22111,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "u1"
 			(at 455.422 37.338 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22013,6 +22145,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 457.2 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
 			(at 457.2 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -22060,7 +22203,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2K/1%"
+		(property "Value" "2K2"
 			(at 86.36 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22093,7 +22236,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 85.09 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -22115,7 +22258,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-2.2K-1%"
+		(property "DF_Comment" ""
 			(at 85.09 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -22137,7 +22280,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RC0402FR-132K2L"
 			(at 85.09 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -22185,7 +22328,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R/1%"
+		(property "Value" "470"
 			(at 123.19 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22218,7 +22361,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 124.46 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -22262,7 +22405,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C2889341"
 			(at 124.46 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -22450,7 +22593,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MP" "RCLAMP0524PATCT"
+		(property "MPN" "RCLAMP0524PATCT"
 			(at 259.08 260.35 0)
 			(hide yes)
 			(show_name no)
@@ -22709,7 +22852,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MP" "RCLAMP0524PATCT"
+		(property "MPN" "RCLAMP0524PATCT"
 			(at 269.24 321.31 0)
 			(hide yes)
 			(show_name no)
@@ -22827,7 +22970,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "u1"
 			(at 484.632 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22861,6 +23004,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 485.14 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
 			(at 485.14 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -22987,7 +23141,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R/1%"
+		(property "Value" "470"
 			(at 120.65 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23020,7 +23174,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 121.92 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -23064,7 +23218,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C2889341"
 			(at 121.92 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -23272,7 +23426,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "887ohm +-1%"
+		(property "Value" "887"
 			(at 411.48 137.1599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23305,7 +23459,18 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1%"
+			(at 408.94 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  RC0402JR-070RL"
 			(at 408.94 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -23746,7 +23911,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "u1"
 			(at 454.152 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23780,6 +23945,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 454.66 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
 			(at 454.66 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -23981,7 +24157,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "TPAZ1023-04F"
 			(at 186.69 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -24053,7 +24229,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1M/1%"
+		(property "Value" "1M"
 			(at 93.98 208.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24086,7 +24262,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 92.71 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -24108,7 +24284,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-1M-1%"
+		(property "DF_Comment" ""
 			(at 92.71 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -24130,7 +24306,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "560112110033"
 			(at 92.71 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -24255,7 +24431,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF"
 			(at 148.59 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -24381,7 +24557,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 115.57 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24413,7 +24589,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 109.22 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -24435,7 +24611,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-100nF-16V-X7R(0402)"
+		(property "DF_Comment" ""
 			(at 109.22 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -24457,7 +24633,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
 			(at 109.22 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -24505,7 +24681,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R/1%"
+		(property "Value" "470"
 			(at 129.54 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24538,7 +24714,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 130.81 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -24582,7 +24758,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C2889341"
 			(at 130.81 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -25100,7 +25276,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 115.57 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25132,7 +25308,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 109.22 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -25154,7 +25330,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-100nF-16V-X7R(0402)"
+		(property "DF_Comment" ""
 			(at 109.22 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -25176,7 +25352,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
 			(at 109.22 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -25225,7 +25401,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "390k"
+		(property "Value" "390K"
 			(at 438.15 217.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25259,6 +25435,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 435.61 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ESR01MZPF3903 "
 			(at 435.61 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -25342,6 +25529,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 494.03 298.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERJ-2RKF5101X"
 			(at 494.03 298.45 0)
 			(hide yes)
 			(show_name no)
@@ -25468,7 +25666,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 436.118 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25502,6 +25700,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 435.61 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  C0402C103K5RACTU"
 			(at 435.61 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -25549,7 +25758,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "10n"
 			(at 417.068 78.232 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25583,6 +25792,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 415.29 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  C0402C103K5RACTU"
 			(at 415.29 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -25630,7 +25850,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R/1%"
+		(property "Value" "470"
 			(at 133.35 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25663,7 +25883,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 134.62 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -25707,7 +25927,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C2889341"
 			(at 134.62 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -25755,7 +25975,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2K/1%"
+		(property "Value" "2K2"
 			(at 139.7 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25788,7 +26008,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 138.43 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -25832,7 +26052,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RC0402FR-132K2L"
 			(at 138.43 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -26042,7 +26262,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "10n"
 			(at 475.488 101.092 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26076,6 +26296,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 473.71 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  C0402C103K5RACTU"
 			(at 473.71 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -26122,7 +26353,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 115.57 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26154,7 +26385,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 109.22 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -26176,7 +26407,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-100nF-16V-X7R(0402)"
+		(property "DF_Comment" ""
 			(at 109.22 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -26198,7 +26429,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
 			(at 109.22 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -26246,7 +26477,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "10n"
 			(at 476.758 116.332 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26280,6 +26511,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 474.98 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  C0402C103K5RACTU"
 			(at 474.98 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -26406,7 +26648,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 450.088 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26440,6 +26682,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 449.58 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  C0402C103K5RACTU"
 			(at 449.58 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -26487,7 +26740,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R/1%"
+		(property "Value" "470"
 			(at 135.89 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26520,7 +26773,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 137.16 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -26564,7 +26817,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C2889341"
 			(at 137.16 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -26691,7 +26944,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2K/1%"
+		(property "Value" "2K2"
 			(at 76.2 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26724,7 +26977,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 74.93 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -26768,7 +27021,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RC0402FR-132K2L"
 			(at 74.93 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -26970,7 +27223,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 115.57 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27002,7 +27255,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 109.22 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -27024,7 +27277,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-100nF-16V-X7R(0402)"
+		(property "DF_Comment" ""
 			(at 109.22 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -27046,7 +27299,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
 			(at 109.22 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -27409,7 +27662,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "10n"
 			(at 491.998 108.712 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27443,6 +27696,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 490.22 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  C0402C103K5RACTU"
 			(at 490.22 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -27737,7 +28001,7 @@
 				)
 			)
 		)
-		(property "Value" "500ohm +-1%"
+		(property "Value" "500"
 			(at 425.45 142.24 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27769,8 +28033,19 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1%"
 			(at 425.45 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  PNM0402E5000BST1"
+			(at 425.45 146.05 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27896,7 +28171,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K/1%"
+		(property "Value" "1K"
 			(at 133.35 210.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27929,7 +28204,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 130.81 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -27951,7 +28226,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-1K-1%"
+		(property "DF_Comment" ""
 			(at 130.81 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -27973,7 +28248,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RMCF0402FT1K00"
 			(at 130.81 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -28241,7 +28516,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MP" "RCLAMP0524PATCT"
+		(property "MPN" "RCLAMP0524PATCT"
 			(at 300.99 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -28804,6 +29079,17 @@
 				)
 			)
 		)
+		(property "MPN" "ADV7623BSTZ"
+			(at 499.11 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "69"
 			(uuid "02c44879-5574-40f7-9b04-95c926a9456c")
 		)
@@ -29347,7 +29633,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 489.458 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29381,6 +29667,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 488.95 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  C0402C103K5RACTU"
 			(at 488.95 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -29743,7 +30040,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "u1"
 			(at 468.122 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29777,6 +30074,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 468.63 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
 			(at 468.63 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -29901,7 +30209,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402ESDA-05N"
 			(at 138.43 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -29949,7 +30257,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "u1"
 			(at 414.782 53.848 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29983,6 +30291,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 416.56 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
 			(at 416.56 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -30030,7 +30349,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "10n"
 			(at 461.518 93.472 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30064,6 +30383,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 459.74 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  C0402C103K5RACTU"
 			(at 459.74 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -30347,7 +30677,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "51r"
+		(property "Value" "51"
 			(at 502.92 284.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30381,6 +30711,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 500.38 283.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERJ-2RKF51R0X"
 			(at 500.38 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -30508,7 +30849,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "51r"
+		(property "Value" "51"
 			(at 480.06 284.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30542,6 +30883,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 477.52 283.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERJ-2RKF51R0X"
 			(at 477.52 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -30670,7 +31022,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "2SK3018"
 			(at 146.05 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -30956,7 +31308,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R/1%"
+		(property "Value" "470"
 			(at 127 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30989,7 +31341,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 128.27 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -31033,7 +31385,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C2889341"
 			(at 128.27 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -31081,7 +31433,7 @@
 				)
 			)
 		)
-		(property "Value" "47pF"
+		(property "Value" "47p"
 			(at 439.42 203.2 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31115,6 +31467,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 439.42 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0402C470J5GACTU"
+			(at 439.42 208.28 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31239,7 +31602,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "u1"
 			(at 470.662 33.528 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31273,6 +31636,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 472.44 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
 			(at 472.44 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -31320,7 +31694,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 462.788 41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31354,6 +31728,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 462.28 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  C0402C103K5RACTU"
 			(at 462.28 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -31559,7 +31944,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47k +-1%"
+		(property "Value" "47K"
 			(at 411.5501 157.226 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31592,7 +31977,18 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1%"
+			(at 416.56 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERA-2AEB473X"
 			(at 416.56 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -32195,7 +32591,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "2SK3018"
 			(at 104.14 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -32620,7 +33016,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "u1"
 			(at 398.272 61.468 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32654,6 +33050,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 400.05 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
+			(at 400.05 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Field6" ""
 			(at 400.05 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -32700,7 +33118,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 115.57 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32732,7 +33150,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 109.22 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -32754,7 +33172,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-100nF-16V-X7R(0402)"
+		(property "DF_Comment" ""
 			(at 109.22 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -32776,7 +33194,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
 			(at 109.22 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -32904,7 +33322,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1u"
 			(at 483.87 271.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32938,6 +33356,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 480.06 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402ZG105ZAT2A"
 			(at 480.06 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -33023,6 +33452,17 @@
 		)
 		(property "Description" ""
 			(at 417.83 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ABM8G-28.63636MHZ-18-D2Y-T"
+			(at 417.83 243.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33154,7 +33594,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "u1"
 			(at 482.092 28.448 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33188,6 +33628,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 483.87 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TMK105BJ104KV-F"
 			(at 483.87 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -33235,7 +33686,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 478.028 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33269,6 +33720,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 477.52 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "  C0402C103K5RACTU"
 			(at 477.52 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -33392,7 +33854,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 115.57 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33424,7 +33886,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 109.22 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -33446,7 +33908,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-100nF-16V-X7R(0402)"
+		(property "DF_Comment" ""
 			(at 109.22 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -33468,7 +33930,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
 			(at 109.22 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -33674,7 +34136,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10nF"
+		(property "Value" "10n"
 			(at 422.148 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33708,6 +34170,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 421.64 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0402C103K5RACTU"
 			(at 421.64 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -33755,7 +34228,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2K/1%"
+		(property "Value" "2K2"
 			(at 149.86 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33788,7 +34261,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 148.59 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -33832,7 +34305,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RC0402FR-132K2L"
 			(at 148.59 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -34166,7 +34639,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "2N7002"
 			(at 110.49 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -34217,7 +34690,7 @@
 				)
 			)
 		)
-		(property "Value" "47pF"
+		(property "Value" "47p"
 			(at 439.42 226.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34251,6 +34724,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 439.42 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "C0402C470J5GACTU"
+			(at 439.42 231.14 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34531,7 +35015,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "1N5819WS "
 			(at 160.02 149.86 0)
 			(hide yes)
 			(show_name no)

@@ -11881,7 +11881,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "BSMD0805-100-6V"
 			(at 196.8787 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -12198,6 +12198,17 @@
 				)
 			)
 		)
+		(property "MPN" "ESD5V0B03"
+			(at 589.28 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bf8d3f59-0f4e-4707-9540-a4ea8e4d2f68")
 		)
@@ -12234,7 +12245,7 @@
 				)
 			)
 		)
-		(property "Value" "47pF"
+		(property "Value" "47p"
 			(at 401.066 62.992 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12278,6 +12289,17 @@
 			)
 		)
 		(property "Digikey" "490-5942-1-ND"
+			(at 403.86 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-5942-1-ND"
 			(at 403.86 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -12569,7 +12591,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "ULC0524P"
 			(at 174.0187 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -13380,7 +13402,7 @@
 				)
 			)
 		)
-		(property "Value" "100K/1%"
+		(property "Value" "100K"
 			(at 643.89 212.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13412,7 +13434,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1%"
 			(at 643.89 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -13424,6 +13446,17 @@
 			)
 		)
 		(property "Digikey" "311-100KJRCT-ND"
+			(at 643.89 215.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "311-100KJRCT-ND"
 			(at 643.89 215.9 90)
 			(hide yes)
 			(show_name no)
@@ -13550,7 +13583,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100nF/50V"
+		(property "Value" "100n"
 			(at 346.71 207.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13583,7 +13616,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50v"
 			(at 350.52 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -13596,6 +13629,17 @@
 		)
 		(property "Digikey" "478-KGM05CR71H104KHCT-ND"
 			(at 350.52 205.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+			(at 350.52 205.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13677,6 +13721,17 @@
 			)
 		)
 		(property "Description" "Microchip SPI Serial EEPROM, DFN8"
+			(at 369.57 204.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "AT25DN512C-MAHF-T"
 			(at 369.57 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -13926,6 +13981,17 @@
 				)
 			)
 		)
+		(property "MPN" "ESD5V0B03"
+			(at 609.6 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "839daabb-31ba-4a0c-a969-68ac1b14f8ae")
 		)
@@ -13962,7 +14028,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22u"
 			(at 176.5587 22.86 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13994,7 +14060,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10v"
 			(at 180.3687 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -14016,7 +14082,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+		(property "DF_Comment" ""
 			(at 180.3687 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -14038,7 +14104,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "MLASL168BB5226MTNA01"
 			(at 180.3687 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -14164,7 +14230,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "10k"
 			(at 392.43 228.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14197,7 +14263,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1%"
 			(at 389.89 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -14209,6 +14275,17 @@
 			)
 		)
 		(property "Digikey" "311-10KJRCT-ND"
+			(at 389.89 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "311-10KJRCT-ND"
 			(at 389.89 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -14447,6 +14524,17 @@
 				)
 			)
 		)
+		(property "MPN" "ESD5V0B03"
+			(at 599.44 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "87e87382-3600-4460-b6eb-157812f3dc72")
 		)
@@ -14527,6 +14615,17 @@
 			)
 		)
 		(property "Digikey" "490-GRM155R61H334KE01JCT-ND"
+			(at 401.32 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-GRM155R61H334KE01JCT-ND"
 			(at 401.32 88.9 90)
 			(hide yes)
 			(show_name no)
@@ -14734,7 +14833,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/50V"
+		(property "Value" "100n"
 			(at 657.86 208.28 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14766,7 +14865,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50v"
 			(at 657.86 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -14778,6 +14877,17 @@
 			)
 		)
 		(property "Digikey" "478-KGM05CR71H104KHCT-ND"
+			(at 657.86 203.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
 			(at 657.86 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -15109,6 +15219,17 @@
 				(justify bottom)
 			)
 		)
+		(property "MPN" "TPS65988DHRSHR"
+			(at 440.69 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "54"
 			(uuid "523b52b2-b6c9-4f2c-8775-ff6802f0a506")
 		)
@@ -15427,6 +15548,17 @@
 				)
 			)
 		)
+		(property "MPN" "490-GRM155R61H224KE01DCT-ND"
+			(at 417.83 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f1ad19c8-78d3-470c-b9b6-cd9e46d175d4")
 		)
@@ -15564,6 +15696,17 @@
 				)
 			)
 		)
+		(property "MPN" "ESD5V0B03"
+			(at 579.12 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7b577fad-23b8-46d7-99b8-5f3a30da1f81")
 		)
@@ -15600,7 +15743,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22u"
 			(at 180.34 228.6 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15632,7 +15775,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10v"
 			(at 180.34 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -15654,7 +15797,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0603-22uF-10V-X5R(0603)"
+		(property "DF_Comment" ""
 			(at 180.34 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -15676,7 +15819,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "MLASL168BB5226MTNA01"
 			(at 180.34 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -15799,7 +15942,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "   BSMD0805L-200 "
 			(at 191.77 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -16377,6 +16520,17 @@
 				)
 			)
 		)
+		(property "MPN" "311-100KJRCT-ND"
+			(at 402.59 284.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e2e5ae20-acf4-478f-a930-6ed5b601afd0")
 		)
@@ -16492,7 +16646,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47pF/50V"
+		(property "Value" "47p"
 			(at 673.354 212.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16525,7 +16679,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50v"
 			(at 678.18 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -16537,6 +16691,17 @@
 			)
 		)
 		(property "Digikey" "490-5942-1-ND"
+			(at 678.18 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-5942-1-ND"
 			(at 678.18 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -17877,7 +18042,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 149.86 251.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17909,7 +18074,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 143.51 252.73 0)
 			(hide yes)
 			(show_name no)
@@ -17953,7 +18118,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402B104K160NT"
 			(at 143.51 252.73 0)
 			(hide yes)
 			(show_name no)
@@ -18091,6 +18256,17 @@
 			)
 		)
 		(property "Digikey" "ESD9B5.0ST5GOSCT-ND"
+			(at 619.76 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ESD5V0B03"
 			(at 619.76 148.59 90)
 			(hide yes)
 			(show_name no)
@@ -18625,7 +18801,7 @@
 				)
 			)
 		)
-		(property "Value" "47pF"
+		(property "Value" "47p"
 			(at 413.004 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18679,6 +18855,17 @@
 				)
 			)
 		)
+		(property "MPN" "490-5942-1-ND"
+			(at 410.21 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "55af2fd7-66dc-46d1-98b6-fb31f1454ba7")
 		)
@@ -18716,7 +18903,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47pF/50V"
+		(property "Value" "47p"
 			(at 687.578 211.836 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18749,7 +18936,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50v"
 			(at 687.07 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -18761,6 +18948,17 @@
 			)
 		)
 		(property "Digikey" "490-5942-1-ND"
+			(at 687.07 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-5942-1-ND"
 			(at 687.07 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -19134,6 +19332,17 @@
 				)
 			)
 		)
+		(property "MPN" "ULC0524P"
+			(at 604.52 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "95b3e0e3-45d8-4d9a-abaf-b9e945175455")
 		)
@@ -19238,6 +19447,17 @@
 			)
 		)
 		(property "Digikey" "490-GRM155R61H334KE01JCT-ND"
+			(at 401.32 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-GRM155R61H334KE01JCT-ND"
 			(at 401.32 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -19406,6 +19626,17 @@
 			)
 		)
 		(property "Digikey" "311-100KJRCT-ND"
+			(at 392.43 250.19 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "311-100KJRCT-ND"
 			(at 392.43 250.19 90)
 			(hide yes)
 			(show_name no)
@@ -19610,7 +19841,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100K/1%"
+		(property "Value" "100K"
 			(at 506.73 279.3999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19643,7 +19874,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1%"
 			(at 504.19 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -19655,6 +19886,17 @@
 			)
 		)
 		(property "Digikey" ""
+			(at 504.19 278.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "311-100KJRCT-ND"
 			(at 504.19 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -20454,7 +20696,7 @@
 				)
 			)
 		)
-		(property "Value" "100K/1%"
+		(property "Value" "100K"
 			(at 364.49 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20486,7 +20728,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1%"
 			(at 370.84 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -20499,6 +20741,17 @@
 		)
 		(property "Digikey" "311-100KJRCT-ND"
 			(at 370.84 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "311-100KJRCT-ND"
+			(at 370.84 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20745,6 +20998,17 @@
 				)
 			)
 		)
+		(property "MPN" "0483930003"
+			(at 213.36 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cd9978f0-0b01-4a13-bdf0-4bca0f1dd926")
 		)
@@ -20807,7 +21071,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "10K"
 			(at 384.81 233.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20840,7 +21104,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1%"
 			(at 387.35 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -20852,6 +21116,17 @@
 			)
 		)
 		(property "Digikey" "311-10KJRCT-ND"
+			(at 387.35 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "311-10KJRCT-ND"
 			(at 387.35 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -21030,6 +21305,17 @@
 				)
 			)
 		)
+		(property "MPN" "490-GRM155R61H224KE01DCT-ND"
+			(at 417.83 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "54a7f408-3d5f-451b-adab-9952030b1ddc")
 		)
@@ -21110,6 +21396,17 @@
 			)
 		)
 		(property "Digikey" "490-GRM155R61H334KE01JCT-ND"
+			(at 401.32 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-GRM155R61H334KE01JCT-ND"
 			(at 401.32 91.44 90)
 			(hide yes)
 			(show_name no)
@@ -21235,7 +21532,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402ESDA-05N"
 			(at 60.96 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -21327,6 +21624,17 @@
 			)
 		)
 		(property "Digikey" "12401610E4#2ACT-ND"
+			(at 350.52 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "12401610E4#2ACT-ND"
 			(at 350.52 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -21779,7 +22087,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7uF/10V"
+		(property "Value" "4u7"
 			(at 522.224 210.566 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21811,7 +22119,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10v"
 			(at 514.35 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -21823,6 +22131,17 @@
 			)
 		)
 		(property "Digikey" "490-10476-1-ND"
+			(at 514.35 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-10476-1-ND"
 			(at 514.35 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -21870,7 +22189,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/50V"
+		(property "Value" "100n"
 			(at 657.86 194.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21902,7 +22221,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50v"
 			(at 657.86 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -21914,6 +22233,17 @@
 			)
 		)
 		(property "Digikey" "478-KGM05CR71H104KHCT-ND"
+			(at 657.86 199.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
 			(at 657.86 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -22004,6 +22334,17 @@
 			)
 		)
 		(property "Digikey" "490-GRM155R61H224KE01DCT-ND"
+			(at 417.83 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-GRM155R61H224KE01DCT-ND"
 			(at 417.83 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -22287,7 +22628,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402ESDA-05N"
 			(at 50.8 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -22628,6 +22969,17 @@
 				)
 			)
 		)
+		(property "MPN" "490-GRM155R61H224KE01DCT-ND"
+			(at 417.83 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "112e522e-3f87-468b-9ccd-c7451d688c9d")
 		)
@@ -22744,7 +23096,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100K/1%"
+		(property "Value" "100K"
 			(at 372.11 260.3499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22777,7 +23129,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1%"
 			(at 374.65 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -22789,6 +23141,17 @@
 			)
 		)
 		(property "Digikey" "311-100KJRCT-ND"
+			(at 374.65 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "311-100KJRCT-ND"
 			(at 374.65 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -23004,7 +23367,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 149.86 254 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23036,7 +23399,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 143.51 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -23080,7 +23443,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402B104K160NT"
 			(at 143.51 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -23206,7 +23569,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uF/10V"
+		(property "Value" "10u"
 			(at 527.05 201.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23239,7 +23602,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10v"
 			(at 523.24 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -23251,6 +23614,17 @@
 			)
 		)
 		(property "Digikey" ""
+			(at 523.24 200.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MLASL168BB5106MTNB33"
 			(at 523.24 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -23431,6 +23805,17 @@
 			)
 		)
 		(property "Digikey" "490-GRM155R61H334KE01JCT-ND"
+			(at 401.32 73.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "490-GRM155R61H334KE01JCT-ND"
 			(at 401.32 73.66 90)
 			(hide yes)
 			(show_name no)
@@ -23714,7 +24099,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "ULC0524P"
 			(at 135.9187 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -24157,7 +24542,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/50V"
+		(property "Value" "100n"
 			(at 385.826 45.466 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24189,7 +24574,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "50v"
 			(at 378.46 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -24202,6 +24587,17 @@
 		)
 		(property "Digikey" "478-KGM05CR71H104KHCT-ND"
 			(at 378.46 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+			(at 378.46 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24248,7 +24644,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF/10V"
+		(property "Value" "10u"
 			(at 504.952 215.646 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24280,7 +24676,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10v"
 			(at 499.11 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -24292,6 +24688,17 @@
 			)
 		)
 		(property "Digikey" ""
+			(at 499.11 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MLASL168BB5106MTNB33"
 			(at 499.11 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -24681,6 +25088,17 @@
 				)
 			)
 		)
+		(property "MPN" "ESD5V0B03"
+			(at 629.92 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ac92d847-60ff-4032-b586-6bcffe650e99")
 		)
@@ -24719,7 +25137,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "19.1K/1%"
+		(property "Value" "19K1"
 			(at 506.73 287.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24752,7 +25170,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1%"
 			(at 504.19 285.75 0)
 			(hide yes)
 			(show_name no)
@@ -24764,6 +25182,17 @@
 			)
 		)
 		(property "Digikey" ""
+			(at 504.19 285.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CRCW040219K1FKED"
 			(at 504.19 285.75 0)
 			(hide yes)
 			(show_name no)
@@ -24992,7 +25421,7 @@
 				)
 			)
 		)
-		(property "Value" "22uF/10V"
+		(property "Value" "22u"
 			(at 479.298 190.754 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25024,7 +25453,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "10v"
 			(at 476.25 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -25035,8 +25464,19 @@
 				)
 			)
 		)
-		(property "Digikey" "490-10476-1-ND"
+		(property "Digikey" "MLASL168BB5226MTNA01"
 			(at 476.25 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MLASL168BB5226MTNA01"
+			(at 476.25 194.31 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26372,6 +26812,17 @@
 				)
 			)
 		)
+		(property "MPN" "ULC0524P"
+			(at 605.79 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c474d183-fcaa-48b1-bcca-37dd7ba17d82")
 		)
@@ -26628,6 +27079,17 @@
 				(justify bottom)
 			)
 		)
+		(property "MPN" "LM73100RPWR"
+			(at 397.51 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "7a7e08f8-bb9b-47b4-b490-d79210fc7da3")
 		)
@@ -26689,7 +27151,7 @@
 				)
 			)
 		)
-		(property "Value" "100K/1%"
+		(property "Value" "100K"
 			(at 643.89 223.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26721,7 +27183,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1%"
 			(at 643.89 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -26733,6 +27195,17 @@
 			)
 		)
 		(property "Digikey" "311-100KJRCT-ND"
+			(at 643.89 219.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "311-100KJRCT-ND"
 			(at 643.89 219.71 90)
 			(hide yes)
 			(show_name no)

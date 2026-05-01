@@ -8912,7 +8912,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9068,7 +9068,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9146,7 +9146,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9502,7 +9502,7 @@
 				)
 			)
 		)
-		(property "Value" "100K/1%"
+		(property "Value" "100K"
 			(at 235.204 288.036 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9534,7 +9534,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1%"
 			(at 233.68 290.83 0)
 			(hide yes)
 			(show_name no)
@@ -9580,6 +9580,17 @@
 		)
 		(property "SCH_Show_Footprint" "R0805"
 			(at 233.68 290.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0603L005/6AR"
+			(at 233.68 290.83 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9687,7 +9698,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9893,6 +9904,17 @@
 			)
 		)
 		(property "Description" "A micro computing module with x86 processer, RAM and eMMC."
+			(at 284.48 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ASAA821-EASB0-7H"
 			(at 284.48 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -10717,7 +10739,7 @@
 				)
 			)
 		)
-		(property "Value" "1K/1%"
+		(property "Value" "1K"
 			(at 300.99 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10749,7 +10771,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "1%"
 			(at 298.45 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -10804,6 +10826,17 @@
 				)
 			)
 		)
+		(property "MPN" "0603L005/6AR"
+			(at 298.45 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c01f3066-5712-47b6-83fb-45dab1c04a14")
 		)
@@ -10825,7 +10858,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -10937,7 +10970,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -11176,6 +11209,17 @@
 		)
 		(property "SCH_Show_Footprint" ""
 			(at 309.88 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BS-12-B3AA003"
+			(at 309.88 54.61 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

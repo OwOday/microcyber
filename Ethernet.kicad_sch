@@ -7530,6 +7530,17 @@
 				)
 			)
 		)
+		(property "MPN" "RTL8111H-CG-RH"
+			(at 146.05 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "12"
 			(uuid "88ca5cd7-02a6-43de-b9d9-2f9ff1e6bb86")
 		)
@@ -7659,7 +7670,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 113.03 101.6 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7691,7 +7702,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 106.68 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -7735,7 +7746,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402B104K160NT"
 			(at 106.68 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -7783,7 +7794,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.49K/1%"
+		(property "Value" "2K49"
 			(at 142.24 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7816,7 +7827,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 132.08 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -7838,7 +7849,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0603-2.49K-1%(0603-1.6*0.8*0.4)"
+		(property "DF_Comment" ""
 			(at 132.08 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -7860,7 +7871,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RK73H1JLTD2491F"
 			(at 132.08 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -7983,7 +7994,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C9900024673"
 			(at 190.5 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -8036,7 +8047,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 93.98 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8068,7 +8079,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 92.71 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8112,7 +8123,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402B104K160NT"
 			(at 92.71 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8159,7 +8170,7 @@
 				)
 			)
 		)
-		(property "Value" "12pF/50V"
+		(property "Value" "12p"
 			(at 195.58 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8191,7 +8202,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50v"
 			(at 195.58 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -8235,7 +8246,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "CC0402JRNPO9BN120"
 			(at 195.58 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -8283,7 +8294,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R/1%"
+		(property "Value" "470"
 			(at 247.65 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8316,7 +8327,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 250.19 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -8338,7 +8349,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-470R-1%"
+		(property "DF_Comment" ""
 			(at 250.19 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -8360,7 +8371,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "ERJ-2RKF4700X"
 			(at 250.19 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -8407,7 +8418,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 87.63 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8439,7 +8450,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 86.36 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8483,7 +8494,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402B104K160NT"
 			(at 86.36 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8606,7 +8617,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "ULC0524P"
 			(at 110.49 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -8677,7 +8688,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 113.03 93.98 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8709,7 +8720,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 106.68 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -8753,7 +8764,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402B104K160NT"
 			(at 106.68 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -8800,7 +8811,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 106.68 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8832,7 +8843,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 105.41 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8876,7 +8887,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402B104K160NT"
 			(at 105.41 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9002,7 +9013,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "10K"
 			(at 130.81 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9024,7 +9035,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "1%"
 			(at 129.54 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9079,7 +9090,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C2889342"
 			(at 129.54 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9283,7 +9294,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 100.33 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9315,7 +9326,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 99.06 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9359,7 +9370,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402B104K160NT"
 			(at 99.06 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9644,7 +9655,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 81.28 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9676,7 +9687,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 80.01 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9720,7 +9731,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402B104K160NT"
 			(at 80.01 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9767,7 +9778,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 114.3 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9799,7 +9810,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 113.03 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9845,6 +9856,17 @@
 		)
 		(property "Field-1" ""
 			(at 113.03 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402B104K160NT"
+			(at 113.03 53.34 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9890,7 +9912,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 101.6 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9922,7 +9944,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 100.33 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9968,6 +9990,17 @@
 		)
 		(property "Field-1" ""
 			(at 100.33 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "0402B104K160NT"
+			(at 100.33 53.34 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10013,7 +10046,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 220.98 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10045,7 +10078,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 215.9 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -10089,7 +10122,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402B104K160NT"
 			(at 215.9 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -10226,7 +10259,7 @@
 				)
 			)
 		)
-		(property "无标题字段" ""
+		(property "MPN" "RB1-125B8G1A"
 			(at 237.49 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -10312,7 +10345,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 106.68 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10344,7 +10377,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 100.33 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -10388,7 +10421,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402B104K160NT"
 			(at 100.33 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -10511,7 +10544,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "ULC0524P"
 			(at 110.49 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -10660,7 +10693,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 106.68 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10692,7 +10725,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 100.33 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10736,7 +10769,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "0402B104K160NT"
 			(at 100.33 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10784,7 +10817,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "10K"
 			(at 120.65 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10817,7 +10850,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 119.38 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -10861,7 +10894,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C2889342"
 			(at 119.38 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -10987,7 +11020,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "100n"
 			(at 107.95 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11019,7 +11052,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 106.68 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -11074,6 +11107,17 @@
 				)
 			)
 		)
+		(property "MPN" "0402B104K160NT"
+			(at 106.68 53.34 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2489ff4a-eea2-4930-9e34-b37ee8c4251a")
 		)
@@ -11111,7 +11155,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1M/1%"
+		(property "Value" "1M"
 			(at 181.61 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11144,7 +11188,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 180.34 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -11166,7 +11210,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-1M-1%"
+		(property "DF_Comment" ""
 			(at 180.34 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -11188,7 +11232,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "CC0402KRX7R9BB104"
 			(at 180.34 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -11472,7 +11516,7 @@
 				)
 			)
 		)
-		(property "Value" "12pF/50V"
+		(property "Value" "12p"
 			(at 189.23 100.33 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11504,7 +11548,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50v"
 			(at 194.31 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -11548,7 +11592,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "CC0402JRNPO9BN120"
 			(at 194.31 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -11676,7 +11720,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R/1%"
+		(property "Value" "470"
 			(at 247.65 106.68 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11709,7 +11753,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 250.19 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -11731,7 +11775,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-470R-1%"
+		(property "DF_Comment" ""
 			(at 250.19 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -11753,7 +11797,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "ERJ-2RKF4700X"
 			(at 250.19 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -11800,7 +11844,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF/10V"
+		(property "Value" "10u"
 			(at 113.03 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11832,7 +11876,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10v"
 			(at 111.76 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -11876,7 +11920,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "  CC0402MRX5R6BB106"
 			(at 111.76 77.47 0)
 			(hide yes)
 			(show_name no)

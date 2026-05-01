@@ -4585,7 +4585,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220nF/16V"
+		(property "Value" "220n"
 			(at 223.52 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4618,7 +4618,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 222.25 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -4662,7 +4662,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "GCM155R71C224KE02D"
 			(at 222.25 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5516,7 +5516,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF/10V"
+		(property "Value" "10u"
 			(at 294.64 19.05 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5548,7 +5548,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10v"
 			(at 288.29 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -5592,7 +5592,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "MLASL168BB5106MTNB33"
 			(at 288.29 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -5639,7 +5639,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF/10V"
+		(property "Value" "10u"
 			(at 148.59 25.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5671,7 +5671,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10v"
 			(at 142.24 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5715,7 +5715,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "MLASL168BB5106MTNB33"
 			(at 142.24 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5763,7 +5763,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R/1%"
+		(property "Value" "0"
 			(at 318.77 123.19 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5796,7 +5796,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 322.58 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -5840,7 +5840,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C2889341"
 			(at 322.58 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -6152,7 +6152,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -6264,7 +6264,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -6392,7 +6392,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R/1%"
+		(property "Value" "0"
 			(at 111.76 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6447,7 +6447,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-0R-1%"
+		(property "DF_Comment" ""
 			(at 104.14 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -6469,7 +6469,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "MCS0402HZ0000ZE100"
 			(at 104.14 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -6517,7 +6517,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220nF/16V"
+		(property "Value" "220n"
 			(at 158.75 193.04 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6550,7 +6550,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 157.48 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -6594,7 +6594,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "GCM155R71C224KE02D"
 			(at 157.48 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -6720,7 +6720,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "10K"
 			(at 322.58 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6753,7 +6753,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 323.85 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6775,7 +6775,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-10K-1%"
+		(property "DF_Comment" ""
 			(at 323.85 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6797,7 +6797,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RC0402FR-1310KL"
 			(at 323.85 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6923,7 +6923,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R/1%"
+		(property "Value" "0"
 			(at 257.81 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6956,7 +6956,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 250.19 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -6978,7 +6978,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-0R-1%"
+		(property "DF_Comment" ""
 			(at 250.19 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -7000,7 +7000,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "MCS0402HZ0000ZE100"
 			(at 250.19 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -7375,7 +7375,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R/1%"
+		(property "Value" "0"
 			(at 172.72 129.54 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7408,7 +7408,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 176.53 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -7452,7 +7452,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C2889341"
 			(at 176.53 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -7499,7 +7499,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF/10V"
+		(property "Value" "10u"
 			(at 229.87 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7531,7 +7531,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10v"
 			(at 223.52 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -7575,7 +7575,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "MLASL168BB5106MTNB33"
 			(at 223.52 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -7623,7 +7623,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R/1%"
+		(property "Value" "0"
 			(at 254 256.54 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7656,7 +7656,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 257.81 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -7678,7 +7678,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-0R-1%"
+		(property "DF_Comment" ""
 			(at 257.81 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -7700,7 +7700,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C2889341"
 			(at 257.81 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -7748,7 +7748,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "10K"
 			(at 176.53 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7825,7 +7825,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RC0402FR-1310KL"
 			(at 177.8 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -7873,7 +7873,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "10K"
 			(at 257.81 204.47 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7906,7 +7906,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 259.08 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -7950,7 +7950,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RC0402FR-1310KL"
 			(at 259.08 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -8450,7 +8450,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0R/1%"
+		(property "Value" "0"
 			(at 193.04 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8483,7 +8483,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 185.42 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -8505,7 +8505,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-0R-1%"
+		(property "DF_Comment" ""
 			(at 185.42 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -8527,7 +8527,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "MCS0402HZ0000ZE100"
 			(at 185.42 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -8732,7 +8732,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220nF/16V"
+		(property "Value" "220n"
 			(at 77.47 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8765,7 +8765,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 76.2 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -8787,7 +8787,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-220nF-16V-X7R"
+		(property "DF_Comment" ""
 			(at 76.2 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -8809,7 +8809,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "GCM155R71C224KE02D"
 			(at 76.2 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -8841,7 +8841,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9159,7 +9159,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "10K"
 			(at 264.16 201.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9192,7 +9192,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 262.89 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -9236,7 +9236,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RC0402FR-1310KL"
 			(at 262.89 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -9362,7 +9362,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "10K"
 			(at 328.93 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9395,7 +9395,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 327.66 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -9417,7 +9417,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-10K-1%"
+		(property "DF_Comment" ""
 			(at 327.66 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -9439,7 +9439,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RC0402FR-1310KL"
 			(at 327.66 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -9549,7 +9549,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9721,7 +9721,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220nF/16V"
+		(property "Value" "220n"
 			(at 223.52 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9754,7 +9754,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 222.25 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -9798,7 +9798,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "GCM155R71C224KE02D"
 			(at 222.25 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -9846,7 +9846,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220nF/16V"
+		(property "Value" "220n"
 			(at 77.47 66.04 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9879,7 +9879,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 76.2 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -9901,7 +9901,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-220nF-16V-X7R"
+		(property "DF_Comment" ""
 			(at 76.2 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -9923,7 +9923,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "GCM155R71C224KE02D"
 			(at 76.2 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -9955,7 +9955,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -10033,7 +10033,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -10677,7 +10677,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF/10V"
+		(property "Value" "10u"
 			(at 148.59 38.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10709,7 +10709,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10v"
 			(at 142.24 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10753,7 +10753,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "MLASL168BB5106MTNB33"
 			(at 142.24 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -11205,7 +11205,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF/10V"
+		(property "Value" "10u"
 			(at 294.64 31.75 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11237,7 +11237,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10v"
 			(at 288.29 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -11281,7 +11281,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "MLASL168BB5106MTNB33"
 			(at 288.29 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -11407,7 +11407,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220nF/16V"
+		(property "Value" "220n"
 			(at 158.75 195.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11440,7 +11440,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 157.48 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -11484,7 +11484,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "GCM155R71C224KE02D"
 			(at 157.48 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -11655,7 +11655,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K/1%"
+		(property "Value" "10K"
 			(at 182.88 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11688,7 +11688,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1%"
 			(at 181.61 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -11732,7 +11732,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "RC0402FR-1310KL"
 			(at 181.61 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -11779,7 +11779,7 @@
 				)
 			)
 		)
-		(property "Value" "10uF/10V"
+		(property "Value" "10u"
 			(at 229.87 165.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11811,7 +11811,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "10v"
 			(at 223.52 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -11855,7 +11855,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "MLASL168BB5106MTNB33"
 			(at 223.52 166.37 0)
 			(hide yes)
 			(show_name no)
