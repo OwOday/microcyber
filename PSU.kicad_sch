@@ -6227,7 +6227,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-5942-1-ND"
+		(property "MPN" "C0402C470J5GACTU"
 			(at 273.05 190.5 90)
 			(hide yes)
 			(show_name no)
@@ -6506,7 +6506,7 @@
 				)
 			)
 		)
-		(property "Digikey" "13-RC0402FR-1319K1LCT-ND"
+		(property "Digikey" ""
 			(at 265.43 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -6517,7 +6517,7 @@
 				)
 			)
 		)
-		(property "MPN" "13-RC0402FR-1319K1LCT-ND"
+		(property "MPN" "CRCW040219K1FKED"
 			(at 265.43 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -6880,7 +6880,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-100KJRCT-ND"
+		(property "Digikey" ""
 			(at 265.43 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -6891,7 +6891,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-100KJRCT-ND"
+		(property "MPN" "RCS0402100KFKED"
 			(at 265.43 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -6982,7 +6982,7 @@
 				)
 			)
 		)
-		(property "MPN" "ERJPA2F1002X"
+		(property "MPN" "RCS040210K0FKED"
 			(at 461.01 222.25 90)
 			(hide yes)
 			(show_name no)
@@ -7288,7 +7288,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.0KJRCT-ND"
+		(property "Digikey" ""
 			(at 152.4 233.68 90)
 			(hide yes)
 			(show_name no)
@@ -7299,7 +7299,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-1.0KJRCT-ND"
+		(property "MPN" "RCS04021K00JNED"
 			(at 152.4 233.68 90)
 			(hide yes)
 			(show_name no)
@@ -7359,7 +7359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "A_DFRobot:C_0805_2012Metric"
 			(at 380.6952 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -7392,7 +7392,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM31CC81E226ME11L"
+		(property "MPN" "GRM21BR61E226ME44L"
 			(at 379.73 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -7452,7 +7452,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "A_DFRobot:C_0805_2012Metric"
 			(at 364.1852 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -7485,7 +7485,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM31CC81E226ME11L"
+		(property "MPN" "GRM21BR61E226ME44L"
 			(at 363.22 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -7542,7 +7542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 457.5048 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -7575,7 +7575,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2012X5R1E106K125AB"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 458.47 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8429,7 +8429,7 @@
 				)
 			)
 		)
-		(property "Digikey" "490-GRM155R61H105KE05DCT-ND"
+		(property "Digikey" ""
 			(at 180.34 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -8440,7 +8440,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-GRM155R61H105KE05DCT-ND"
+		(property "MPN" "GRM155R61H105KE05D"
 			(at 180.34 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -8856,7 +8856,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-GRM155R61H105KE05DCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 170.18 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -9060,7 +9060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 477.8248 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -9093,7 +9093,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2012X5R1E106K125AB"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 478.79 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -9960,7 +9960,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.0KJRCT-ND"
+		(property "Digikey" ""
 			(at 304.8 254 90)
 			(hide yes)
 			(show_name no)
@@ -9971,18 +9971,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-1.0KJRCT-ND"
-			(at 304.8 254 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field11" ""
+		(property "MPN" "RCS04021K00JNED"
 			(at 304.8 254 90)
 			(hide yes)
 			(show_name no)
@@ -10029,7 +10018,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 247.65 182.88 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10127,7 +10116,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 248.92 186.69 90)
 			(hide yes)
 			(show_name no)
@@ -11532,7 +11521,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-10KJRCT-ND"
+		(property "Digikey" ""
 			(at 312.42 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -11543,7 +11532,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-10KJRCT-ND"
+		(property "MPN" "RCS040210K0FKED"
 			(at 312.42 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -13085,7 +13074,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0603_1608Metric"
+		(property "Footprint" "A_DFRobot:C_0805_2012Metric"
 			(at 284.7848 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -13162,7 +13151,7 @@
 				)
 			)
 		)
-		(property "Digikey" "490-10476-1-ND"
+		(property "Digikey" ""
 			(at 285.75 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -13173,7 +13162,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-10476-1-ND"
+		(property "MPN" "GRM21BR61E226ME44L"
 			(at 285.75 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -13980,7 +13969,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 467.6648 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -14013,7 +14002,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2012X5R1E106K125AB"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 468.63 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14187,7 +14176,7 @@
 				)
 			)
 		)
-		(property "Description" "ERJ-2RKF1003X"
+		(property "Description" ""
 			(at 351.79 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -14198,7 +14187,7 @@
 				)
 			)
 		)
-		(property "MPN" "ERJ-2RKF1003X"
+		(property "MPN" "RCS0402100KFKED"
 			(at 351.79 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -14508,7 +14497,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 438.4548 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -14541,7 +14530,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2012X5R1E106K125AB"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 439.42 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14780,6 +14769,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 196.85 298.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TPPM0110DWPR"
 			(at 196.85 298.45 0)
 			(hide yes)
 			(show_name no)
@@ -15194,7 +15194,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0603_1608Metric"
+		(property "Footprint" "A_DFRobot:C_0805_2012Metric"
 			(at 279.7048 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -15271,7 +15271,7 @@
 				)
 			)
 		)
-		(property "Digikey" "490-10476-1-ND"
+		(property "Digikey" ""
 			(at 280.67 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -15282,7 +15282,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-10476-1-ND"
+		(property "MPN" "GRM21BR61E226ME44L"
 			(at 280.67 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -15342,7 +15342,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "A_DFRobot:C_0805_2012Metric"
 			(at 380.6952 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -15375,7 +15375,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM31CC81E226ME11L"
+		(property "MPN" "GRM21BR61E226ME44L"
 			(at 379.73 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -15726,7 +15726,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-GRM155R61H105KE05DCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 170.18 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -15783,7 +15783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 447.3448 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -15816,7 +15816,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2012X5R1E106K125AB"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 448.31 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -15963,7 +15963,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-1.0KJRCT-ND"
+		(property "MPN" "RCS04021K00JNED"
 			(at 114.3 233.68 90)
 			(hide yes)
 			(show_name no)
@@ -16235,7 +16235,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 292.1 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16333,7 +16333,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 290.83 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -16393,7 +16393,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "A_DFRobot:C_0805_2012Metric"
 			(at 362.9152 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -16426,7 +16426,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM31CC81E226ME11L"
+		(property "MPN" "GRM21BR61E226ME44L"
 			(at 361.95 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -16518,7 +16518,7 @@
 				)
 			)
 		)
-		(property "Digikey" "490-GRM155R61H105KE05DCT-ND"
+		(property "Digikey" ""
 			(at 180.34 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -16529,7 +16529,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-GRM155R61H105KE05DCT-ND"
+		(property "MPN" "GRM155R61H105KE05D"
 			(at 180.34 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -16845,6 +16845,17 @@
 				)
 			)
 		)
+		(property "MPN" "TPS548A23VANR"
+			(at 412.75 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "08bdfc4b-f38e-40fc-8b40-9a4425746652")
 		)
@@ -17098,7 +17109,7 @@
 				)
 			)
 		)
-		(property "Digikey" "445-14428-1-ND"
+		(property "Digikey" ""
 			(at 191.77 195.58 90)
 			(hide yes)
 			(show_name no)
@@ -17109,7 +17120,7 @@
 				)
 			)
 		)
-		(property "MPN" "445-14428-1-ND"
+		(property "MPN" "GRM21BR61E226ME44L"
 			(at 191.77 195.58 90)
 			(hide yes)
 			(show_name no)
@@ -17245,7 +17256,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-1.0KJRCT-ND"
+		(property "Digikey" ""
 			(at 323.85 237.49 0)
 			(hide yes)
 			(show_name no)
@@ -17256,7 +17267,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-1.0KJRCT-ND"
+		(property "MPN" "RCS04021K00JNED"
 			(at 323.85 237.49 0)
 			(hide yes)
 			(show_name no)

@@ -7670,7 +7670,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 113.03 101.6 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7746,7 +7746,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 106.68 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -8047,7 +8047,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 93.98 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8123,7 +8123,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 92.71 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8418,7 +8418,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 87.63 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8494,7 +8494,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 86.36 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8688,7 +8688,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 113.03 93.98 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8764,7 +8764,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 106.68 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -8811,7 +8811,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 106.68 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8887,7 +8887,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 105.41 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9090,7 +9090,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889342"
+		(property "MPN" "RCS040210K0FKED"
 			(at 129.54 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -9294,7 +9294,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 100.33 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9370,7 +9370,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 99.06 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9655,7 +9655,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 81.28 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9731,7 +9731,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 80.01 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9778,7 +9778,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 114.3 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9865,7 +9865,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 113.03 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -9912,7 +9912,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 101.6 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9999,7 +9999,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 100.33 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -10046,7 +10046,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 220.98 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10122,7 +10122,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 215.9 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -10345,7 +10345,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 106.68 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10421,7 +10421,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 100.33 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -10693,7 +10693,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 106.68 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10769,7 +10769,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 100.33 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10894,7 +10894,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889342"
+		(property "MPN" "RCS040210K0FKED"
 			(at 119.38 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -11020,7 +11020,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 107.95 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11107,7 +11107,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 106.68 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -11854,7 +11854,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 110.7948 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -11898,7 +11898,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+		(property "DF_Comment" ""
 			(at 111.76 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -11909,7 +11909,7 @@
 				)
 			)
 		)
-		(property "SCH_Show_Footprint" "C0402"
+		(property "SCH_Show_Footprint" ""
 			(at 111.76 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -11920,7 +11920,7 @@
 				)
 			)
 		)
-		(property "MPN" "  CC0402MRX5R6BB106"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 111.76 77.47 0)
 			(hide yes)
 			(show_name no)

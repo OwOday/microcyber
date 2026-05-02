@@ -17237,7 +17237,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 410.21 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -17329,7 +17329,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 439.42 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -17500,7 +17500,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 430.53 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -17603,7 +17603,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-470R-1%"
+		(property "DF_Comment" ""
 			(at 143.51 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17625,7 +17625,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889341"
+		(property "MPN" "ERJ-2RKF4700X"
 			(at 143.51 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -17751,7 +17751,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 363.22 19.05 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17827,7 +17827,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 356.87 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -18908,7 +18908,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 469.9 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -19033,7 +19033,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-132K2L"
+		(property "MPN" "RCS04022K20FKED"
 			(at 157.48 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -19238,7 +19238,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 115.57 93.98 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19314,7 +19314,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 109.22 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -19440,7 +19440,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 115.57 73.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19516,7 +19516,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 109.22 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -20932,7 +20932,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-470R-1%"
+		(property "DF_Comment" ""
 			(at 140.97 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -20954,7 +20954,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889341"
+		(property "MPN" "ERJ-2RKF4700X"
 			(at 140.97 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -21329,6 +21329,17 @@
 				)
 			)
 		)
+		(property "MPN" "RCS04022K00FKED"
+			(at 326.39 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ad3558f7-1968-4ca5-bf46-8f580f348050")
 		)
@@ -21410,7 +21421,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 444.5 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -21581,7 +21592,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 424.18 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -22155,7 +22166,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 457.2 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -22280,7 +22291,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-132K2L"
+		(property "MPN" "RCS04022K20FKED"
 			(at 85.09 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -22383,7 +22394,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-470R-1%"
+		(property "DF_Comment" ""
 			(at 124.46 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -22405,7 +22416,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889341"
+		(property "MPN" "ERJ-2RKF4700X"
 			(at 124.46 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -23014,7 +23025,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 485.14 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -23196,7 +23207,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-470R-1%"
+		(property "DF_Comment" ""
 			(at 121.92 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -23218,7 +23229,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889341"
+		(property "MPN" "ERJ-2RKF4700X"
 			(at 121.92 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -23739,7 +23750,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -23955,7 +23966,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 454.66 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -24431,7 +24442,7 @@
 				)
 			)
 		)
-		(property "MPN" "https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF"
+		(property "MPN" "0402ESDA-05N"
 			(at 148.59 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -24557,7 +24568,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 115.57 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24633,7 +24644,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 109.22 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -24736,7 +24747,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-470R-1%"
+		(property "DF_Comment" ""
 			(at 130.81 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -24758,7 +24769,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889341"
+		(property "MPN" "ERJ-2RKF4700X"
 			(at 130.81 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -25276,7 +25287,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 115.57 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25352,7 +25363,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 109.22 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -25905,7 +25916,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-470R-1%"
+		(property "DF_Comment" ""
 			(at 134.62 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -25927,7 +25938,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889341"
+		(property "MPN" "ERJ-2RKF4700X"
 			(at 134.62 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -26052,7 +26063,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-132K2L"
+		(property "MPN" "RCS04022K20FKED"
 			(at 138.43 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -26353,7 +26364,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 115.57 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26429,7 +26440,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 109.22 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -26795,7 +26806,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-470R-1%"
+		(property "DF_Comment" ""
 			(at 137.16 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -26817,7 +26828,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889341"
+		(property "MPN" "ERJ-2RKF4700X"
 			(at 137.16 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -27021,7 +27032,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-132K2L"
+		(property "MPN" "RCS04022K20FKED"
 			(at 74.93 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -27223,7 +27234,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 115.57 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27299,7 +27310,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 109.22 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -28248,7 +28259,7 @@
 				)
 			)
 		)
-		(property "MPN" "RMCF0402FT1K00"
+		(property "MPN" "RCS04021K00JNED"
 			(at 130.81 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -28669,6 +28680,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 318.77 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RCS04022K00FKED"
 			(at 318.77 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -30084,7 +30106,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 468.63 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -30301,7 +30323,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 416.56 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -31363,7 +31385,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电阻0402-470R-1%"
+		(property "DF_Comment" ""
 			(at 128.27 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -31385,7 +31407,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889341"
+		(property "MPN" "ERJ-2RKF4700X"
 			(at 128.27 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -31646,7 +31668,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 472.44 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -32687,6 +32709,17 @@
 				)
 			)
 		)
+		(property "MPN" "  0467651001"
+			(at 354.33 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "SH"
 			(uuid "f2585d58-ace9-4f58-8253-992a0c0b8237")
 		)
@@ -33060,18 +33093,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
-			(at 400.05 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Field6" ""
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 400.05 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -33118,7 +33140,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 115.57 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33194,7 +33216,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 109.22 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -33638,7 +33660,7 @@
 				)
 			)
 		)
-		(property "MPN" "TMK105BJ104KV-F"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 483.87 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -33854,7 +33876,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 115.57 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33930,7 +33952,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 109.22 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -34305,7 +34327,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-132K2L"
+		(property "MPN" "RCS04022K20FKED"
 			(at 148.59 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -34511,7 +34533,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C7472508"
 			(at 351.79 25.4 0)
 			(hide yes)
 			(show_name no)

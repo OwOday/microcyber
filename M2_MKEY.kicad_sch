@@ -3259,7 +3259,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0402C104J4RECAUTO"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 134.62 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -3462,7 +3462,7 @@
 				)
 			)
 		)
-		(property "MPN" "560112110087"
+		(property "MPN" "RCS04022K20FKED"
 			(at 166.37 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -4134,7 +4134,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 130.81 40.3352 0)
 			(hide yes)
 			(show_name no)
@@ -4189,7 +4189,7 @@
 				)
 			)
 		)
-		(property "SCH_Show_Footprint" "C0402"
+		(property "SCH_Show_Footprint" ""
 			(at 134.62 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -4200,7 +4200,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLASL168BB5106MTNB33"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 134.62 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5289,7 +5289,7 @@
 				)
 			)
 		)
-		(property "MPN" "C0402C104J4RECAUTO"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 134.62 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -5346,7 +5346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 130.81 27.6352 0)
 			(hide yes)
 			(show_name no)
@@ -5412,7 +5412,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLASL168BB5106MTNB33"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 134.62 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5740,7 +5740,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889341"
+		(property "MPN" "MCS0402HZ0000ZE100"
 			(at 163.83 128.27 0)
 			(hide yes)
 			(show_name no)

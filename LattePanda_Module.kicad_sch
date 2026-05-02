@@ -9512,7 +9512,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_DFRobot:R_0603_1608Metric"
+		(property "Footprint" "A_DFRobot:R_0402"
 			(at 233.68 289.052 90)
 			(hide yes)
 			(show_name no)
@@ -9556,7 +9556,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "0603贴片自恢复保险丝0.05A-6V_0603L005-6AR"
+		(property "DF_Comment" ""
 			(at 233.68 290.83 0)
 			(hide yes)
 			(show_name no)
@@ -9578,7 +9578,7 @@
 				)
 			)
 		)
-		(property "SCH_Show_Footprint" "R0805"
+		(property "SCH_Show_Footprint" ""
 			(at 233.68 290.83 0)
 			(hide yes)
 			(show_name no)
@@ -9589,7 +9589,7 @@
 				)
 			)
 		)
-		(property "MPN" "0603L005/6AR"
+		(property "MPN" "RCS0402100KFKED"
 			(at 233.68 290.83 90)
 			(hide yes)
 			(show_name no)
@@ -9609,6 +9609,10 @@
 		(instances
 			(project "microcyber"
 				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/64b35e3f-e07a-4023-bcd4-186bab824450"
+					(reference "R1")
+					(unit 1)
+				)
+				(path "/7ac319af-771c-4997-a005-b73a4a9b44ab/bf9d2aec-36d6-402d-b3de-6cf70c51ac31"
 					(reference "R1")
 					(unit 1)
 				)
@@ -10749,7 +10753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_DFRobot:R_0603_1608Metric"
+		(property "Footprint" "A_DFRobot:R_0402"
 			(at 298.45 52.832 90)
 			(hide yes)
 			(show_name no)
@@ -10782,7 +10786,7 @@
 				)
 			)
 		)
-		(property "Buy_Link" "https://item.szlcsc.com/8530937.html"
+		(property "Buy_Link" ""
 			(at 298.45 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -10793,7 +10797,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "0603贴片自恢复保险丝0.05A-6V_0603L005-6AR"
+		(property "DF_Comment" ""
 			(at 298.45 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -10815,7 +10819,7 @@
 				)
 			)
 		)
-		(property "SCH_Show_Footprint" "R0805"
+		(property "SCH_Show_Footprint" ""
 			(at 298.45 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -10826,7 +10830,7 @@
 				)
 			)
 		)
-		(property "MPN" "0603L005/6AR"
+		(property "MPN" "RCS04021K00JNED"
 			(at 298.45 54.61 90)
 			(hide yes)
 			(show_name no)

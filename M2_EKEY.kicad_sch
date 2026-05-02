@@ -4709,7 +4709,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "u1"
 			(at 229.87 171.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4741,7 +4741,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "16v"
 			(at 223.52 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -4763,7 +4763,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-100nF-16V-X7R(0402)"
+		(property "DF_Comment" ""
 			(at 223.52 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -4785,7 +4785,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 223.52 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5036,7 +5036,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "u1"
 			(at 294.64 25.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5090,7 +5090,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-100nF-16V-X7R(0402)"
+		(property "DF_Comment" ""
 			(at 288.29 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5112,7 +5112,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 288.29 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5159,7 +5159,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "u1"
 			(at 294.64 38.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5213,7 +5213,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-100nF-16V-X7R(0402)"
+		(property "DF_Comment" ""
 			(at 288.29 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5235,7 +5235,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 288.29 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5526,7 +5526,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 284.48 21.2852 0)
 			(hide yes)
 			(show_name no)
@@ -5570,7 +5570,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+		(property "DF_Comment" ""
 			(at 288.29 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -5581,7 +5581,7 @@
 				)
 			)
 		)
-		(property "SCH_Show_Footprint" "C0402"
+		(property "SCH_Show_Footprint" ""
 			(at 288.29 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -5592,7 +5592,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLASL168BB5106MTNB33"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 288.29 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -5649,7 +5649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 138.43 27.6352 0)
 			(hide yes)
 			(show_name no)
@@ -5693,7 +5693,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+		(property "DF_Comment" ""
 			(at 142.24 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5704,7 +5704,7 @@
 				)
 			)
 		)
-		(property "SCH_Show_Footprint" "C0402"
+		(property "SCH_Show_Footprint" ""
 			(at 142.24 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5715,7 +5715,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLASL168BB5106MTNB33"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 142.24 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -5840,7 +5840,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889341"
+		(property "MPN" "MCS0402HZ0000ZE100"
 			(at 322.58 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -6044,7 +6044,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "u1"
 			(at 229.87 158.75 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6098,7 +6098,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-100nF-16V-X7R(0402)"
+		(property "DF_Comment" ""
 			(at 223.52 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -6120,7 +6120,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 223.52 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -6797,7 +6797,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-1310KL"
+		(property "MPN" "RCS040210K0FKED"
 			(at 323.85 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -7126,7 +7126,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "APCI0108-P001A"
 			(at 281.94 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -7452,7 +7452,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889341"
+		(property "MPN" "MCS0402HZ0000ZE100"
 			(at 176.53 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -7509,7 +7509,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 219.71 154.6352 0)
 			(hide yes)
 			(show_name no)
@@ -7553,7 +7553,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+		(property "DF_Comment" ""
 			(at 223.52 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -7564,7 +7564,7 @@
 				)
 			)
 		)
-		(property "SCH_Show_Footprint" "C0402"
+		(property "SCH_Show_Footprint" ""
 			(at 223.52 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -7575,7 +7575,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLASL168BB5106MTNB33"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 223.52 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -7700,7 +7700,7 @@
 				)
 			)
 		)
-		(property "MPN" "C2889341"
+		(property "MPN" "MCS0402HZ0000ZE100"
 			(at 257.81 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -7825,7 +7825,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-1310KL"
+		(property "MPN" "RCS040210K0FKED"
 			(at 177.8 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -7950,7 +7950,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-1310KL"
+		(property "MPN" "RCS040210K0FKED"
 			(at 259.08 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -8076,7 +8076,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "APCI0108-P001A"
 			(at 217.17 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -9236,7 +9236,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-1310KL"
+		(property "MPN" "RCS040210K0FKED"
 			(at 262.89 203.2 0)
 			(hide yes)
 			(show_name no)
@@ -9439,7 +9439,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-1310KL"
+		(property "MPN" "RCS040210K0FKED"
 			(at 327.66 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -10205,7 +10205,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "APCI0108-P001A"
 			(at 135.89 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -10687,7 +10687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 138.43 40.3352 0)
 			(hide yes)
 			(show_name no)
@@ -10731,7 +10731,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+		(property "DF_Comment" ""
 			(at 142.24 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10742,7 +10742,7 @@
 				)
 			)
 		)
-		(property "SCH_Show_Footprint" "C0402"
+		(property "SCH_Show_Footprint" ""
 			(at 142.24 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10753,7 +10753,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLASL168BB5106MTNB33"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 142.24 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10801,7 +10801,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "u1"
 			(at 135.89 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10855,7 +10855,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-100nF-16V-X7R(0402)"
+		(property "DF_Comment" ""
 			(at 142.24 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -10877,7 +10877,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 142.24 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -11215,7 +11215,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 284.48 33.9852 0)
 			(hide yes)
 			(show_name no)
@@ -11259,7 +11259,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+		(property "DF_Comment" ""
 			(at 288.29 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -11270,7 +11270,7 @@
 				)
 			)
 		)
-		(property "SCH_Show_Footprint" "C0402"
+		(property "SCH_Show_Footprint" ""
 			(at 288.29 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -11281,7 +11281,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLASL168BB5106MTNB33"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 288.29 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -11531,7 +11531,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF/16V"
+		(property "Value" "u1"
 			(at 148.59 31.75 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11607,7 +11607,7 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 142.24 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -11732,7 +11732,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-1310KL"
+		(property "MPN" "RCS040210K0FKED"
 			(at 181.61 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -11789,7 +11789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
+		(property "Footprint" "A_DFRobot:C_0603"
 			(at 219.71 167.3352 0)
 			(hide yes)
 			(show_name no)
@@ -11833,7 +11833,7 @@
 				)
 			)
 		)
-		(property "DF_Comment" "贴片电容0402-10UF-10V-X5R_GRM155R61A106ME44D"
+		(property "DF_Comment" ""
 			(at 223.52 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -11844,7 +11844,7 @@
 				)
 			)
 		)
-		(property "SCH_Show_Footprint" "C0402"
+		(property "SCH_Show_Footprint" ""
 			(at 223.52 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -11855,7 +11855,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLASL168BB5106MTNB33"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 223.52 166.37 0)
 			(hide yes)
 			(show_name no)

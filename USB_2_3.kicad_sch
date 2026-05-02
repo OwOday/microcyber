@@ -12299,7 +12299,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-5942-1-ND"
+		(property "MPN" "C0402C470J5GACTU"
 			(at 403.86 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -13445,7 +13445,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-100KJRCT-ND"
+		(property "Digikey" ""
 			(at 643.89 215.9 90)
 			(hide yes)
 			(show_name no)
@@ -13456,7 +13456,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-100KJRCT-ND"
+		(property "MPN" "RCS0402100KFKED"
 			(at 643.89 215.9 90)
 			(hide yes)
 			(show_name no)
@@ -13583,7 +13583,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 346.71 207.0099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13638,7 +13638,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 350.52 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -14038,7 +14038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0603_1608Metric"
+		(property "Footprint" "A_DFRobot:C_0805_2012Metric"
 			(at 184.1787 25.7048 0)
 			(hide yes)
 			(show_name no)
@@ -14104,7 +14104,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLASL168BB5226MTNA01"
+		(property "MPN" "GRM21BR61E226ME44L"
 			(at 180.3687 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -14274,7 +14274,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-10KJRCT-ND"
+		(property "Digikey" ""
 			(at 389.89 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -14285,7 +14285,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-10KJRCT-ND"
+		(property "MPN" "RCS040210K0FKED"
 			(at 389.89 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -14833,7 +14833,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 657.86 208.28 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14887,7 +14887,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 657.86 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -15548,7 +15548,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-GRM155R61H224KE01DCT-ND"
+		(property "MPN" "GCM155R71C224KE02D"
 			(at 417.83 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -15753,7 +15753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0603_1608Metric"
+		(property "Footprint" "A_DFRobot:C_0805_2012Metric"
 			(at 184.15 231.4448 0)
 			(hide yes)
 			(show_name no)
@@ -15819,7 +15819,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLASL168BB5226MTNA01"
+		(property "MPN" "GRM21BR61E226ME44L"
 			(at 180.34 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -16509,7 +16509,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-100KJRCT-ND"
+		(property "Digikey" ""
 			(at 402.59 284.48 90)
 			(hide yes)
 			(show_name no)
@@ -16520,7 +16520,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-100KJRCT-ND"
+		(property "MPN" "RCS040210K0FKED"
 			(at 402.59 284.48 90)
 			(hide yes)
 			(show_name no)
@@ -16701,7 +16701,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-5942-1-ND"
+		(property "MPN" "C0402C470J5GACTU"
 			(at 678.18 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -18042,7 +18042,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 149.86 251.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18118,7 +18118,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 143.51 252.73 0)
 			(hide yes)
 			(show_name no)
@@ -18855,7 +18855,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-5942-1-ND"
+		(property "MPN" "C0402C470J5GACTU"
 			(at 410.21 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -18958,7 +18958,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-5942-1-ND"
+		(property "MPN" "C0402C470J5GACTU"
 			(at 687.07 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -19625,7 +19625,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-100KJRCT-ND"
+		(property "Digikey" ""
 			(at 392.43 250.19 90)
 			(hide yes)
 			(show_name no)
@@ -19636,7 +19636,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-100KJRCT-ND"
+		(property "MPN" "RCS0402100KFKED"
 			(at 392.43 250.19 90)
 			(hide yes)
 			(show_name no)
@@ -19896,7 +19896,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-100KJRCT-ND"
+		(property "MPN" "RCS0402100KFKED"
 			(at 504.19 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -20739,7 +20739,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-100KJRCT-ND"
+		(property "Digikey" ""
 			(at 370.84 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -20750,7 +20750,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-100KJRCT-ND"
+		(property "MPN" "RCS0402100KFKED"
 			(at 370.84 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -21115,7 +21115,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-10KJRCT-ND"
+		(property "Digikey" ""
 			(at 387.35 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -21126,7 +21126,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-10KJRCT-ND"
+		(property "MPN" "RCS040210K0FKED"
 			(at 387.35 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -21305,7 +21305,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-GRM155R61H224KE01DCT-ND"
+		(property "MPN" "GCM155R71C224KE02D"
 			(at 417.83 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -22097,7 +22097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0402_1005Metric"
+		(property "Footprint" "A_DFRobot:C_0805_2012Metric"
 			(at 513.3848 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -22130,7 +22130,7 @@
 				)
 			)
 		)
-		(property "Digikey" "490-10476-1-ND"
+		(property "Digikey" ""
 			(at 514.35 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -22141,7 +22141,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-10476-1-ND"
+		(property "MPN" "GRM21BR61H475KE51L"
 			(at 514.35 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -22189,7 +22189,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 657.86 194.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22243,7 +22243,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 657.86 199.39 90)
 			(hide yes)
 			(show_name no)
@@ -22344,7 +22344,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-GRM155R61H224KE01DCT-ND"
+		(property "MPN" "GCM155R71C224KE02D"
 			(at 417.83 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -22969,7 +22969,7 @@
 				)
 			)
 		)
-		(property "MPN" "490-GRM155R61H224KE01DCT-ND"
+		(property "MPN" "GCM155R71C224KE02D"
 			(at 417.83 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -23140,7 +23140,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-100KJRCT-ND"
+		(property "Digikey" ""
 			(at 374.65 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -23151,7 +23151,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-100KJRCT-ND"
+		(property "MPN" "RCS0402100KFKED"
 			(at 374.65 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -23367,7 +23367,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 149.86 254 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23443,7 +23443,7 @@
 				)
 			)
 		)
-		(property "MPN" "0402B104K160NT"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 143.51 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -23624,7 +23624,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLASL168BB5106MTNB33"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 523.24 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -24542,7 +24542,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "u1"
 			(at 385.826 45.466 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24596,7 +24596,7 @@
 				)
 			)
 		)
-		(property "MPN" "478-KGM05CR71H104KHCT-ND"
+		(property "MPN" "C1005X7R1H104K050BE"
 			(at 378.46 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -24698,7 +24698,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLASL168BB5106MTNB33"
+		(property "MPN" "GRM188R61E106KA73D"
 			(at 499.11 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -25431,7 +25431,7 @@
 				)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:C_0603_1608Metric"
+		(property "Footprint" "A_DFRobot:C_0805_2012Metric"
 			(at 472.44 193.3448 0)
 			(hide yes)
 			(show_name no)
@@ -25453,7 +25453,7 @@
 				)
 			)
 		)
-		(property "Description" "10v"
+		(property "Description" ""
 			(at 476.25 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -25464,7 +25464,7 @@
 				)
 			)
 		)
-		(property "Digikey" "MLASL168BB5226MTNA01"
+		(property "Digikey" ""
 			(at 476.25 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -25475,7 +25475,7 @@
 				)
 			)
 		)
-		(property "MPN" "MLASL168BB5226MTNA01"
+		(property "MPN" "GRM21BR61E226ME44L"
 			(at 476.25 194.31 90)
 			(hide yes)
 			(show_name no)
@@ -27194,7 +27194,7 @@
 				)
 			)
 		)
-		(property "Digikey" "311-100KJRCT-ND"
+		(property "Digikey" ""
 			(at 643.89 219.71 90)
 			(hide yes)
 			(show_name no)
@@ -27205,7 +27205,7 @@
 				)
 			)
 		)
-		(property "MPN" "311-100KJRCT-ND"
+		(property "MPN" "RCS0402100KFKED"
 			(at 643.89 219.71 90)
 			(hide yes)
 			(show_name no)
