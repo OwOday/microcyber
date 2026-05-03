@@ -11746,7 +11746,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_IDC:IDC-Header_2x10_P2.54mm_Vertical"
+		(property "Footprint" "Connector_IDC:IDC-Header_2x10_P2.54mm_Horizontal"
 			(at 209.55 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -23009,7 +23009,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SP3012-06UTG"
+		(property "Value" "TPD6E05U06RVZR"
 			(at 220.4212 27.178 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23032,7 +23032,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3012_datasheet.pdf.pdf"
+		(property "Datasheet" ""
 			(at 194.945 26.035 0)
 			(hide yes)
 			(show_name no)
@@ -23065,7 +23065,7 @@
 				)
 			)
 		)
-		(property "MPN" "SP3012-06UTG"
+		(property "MPN" "TPD6E05U06RVZR"
 			(at 203.2 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -23076,7 +23076,7 @@
 				)
 			)
 		)
-		(property "Mfg" "Littlefuse"
+		(property "Mfg" ""
 			(at 203.2 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -23160,7 +23160,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SP3012-06UTG"
+		(property "Value" "TPD6E05U06RVZR"
 			(at 134.62 27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23183,7 +23183,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3012_datasheet.pdf.pdf"
+		(property "Datasheet" ""
 			(at 159.385 26.035 0)
 			(hide yes)
 			(show_name no)
@@ -23205,7 +23205,7 @@
 				)
 			)
 		)
-		(property "1b2-bom-key" "diode-14udfn-sp3012-06utg"
+		(property "1b2-bom-key" ""
 			(at 167.64 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -23216,7 +23216,7 @@
 				)
 			)
 		)
-		(property "MPN" "SP3012-06UTG"
+		(property "MPN" "TPD6E05U06RVZR"
 			(at 167.64 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -23227,7 +23227,7 @@
 				)
 			)
 		)
-		(property "Mfg" "Littlefuse"
+		(property "Mfg" ""
 			(at 167.64 25.4 0)
 			(hide yes)
 			(show_name no)
