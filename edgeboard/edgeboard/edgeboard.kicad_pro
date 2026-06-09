@@ -653,7 +653,7 @@
         "uuid": "18a208db-af29-4786-a522-fcab8fd6af64"
       }
     ],
-    "used_designators": "TH601,JP601,SW1-23,C501-535,C601-625,U501-511,U601-602,TP601-607,BT1-2,BT601-603,R501-514,R601-628,L601,#FLG501,#FLG601-604,Q601-607,D501-525,D601,#PWR501-552,#PWR601-625,J1,J501-502,J601",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
